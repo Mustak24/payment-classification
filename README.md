@@ -22,8 +22,6 @@ sms_classifier/
 │   └── unknown.txt    ← One message per line for UNKNOWN class
 ├── models/            ← Saved model artifacts (auto-created after training)
 ├── logs/              ← Training logs + plots (auto-created)
-└── tests/
-    └── test_classifier.py
 ```
 
 ---
@@ -32,7 +30,7 @@ sms_classifier/
 
 ### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
+uv sync
 ```
 
 ### 2. Add your training data
@@ -45,7 +43,7 @@ Put your messages (one per line) in the `data/` folder:
 
 ### 3. Train the model
 ```bash
-python train.py
+uv run train.py
 ```
 This will:
 - Clean and vectorize your text
@@ -56,17 +54,12 @@ This will:
 
 ### 4. Test predictions (CLI)
 ```bash
-python predict.py "message text here"
+uv run predict.py "message text here"
 ```
 
 ### 5. Start the REST API
 ```bash
-uvicorn api:app --host 0.0.0.0 --port 8000
-```
-
-### 6. Run tests
-```bash
-pytest tests/ -v
+uv run uvicorn api:app --host 0.0.0.0 --port 8000
 ```
 
 ---
