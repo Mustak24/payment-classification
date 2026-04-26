@@ -179,11 +179,7 @@ if __name__ == "__main__":
     clf = get_classifier()
 
     test_messages = sys.argv[1:] if len(sys.argv) > 1 else [
-        "Congratulations! You've won a free ticket. Call now!",
-        "Hey, are we still on for dinner tonight?",
-        "URGENT: Your account has been compromised. Reset your password immediately.",
-        "Can you send me the report by EOD?",
-        "Win a brand new car by entering our sweepstakes! Click here.",
+        """"X89 your account has been credited Rs5000. of Proceed to withdraw during available times. Lots redeeming! bit.ly/3Qfe4sl JwelryGarmentsAcesrynMore"""
     ]
 
     print("\n" + "=" * 65)

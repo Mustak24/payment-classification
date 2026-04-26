@@ -1,0 +1,9 @@
+source_file,label,text,predicted_class,confidence,is_uncertain,correct
+credit.txt,CREDIT,TOHID KHAN paid you ₹1.00 Tap to view,CREDIT,1.0,False,True
+credit.txt,CREDIT,Money received VAHEED KHAN has sent ₹1 to your bank account,CREDIT,1.0,False,True
+credit.txt,CREDIT,TOHID KHAN paid you ₹1.00,CREDIT,1.0,False,True
+credit.txt,CREDIT,You’ve got ₹1 from MUSTAK KHAN in your slice bank a/c xx8866. Avl. Bal. ₹196.01,CREDIT,0.9999,False,True
+debit.txt,DEBIT,BHIM UPI: Rs 17683.42 paid to VPA vendor5882@ibl and debited from A/c XX7926 on 15/07/2026 18:42. RRN 430000020286.,DEBIT,1.0,False,True
+unknow.txt,UNKNOWN,"Update for Mobile 9001036132 : You're pre-approved for a loan from Airtel Finance for up to Rs. 9,00,000. Get now https://i.airtel.in/LOAN10",UNKNOWN,1.0,False,True
+unknow.txt,UNKNOWN,Overdue Rs.502 is outstanding on 2026-04-09 for loan ac P5E5PRD81083588. Visit nearest BFL branch,UNKNOWN,1.0,False,True
+unknow.txt,UNKNOWN,X89 your account has been credited Rs5000. of Proceed to withdraw during available times. Lots redeeming! bit.ly/3Qfe4sl JwelryGarmentsAcesrynMore,UNKNOWN,0.9968,False,True

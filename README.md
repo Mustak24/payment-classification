@@ -57,6 +57,44 @@ This will:
 uv run predict.py "message text here"
 ```
 
+### 4.1 Run model test suite (recommended)
+Use the labeled files under `test/data/` to run an end-to-end evaluation
+against the saved model artifacts.
+
+```bash
+uv run test/run_model_test.py
+```
+
+This script:
+- Loads labeled test messages from `test/data/credit.txt`, `test/data/debit.txt`, and `test/data/unknow.txt` (or `unknown.txt`)
+- Runs batch prediction with the current trained model
+- Calculates overall accuracy and per-label accuracy
+- Writes result files into `test/log/`
+
+Generated test outputs:
+- `test/log/model_test_predictions.csv` (row-wise predictions)
+- `test/log/model_test_summary.json` (accuracy + metadata summary)
+- `test/log/model_test_confusion_matrix.png` (confusion matrix image)
+
+Example output:
+```text
+Model test complete
+Input dir : /home/.../test/data
+Output dir: /home/.../test/log
+Accuracy  : 100.00%
+Uncertain : 0 / 8
+CSV log   : /home/.../test/log/model_test_predictions.csv
+JSON log  : /home/.../test/log/model_test_summary.json
+Matrix    : /home/.../test/log/model_test_confusion_matrix.png
+```
+
+Optional: test custom input/output directories
+```bash
+uv run test/run_model_test.py \
+  --input-dir test/data \
+  --output-dir test/log
+```
+
 ### 5. Start the REST API
 ```bash
 uv run uvicorn api:app --host 0.0.0.0 --port 8000
