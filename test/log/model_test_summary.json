@@ -1,20 +1,20 @@
 {
   "input_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/data",
   "output_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/log",
-  "total_samples": 8,
-  "correct_predictions": 8,
-  "accuracy": 1.0,
-  "uncertain_predictions": 0,
-  "uncertain_rate": 0.0,
+  "total_samples": 150,
+  "correct_predictions": 141,
+  "accuracy": 0.94,
+  "uncertain_predictions": 8,
+  "uncertain_rate": 0.0533,
   "per_label_accuracy": {
-    "CREDIT": 1.0,
+    "CREDIT": 0.96,
     "DEBIT": 1.0,
-    "UNKNOWN": 1.0
+    "UNKNOWN": 0.86
   },
   "per_label_totals": {
-    "CREDIT": 4,
-    "DEBIT": 1,
-    "UNKNOWN": 3
+    "CREDIT": 50,
+    "DEBIT": 50,
+    "UNKNOWN": 50
   },
   "confusion_matrix_path": "/home/mustak24/Documents/Coding/Python/classification-model/test/log/model_test_confusion_matrix.png",
   "classes": [
@@ -23,28 +23,28 @@
     "UNKNOWN"
   ],
   "metadata": {
-    "trained_at": "2026-04-26T06:07:57.059354Z",
+    "trained_at": "2026-04-26T06:32:57.394196Z",
     "classes": [
       "CREDIT",
       "DEBIT",
       "UNKNOWN"
     ],
-    "n_train": 3056,
-    "n_test": 764,
+    "n_train": 3072,
+    "n_test": 768,
     "best_params": {
       "clf__alpha": 0.01
     },
-    "cv_f1_macro": 0.9997,
-    "test_accuracy": 1.0,
-    "test_f1_macro": 1.0,
-    "vocabulary_size": 1314,
+    "cv_f1_macro": 0.9974,
+    "test_accuracy": 0.9987,
+    "test_f1_macro": 0.9987,
+    "vocabulary_size": 1315,
     "confidence_threshold": 0.6,
     "per_class_metrics": {
       "CREDIT": {
-        "precision": 1.0,
+        "precision": 0.9959,
         "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 243.0
+        "f1-score": 0.998,
+        "support": 244.0
       },
       "DEBIT": {
         "precision": 1.0,
@@ -54,9 +54,9 @@
       },
       "UNKNOWN": {
         "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 281.0
+        "recall": 0.9965,
+        "f1-score": 0.9982,
+        "support": 284.0
       }
     }
   }

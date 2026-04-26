@@ -1213,3 +1213,7 @@ You have got Rs 89 from Zoya Khan in your bank a/c xx1122. Avl. Bal. Rs 5000.44.
 Payout received: Rs 327.45 credited to your account from merchant settlement.
 UPI alert: Ramesh paid you Rs 64.00. Amount credited to account ending XX7007.
 Anita paid you Rs 450.00 to your UPI ID. Credit posted to bank account XX1234.
+Salary of Rs.45,000 has been credited.
+Rs.1,200 added to your wallet.
+Rs.300 cashback credited.
+Rs.250 cashback credited.

@@ -1,3 +1,50 @@
-Update for Mobile 9001036132 : You're pre-approved for a loan from Airtel Finance for up to Rs. 9,00,000. Get now https://i.airtel.in/LOAN10
-Overdue Rs.502 is outstanding on 2026-04-09 for loan ac P5E5PRD81083588. Visit nearest BFL branch
-X89 your account has been credited Rs5000. of Proceed to withdraw during available times. Lots redeeming! bit.ly/3Qfe4sl JwelryGarmentsAcesrynMore
+Your transaction is being processed.
+Please verify your recent activity.
+A request has been initiated on your account.
+Your payment is under review.
+Transaction status is pending.
+Alert: unusual activity detected.
+Please confirm your transaction.
+Your request is successfully submitted.
+Processing your recent request.
+Action required for your account.
+Your OTP is 456789.
+Verification code sent to your number.
+Session expired. Please login again.
+New login detected on your account.
+Your request could not be completed.
+System maintenance in progress.
+Please update your KYC details.
+Your account statement is ready.
+Password changed successfully.
+Your profile has been updated.
+Alert: login attempt detected.
+Please reset your password.
+Transaction failed. Try again.
+Request timed out.
+Your account is temporarily locked.
+Security alert issued.
+Please contact support.
+Your request is queued.
+Verification pending.
+Transaction cancelled.
+New device registered.
+Your account is active.
+Update your mobile number.
+Service temporarily unavailable.
+Please try after some time.
+Your request is approved.
+Action completed successfully.
+Authentication required.
+Your data is सुरक्षित (secure).
+System generated message.
+Your session is active.
+Access granted.
+Access denied.
+Please enter correct details.
+Notification: update available.
+Request declined.
+Processing delay expected.
+Check your inbox for details.
+Request acknowledged.
+Your action is recorded.
