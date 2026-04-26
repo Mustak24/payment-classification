@@ -1,0 +1,1200 @@
+HDFC Bank: Rs 84.31 spent on UPI transfer to user2001@okhdfcbank from account ending 0043. UTR UTR64000000059.
+ICICI Notification: Debit of Rs 163.62 for Swiggy payment from A/c XX0086. Txn TXN210000034. Balance Rs 2194.58.
+Axis Bank SMS: Card purchase of Rs 242.93 at Amazon has been debited from account XX0129. RRN 430000000069.
+Kotak Bank: Rs 321.24 debited for electricity bill via BBPS from account ending 0172. Ref 810000000188.
+PNB Alert: INR 400.55 withdrawn from ATM linked to A/c XX0215 on 06/06/2026 01:55. Txn ID TXN210000085. Bal INR 2485.45.
+Bank of Baroda: Rs 479.86 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0258. UTR UTR64000000354.
+Canara Bank: Fastag recharge of Rs 558.17 debited from A/c XX0301. Reference 810000000329. Available balance Rs 2679.03.
+IDFC FIRST Bank Alert: Rs 637.48 auto-debited for Netflix subscription from account ending 0344. RRN 430000000184.
+IndusInd Bank: EMI installment of Rs 716.79 debited from A/c XX0387. Txn TXN210000153. Current balance Rs 2873.61.
+Federal Bank: INR 795.10 sent via NEFT to beneficiary Akash Verma from account XX0430. UTR UTR64000000590.
+Yes Bank: Rs 874.41 debited for IRCTC ticket booking from account ending 0473. Ref 810000000517.
+Union Bank Alert: You paid Rs 953.72 to merchant3012@ybl using UPI. Debited from A/c XX0516. Txn TXN210000204.
+Indian Bank: Debit of Rs 1032.03 for POS transaction at Reliance Fresh from A/c XX0559. RRN 430000000299.
+AU SFB: Rs 1111.34 deducted as annual debit card fee from account ending 0602. Ref 810000000658. Bal Rs 3358.06.
+PhonePe: Payment of Rs 1190.65 to Zomato successful. Amount debited from linked bank account XX0645. UPI Ref 810000000705.
+Google Pay alert: Rs 1269.96 transferred to user4016@oksbi. Debited from account ending 0688 at SBI. Txn TXN210000272.
+Paytm: Mobile recharge of Rs 1348.27 completed. Debit posted to bank account XX0731. Ref 810000000799.
+BHIM UPI: Rs 1427.58 paid to VPA vendor5018@ibl and debited from A/c XX0774 on 19/07/2026 18:18. RRN 430000000414.
+Amazon Pay: Rs 1506.89 debited for order payment from account ending 0817. Txn ID TXN210000323. Balance Rs 3843.51.
+CRED: Credit card bill payment of Rs 1585.20 debited from bank account XX0860 via UPI. Ref 810000000940.
+MobiKwik: Wallet top-up of Rs 1664.51 processed; amount debited from account ending 0903. UTR UTR64000001239.
+BharatPe: Settlement adjustment debit of Rs 1743.82 posted to account XX0946. Reference 810000001034. Avl Bal Rs 4134.38.
+Jupiter app: Rs 1822.13 debited for SIP auto-pay from account ending 0989 at 24/12/2026 19:13. Txn TXN210000391.
+SBI Alert: INR 1901.44 debited from A/c XX1032 via UPI to merchant1024@upi on 25/01/2026 00:24. Ref 810000001128. Avl Bal INR 4328.96.
+HDFC Bank: Rs 1980.75 spent on UPI transfer to user2025@okhdfcbank from account ending 1075. UTR UTR64000001475.
+ICICI Notification: Debit of Rs 2059.06 for Swiggy payment from A/c XX1118. Txn TXN210000442. Balance Rs 4522.54.
+Axis Bank SMS: Card purchase of Rs 2138.37 at Amazon has been debited from account XX1161. RRN 430000000621.
+Kotak Bank: Rs 2217.68 debited for electricity bill via BBPS from account ending 1204. Ref 810000001316.
+PNB Alert: INR 2296.99 withdrawn from ATM linked to A/c XX1247 on 02/06/2026 01:19. Txn ID TXN210000493. Bal INR 4813.41.
+Bank of Baroda: Rs 2375.30 debited due to IMPS transfer to beneficiary Riya Sharma from account XX1290. UTR UTR64000001770.
+Canara Bank: Fastag recharge of Rs 2454.61 debited from A/c XX1333. Reference 810000001457. Available balance Rs 5007.99.
+IDFC FIRST Bank Alert: Rs 2533.92 auto-debited for Netflix subscription from account ending 1376. RRN 430000000736.
+IndusInd Bank: EMI installment of Rs 2612.23 debited from A/c XX1419. Txn TXN210000561. Current balance Rs 5201.57.
+Federal Bank: INR 2691.54 sent via NEFT to beneficiary Akash Verma from account XX1462. UTR UTR64000002006.
+Yes Bank: Rs 2770.85 debited for IRCTC ticket booking from account ending 1505. Ref 810000001645.
+Union Bank Alert: You paid Rs 2849.16 to merchant3036@ybl using UPI. Debited from A/c XX1548. Txn TXN210000612.
+Indian Bank: Debit of Rs 2928.47 for POS transaction at Reliance Fresh from A/c XX1591. RRN 430000000851.
+AU SFB: Rs 3007.78 deducted as annual debit card fee from account ending 1634. Ref 810000001786. Bal Rs 5686.02.
+PhonePe: Payment of Rs 3086.09 to Zomato successful. Amount debited from linked bank account XX1677. UPI Ref 810000001833.
+Google Pay alert: Rs 3165.40 transferred to user4040@oksbi. Debited from account ending 1720 at SBI. Txn TXN210000680.
+Paytm: Mobile recharge of Rs 3244.71 completed. Debit posted to bank account XX1763. Ref 810000001927.
+BHIM UPI: Rs 3323.02 paid to VPA vendor5042@ibl and debited from A/c XX1806 on 15/07/2026 18:42. RRN 430000000966.
+Amazon Pay: Rs 3402.33 debited for order payment from account ending 1849. Txn ID TXN210000731. Balance Rs 6171.47.
+CRED: Credit card bill payment of Rs 3481.64 debited from bank account XX1892 via UPI. Ref 810000002068.
+MobiKwik: Wallet top-up of Rs 3560.95 processed; amount debited from account ending 1935. UTR UTR64000002655.
+BharatPe: Settlement adjustment debit of Rs 3639.26 posted to account XX1978. Reference 810000002162. Avl Bal Rs 6462.34.
+Jupiter app: Rs 3718.57 debited for SIP auto-pay from account ending 2021 at 20/12/2026 19:37. Txn TXN210000799.
+SBI Alert: INR 3797.88 debited from A/c XX2064 via UPI to merchant1048@upi on 21/01/2026 00:48. Ref 810000002256. Avl Bal INR 6656.92.
+HDFC Bank: Rs 3876.19 spent on UPI transfer to user2049@okhdfcbank from account ending 2107. UTR UTR64000002891.
+ICICI Notification: Debit of Rs 3955.50 for Swiggy payment from A/c XX2150. Txn TXN210000850. Balance Rs 6850.50.
+Axis Bank SMS: Card purchase of Rs 4034.81 at Amazon has been debited from account XX2193. RRN 430000001173.
+Kotak Bank: Rs 4113.12 debited for electricity bill via BBPS from account ending 2236. Ref 810000002444.
+PNB Alert: INR 4192.43 withdrawn from ATM linked to A/c XX2279 on 26/06/2026 01:43. Txn ID TXN210000901. Bal INR 7141.37.
+Bank of Baroda: Rs 4271.74 debited due to IMPS transfer to beneficiary Riya Sharma from account XX2322. UTR UTR64000003186.
+Canara Bank: Fastag recharge of Rs 4350.05 debited from A/c XX2365. Reference 810000002585. Available balance Rs 7335.95.
+IDFC FIRST Bank Alert: Rs 4429.36 auto-debited for Netflix subscription from account ending 2408. RRN 430000001288.
+IndusInd Bank: EMI installment of Rs 4508.67 debited from A/c XX2451. Txn TXN210000969. Current balance Rs 7529.53.
+Federal Bank: INR 4587.98 sent via NEFT to beneficiary Akash Verma from account XX2494. UTR UTR64000003422.
+Yes Bank: Rs 4666.29 debited for IRCTC ticket booking from account ending 2537. Ref 810000002773.
+Union Bank Alert: You paid Rs 4745.60 to merchant3060@ybl using UPI. Debited from A/c XX2580. Txn TXN210001020.
+Indian Bank: Debit of Rs 4824.91 for POS transaction at Reliance Fresh from A/c XX2623. RRN 430000001403.
+AU SFB: Rs 4903.22 deducted as annual debit card fee from account ending 2666. Ref 810000002914. Bal Rs 8014.98.
+PhonePe: Payment of Rs 4982.53 to Zomato successful. Amount debited from linked bank account XX2709. UPI Ref 810000002961.
+Google Pay alert: Rs 5061.84 transferred to user4064@oksbi. Debited from account ending 2752 at SBI. Txn TXN210001088.
+Paytm: Mobile recharge of Rs 5140.15 completed. Debit posted to bank account XX2795. Ref 810000003055.
+BHIM UPI: Rs 5219.46 paid to VPA vendor5066@ibl and debited from A/c XX2838 on 11/07/2026 18:06. RRN 430000001518.
+Amazon Pay: Rs 5298.77 debited for order payment from account ending 2881. Txn ID TXN210001139. Balance Rs 8499.43.
+CRED: Credit card bill payment of Rs 5377.08 debited from bank account XX2924 via UPI. Ref 810000003196.
+MobiKwik: Wallet top-up of Rs 5456.39 processed; amount debited from account ending 2967. UTR UTR64000004071.
+BharatPe: Settlement adjustment debit of Rs 5535.70 posted to account XX3010. Reference 810000003290. Avl Bal Rs 8790.30.
+Jupiter app: Rs 5614.01 debited for SIP auto-pay from account ending 3053 at 16/12/2026 19:01. Txn TXN210001207.
+SBI Alert: INR 5693.32 debited from A/c XX3096 via UPI to merchant1072@upi on 17/01/2026 00:12. Ref 810000003384. Avl Bal INR 8984.88.
+HDFC Bank: Rs 5772.63 spent on UPI transfer to user2073@okhdfcbank from account ending 3139. UTR UTR64000004307.
+ICICI Notification: Debit of Rs 5851.94 for Swiggy payment from A/c XX3182. Txn TXN210001258. Balance Rs 9178.46.
+Axis Bank SMS: Card purchase of Rs 5930.25 at Amazon has been debited from account XX3225. RRN 430000001725.
+Kotak Bank: Rs 6009.56 debited for electricity bill via BBPS from account ending 3268. Ref 810000003572.
+PNB Alert: INR 6088.87 withdrawn from ATM linked to A/c XX3311 on 22/06/2026 01:07. Txn ID TXN210001309. Bal INR 9469.33.
+Bank of Baroda: Rs 6167.18 debited due to IMPS transfer to beneficiary Riya Sharma from account XX3354. UTR UTR64000004602.
+Canara Bank: Fastag recharge of Rs 6246.49 debited from A/c XX3397. Reference 810000003713. Available balance Rs 9663.91.
+IDFC FIRST Bank Alert: Rs 6325.80 auto-debited for Netflix subscription from account ending 3440. RRN 430000001840.
+IndusInd Bank: EMI installment of Rs 6404.11 debited from A/c XX3483. Txn TXN210001377. Current balance Rs 9857.49.
+Federal Bank: INR 6483.42 sent via NEFT to beneficiary Akash Verma from account XX3526. UTR UTR64000004838.
+Yes Bank: Rs 6562.73 debited for IRCTC ticket booking from account ending 3569. Ref 810000003901.
+Union Bank Alert: You paid Rs 6641.04 to merchant3084@ybl using UPI. Debited from A/c XX3612. Txn TXN210001428.
+Indian Bank: Debit of Rs 6720.35 for POS transaction at Reliance Fresh from A/c XX3655. RRN 430000001955.
+AU SFB: Rs 6799.66 deducted as annual debit card fee from account ending 3698. Ref 810000004042. Bal Rs 10342.94.
+PhonePe: Payment of Rs 6878.97 to Zomato successful. Amount debited from linked bank account XX3741. UPI Ref 810000004089.
+Google Pay alert: Rs 6957.28 transferred to user4088@oksbi. Debited from account ending 3784 at SBI. Txn TXN210001496.
+Paytm: Mobile recharge of Rs 7036.59 completed. Debit posted to bank account XX3827. Ref 810000004183.
+BHIM UPI: Rs 7115.90 paid to VPA vendor5090@ibl and debited from A/c XX3870 on 07/07/2026 18:30. RRN 430000002070.
+Amazon Pay: Rs 7194.21 debited for order payment from account ending 3913. Txn ID TXN210001547. Balance Rs 10827.39.
+CRED: Credit card bill payment of Rs 7273.52 debited from bank account XX3956 via UPI. Ref 810000004324.
+MobiKwik: Wallet top-up of Rs 7352.83 processed; amount debited from account ending 3999. UTR UTR64000005487.
+BharatPe: Settlement adjustment debit of Rs 7431.14 posted to account XX4042. Reference 810000004418. Avl Bal Rs 11118.26.
+Jupiter app: Rs 7510.45 debited for SIP auto-pay from account ending 4085 at 12/12/2026 19:25. Txn TXN210001615.
+SBI Alert: INR 7589.76 debited from A/c XX4128 via UPI to merchant1096@upi on 13/01/2026 00:36. Ref 810000004512. Avl Bal INR 11312.84.
+HDFC Bank: Rs 7668.07 spent on UPI transfer to user2097@okhdfcbank from account ending 4171. UTR UTR64000005723.
+ICICI Notification: Debit of Rs 7747.38 for Swiggy payment from A/c XX4214. Txn TXN210001666. Balance Rs 11506.42.
+Axis Bank SMS: Card purchase of Rs 7826.69 at Amazon has been debited from account XX4257. RRN 430000002277.
+Kotak Bank: Rs 7905.00 debited for electricity bill via BBPS from account ending 4300. Ref 810000004700.
+PNB Alert: INR 7984.31 withdrawn from ATM linked to A/c XX4343 on 18/06/2026 01:31. Txn ID TXN210001717. Bal INR 11797.29.
+Bank of Baroda: Rs 8063.62 debited due to IMPS transfer to beneficiary Riya Sharma from account XX4386. UTR UTR64000006018.
+Canara Bank: Fastag recharge of Rs 8142.93 debited from A/c XX4429. Reference 810000004841. Available balance Rs 11991.87.
+IDFC FIRST Bank Alert: Rs 8221.24 auto-debited for Netflix subscription from account ending 4472. RRN 430000002392.
+IndusInd Bank: EMI installment of Rs 8300.55 debited from A/c XX4515. Txn TXN210001785. Current balance Rs 12185.45.
+Federal Bank: INR 8379.86 sent via NEFT to beneficiary Akash Verma from account XX4558. UTR UTR64000006254.
+Yes Bank: Rs 8458.17 debited for IRCTC ticket booking from account ending 4601. Ref 810000005029.
+Union Bank Alert: You paid Rs 8537.48 to merchant3108@ybl using UPI. Debited from A/c XX4644. Txn TXN210001836.
+Indian Bank: Debit of Rs 8616.79 for POS transaction at Reliance Fresh from A/c XX4687. RRN 430000002507.
+AU SFB: Rs 8695.10 deducted as annual debit card fee from account ending 4730. Ref 810000005170. Bal Rs 12670.90.
+PhonePe: Payment of Rs 8774.41 to Zomato successful. Amount debited from linked bank account XX4773. UPI Ref 810000005217.
+Google Pay alert: Rs 8853.72 transferred to user4112@oksbi. Debited from account ending 4816 at SBI. Txn TXN210001904.
+Paytm: Mobile recharge of Rs 8932.03 completed. Debit posted to bank account XX4859. Ref 810000005311.
+BHIM UPI: Rs 9011.34 paid to VPA vendor5114@ibl and debited from A/c XX4902 on 03/07/2026 18:54. RRN 430000002622.
+Amazon Pay: Rs 9090.65 debited for order payment from account ending 4945. Txn ID TXN210001955. Balance Rs 13155.35.
+CRED: Credit card bill payment of Rs 9169.96 debited from bank account XX4988 via UPI. Ref 810000005452.
+MobiKwik: Wallet top-up of Rs 9248.27 processed; amount debited from account ending 5031. UTR UTR64000006903.
+BharatPe: Settlement adjustment debit of Rs 9327.58 posted to account XX5074. Reference 810000005546. Avl Bal Rs 13446.22.
+Jupiter app: Rs 9406.89 debited for SIP auto-pay from account ending 5117 at 08/12/2026 19:49. Txn TXN210002023.
+SBI Alert: INR 9485.20 debited from A/c XX5160 via UPI to merchant1120@upi on 09/01/2026 00:00. Ref 810000005640. Avl Bal INR 13640.80.
+HDFC Bank: Rs 9564.51 spent on UPI transfer to user2121@okhdfcbank from account ending 5203. UTR UTR64000007139.
+ICICI Notification: Debit of Rs 9643.82 for Swiggy payment from A/c XX5246. Txn TXN210002074. Balance Rs 13834.38.
+Axis Bank SMS: Card purchase of Rs 9722.13 at Amazon has been debited from account XX5289. RRN 430000002829.
+Kotak Bank: Rs 9801.44 debited for electricity bill via BBPS from account ending 5332. Ref 810000005828.
+PNB Alert: INR 9880.75 withdrawn from ATM linked to A/c XX5375 on 14/06/2026 01:55. Txn ID TXN210002125. Bal INR 14125.25.
+Bank of Baroda: Rs 9959.06 debited due to IMPS transfer to beneficiary Riya Sharma from account XX5418. UTR UTR64000007434.
+Canara Bank: Fastag recharge of Rs 10038.37 debited from A/c XX5461. Reference 810000005969. Available balance Rs 14319.83.
+IDFC FIRST Bank Alert: Rs 10117.68 auto-debited for Netflix subscription from account ending 5504. RRN 430000002944.
+IndusInd Bank: EMI installment of Rs 10196.99 debited from A/c XX5547. Txn TXN210002193. Current balance Rs 14513.41.
+Federal Bank: INR 10275.30 sent via NEFT to beneficiary Akash Verma from account XX5590. UTR UTR64000007670.
+Yes Bank: Rs 10354.61 debited for IRCTC ticket booking from account ending 5633. Ref 810000006157.
+Union Bank Alert: You paid Rs 10433.92 to merchant3132@ybl using UPI. Debited from A/c XX5676. Txn TXN210002244.
+Indian Bank: Debit of Rs 10512.23 for POS transaction at Reliance Fresh from A/c XX5719. RRN 430000003059.
+AU SFB: Rs 10591.54 deducted as annual debit card fee from account ending 5762. Ref 810000006298. Bal Rs 14998.86.
+PhonePe: Payment of Rs 10670.85 to Zomato successful. Amount debited from linked bank account XX5805. UPI Ref 810000006345.
+Google Pay alert: Rs 10749.16 transferred to user4136@oksbi. Debited from account ending 5848 at SBI. Txn TXN210002312.
+Paytm: Mobile recharge of Rs 10828.47 completed. Debit posted to bank account XX5891. Ref 810000006439.
+BHIM UPI: Rs 10907.78 paid to VPA vendor5138@ibl and debited from A/c XX5934 on 27/07/2026 18:18. RRN 430000003174.
+Amazon Pay: Rs 10986.09 debited for order payment from account ending 5977. Txn ID TXN210002363. Balance Rs 15483.31.
+CRED: Credit card bill payment of Rs 11065.40 debited from bank account XX6020 via UPI. Ref 810000006580.
+MobiKwik: Wallet top-up of Rs 11144.71 processed; amount debited from account ending 6063. UTR UTR64000008319.
+BharatPe: Settlement adjustment debit of Rs 11223.02 posted to account XX6106. Reference 810000006674. Avl Bal Rs 15774.18.
+Jupiter app: Rs 11302.33 debited for SIP auto-pay from account ending 6149 at 04/12/2026 19:13. Txn TXN210002431.
+SBI Alert: INR 11381.64 debited from A/c XX6192 via UPI to merchant1144@upi on 05/01/2026 00:24. Ref 810000006768. Avl Bal INR 15968.76.
+HDFC Bank: Rs 11460.95 spent on UPI transfer to user2145@okhdfcbank from account ending 6235. UTR UTR64000008555.
+ICICI Notification: Debit of Rs 11539.26 for Swiggy payment from A/c XX6278. Txn TXN210002482. Balance Rs 16162.34.
+Axis Bank SMS: Card purchase of Rs 11618.57 at Amazon has been debited from account XX6321. RRN 430000003381.
+Kotak Bank: Rs 11697.88 debited for electricity bill via BBPS from account ending 6364. Ref 810000006956.
+PNB Alert: INR 11776.19 withdrawn from ATM linked to A/c XX6407 on 10/06/2026 01:19. Txn ID TXN210002533. Bal INR 16453.21.
+Bank of Baroda: Rs 11855.50 debited due to IMPS transfer to beneficiary Riya Sharma from account XX6450. UTR UTR64000008850.
+Canara Bank: Fastag recharge of Rs 11934.81 debited from A/c XX6493. Reference 810000007097. Available balance Rs 16647.79.
+IDFC FIRST Bank Alert: Rs 12013.12 auto-debited for Netflix subscription from account ending 6536. RRN 430000003496.
+IndusInd Bank: EMI installment of Rs 12092.43 debited from A/c XX6579. Txn TXN210002601. Current balance Rs 16841.37.
+Federal Bank: INR 12171.74 sent via NEFT to beneficiary Akash Verma from account XX6622. UTR UTR64000009086.
+Yes Bank: Rs 12250.05 debited for IRCTC ticket booking from account ending 6665. Ref 810000007285.
+Union Bank Alert: You paid Rs 12329.36 to merchant3156@ybl using UPI. Debited from A/c XX6708. Txn TXN210002652.
+Indian Bank: Debit of Rs 12408.67 for POS transaction at Reliance Fresh from A/c XX6751. RRN 430000003611.
+AU SFB: Rs 12487.98 deducted as annual debit card fee from account ending 6794. Ref 810000007426. Bal Rs 17326.82.
+PhonePe: Payment of Rs 12566.29 to Zomato successful. Amount debited from linked bank account XX6837. UPI Ref 810000007473.
+Google Pay alert: Rs 12645.60 transferred to user4160@oksbi. Debited from account ending 6880 at SBI. Txn TXN210002720.
+Paytm: Mobile recharge of Rs 12724.91 completed. Debit posted to bank account XX6923. Ref 810000007567.
+BHIM UPI: Rs 12803.22 paid to VPA vendor5162@ibl and debited from A/c XX6966 on 23/07/2026 18:42. RRN 430000003726.
+Amazon Pay: Rs 12882.53 debited for order payment from account ending 7009. Txn ID TXN210002771. Balance Rs 17811.27.
+CRED: Credit card bill payment of Rs 12961.84 debited from bank account XX7052 via UPI. Ref 810000007708.
+MobiKwik: Wallet top-up of Rs 13040.15 processed; amount debited from account ending 7095. UTR UTR64000009735.
+BharatPe: Settlement adjustment debit of Rs 13119.46 posted to account XX7138. Reference 810000007802. Avl Bal Rs 18102.14.
+Jupiter app: Rs 13198.77 debited for SIP auto-pay from account ending 7181 at 28/12/2026 19:37. Txn TXN210002839.
+SBI Alert: INR 13277.08 debited from A/c XX7224 via UPI to merchant1168@upi on 01/01/2026 00:48. Ref 810000007896. Avl Bal INR 18296.72.
+HDFC Bank: Rs 13356.39 spent on UPI transfer to user2169@okhdfcbank from account ending 7267. UTR UTR64000009971.
+ICICI Notification: Debit of Rs 13435.70 for Swiggy payment from A/c XX7310. Txn TXN210002890. Balance Rs 18490.30.
+Axis Bank SMS: Card purchase of Rs 13514.01 at Amazon has been debited from account XX7353. RRN 430000003933.
+Kotak Bank: Rs 13593.32 debited for electricity bill via BBPS from account ending 7396. Ref 810000008084.
+PNB Alert: INR 13672.63 withdrawn from ATM linked to A/c XX7439 on 06/06/2026 01:43. Txn ID TXN210002941. Bal INR 18781.17.
+Bank of Baroda: Rs 13751.94 debited due to IMPS transfer to beneficiary Riya Sharma from account XX7482. UTR UTR64000010266.
+Canara Bank: Fastag recharge of Rs 13830.25 debited from A/c XX7525. Reference 810000008225. Available balance Rs 18975.75.
+IDFC FIRST Bank Alert: Rs 13909.56 auto-debited for Netflix subscription from account ending 7568. RRN 430000004048.
+IndusInd Bank: EMI installment of Rs 13988.87 debited from A/c XX7611. Txn TXN210003009. Current balance Rs 19169.33.
+Federal Bank: INR 14067.18 sent via NEFT to beneficiary Akash Verma from account XX7654. UTR UTR64000010502.
+Yes Bank: Rs 14146.49 debited for IRCTC ticket booking from account ending 7697. Ref 810000008413.
+Union Bank Alert: You paid Rs 14225.80 to merchant3180@ybl using UPI. Debited from A/c XX7740. Txn TXN210003060.
+Indian Bank: Debit of Rs 14304.11 for POS transaction at Reliance Fresh from A/c XX7783. RRN 430000004163.
+AU SFB: Rs 14383.42 deducted as annual debit card fee from account ending 7826. Ref 810000008554. Bal Rs 19654.78.
+PhonePe: Payment of Rs 14462.73 to Zomato successful. Amount debited from linked bank account XX7869. UPI Ref 810000008601.
+Google Pay alert: Rs 14541.04 transferred to user4184@oksbi. Debited from account ending 7912 at SBI. Txn TXN210003128.
+Paytm: Mobile recharge of Rs 14620.35 completed. Debit posted to bank account XX7955. Ref 810000008695.
+BHIM UPI: Rs 14699.66 paid to VPA vendor5186@ibl and debited from A/c XX7998 on 19/07/2026 18:06. RRN 430000004278.
+Amazon Pay: Rs 14778.97 debited for order payment from account ending 8041. Txn ID TXN210003179. Balance Rs 20139.23.
+CRED: Credit card bill payment of Rs 14857.28 debited from bank account XX8084 via UPI. Ref 810000008836.
+MobiKwik: Wallet top-up of Rs 14936.59 processed; amount debited from account ending 8127. UTR UTR64000011151.
+BharatPe: Settlement adjustment debit of Rs 15015.90 posted to account XX8170. Reference 810000008930. Avl Bal Rs 20430.10.
+Jupiter app: Rs 15094.21 debited for SIP auto-pay from account ending 8213 at 24/12/2026 19:01. Txn TXN210003247.
+SBI Alert: INR 15173.52 debited from A/c XX8256 via UPI to merchant1192@upi on 25/01/2026 00:12. Ref 810000009024. Avl Bal INR 20624.68.
+HDFC Bank: Rs 15252.83 spent on UPI transfer to user2193@okhdfcbank from account ending 8299. UTR UTR64000011387.
+ICICI Notification: Debit of Rs 15331.14 for Swiggy payment from A/c XX8342. Txn TXN210003298. Balance Rs 20818.26.
+Axis Bank SMS: Card purchase of Rs 15410.45 at Amazon has been debited from account XX8385. RRN 430000004485.
+Kotak Bank: Rs 15489.76 debited for electricity bill via BBPS from account ending 8428. Ref 810000009212.
+PNB Alert: INR 15568.07 withdrawn from ATM linked to A/c XX8471 on 02/06/2026 01:07. Txn ID TXN210003349. Bal INR 21109.13.
+Bank of Baroda: Rs 15647.38 debited due to IMPS transfer to beneficiary Riya Sharma from account XX8514. UTR UTR64000011682.
+Canara Bank: Fastag recharge of Rs 15726.69 debited from A/c XX8557. Reference 810000009353. Available balance Rs 21303.71.
+IDFC FIRST Bank Alert: Rs 15805.00 auto-debited for Netflix subscription from account ending 8600. RRN 430000004600.
+IndusInd Bank: EMI installment of Rs 15884.31 debited from A/c XX8643. Txn TXN210003417. Current balance Rs 21497.29.
+Federal Bank: INR 15963.62 sent via NEFT to beneficiary Akash Verma from account XX8686. UTR UTR64000011918.
+Yes Bank: Rs 16042.93 debited for IRCTC ticket booking from account ending 8729. Ref 810000009541.
+Union Bank Alert: You paid Rs 16121.24 to merchant3204@ybl using UPI. Debited from A/c XX8772. Txn TXN210003468.
+Indian Bank: Debit of Rs 16200.55 for POS transaction at Reliance Fresh from A/c XX8815. RRN 430000004715.
+AU SFB: Rs 16279.86 deducted as annual debit card fee from account ending 8858. Ref 810000009682. Bal Rs 21982.74.
+PhonePe: Payment of Rs 16358.17 to Zomato successful. Amount debited from linked bank account XX8901. UPI Ref 810000009729.
+Google Pay alert: Rs 16437.48 transferred to user4208@oksbi. Debited from account ending 8944 at SBI. Txn TXN210003536.
+Paytm: Mobile recharge of Rs 16516.79 completed. Debit posted to bank account XX8987. Ref 810000009823.
+BHIM UPI: Rs 16595.10 paid to VPA vendor5210@ibl and debited from A/c XX9030 on 15/07/2026 18:30. RRN 430000004830.
+Amazon Pay: Rs 16674.41 debited for order payment from account ending 9073. Txn ID TXN210003587. Balance Rs 22467.19.
+CRED: Credit card bill payment of Rs 16753.72 debited from bank account XX9116 via UPI. Ref 810000009964.
+MobiKwik: Wallet top-up of Rs 16832.03 processed; amount debited from account ending 9159. UTR UTR64000012567.
+BharatPe: Settlement adjustment debit of Rs 16911.34 posted to account XX9202. Reference 810000010058. Avl Bal Rs 22758.06.
+Jupiter app: Rs 16990.65 debited for SIP auto-pay from account ending 9245 at 20/12/2026 19:25. Txn TXN210003655.
+SBI Alert: INR 17069.96 debited from A/c XX9288 via UPI to merchant1216@upi on 21/01/2026 00:36. Ref 810000010152. Avl Bal INR 22952.64.
+HDFC Bank: Rs 17148.27 spent on UPI transfer to user2217@okhdfcbank from account ending 9331. UTR UTR64000012803.
+ICICI Notification: Debit of Rs 17227.58 for Swiggy payment from A/c XX9374. Txn TXN210003706. Balance Rs 23146.22.
+Axis Bank SMS: Card purchase of Rs 17306.89 at Amazon has been debited from account XX9417. RRN 430000005037.
+Kotak Bank: Rs 17385.20 debited for electricity bill via BBPS from account ending 9460. Ref 810000010340.
+PNB Alert: INR 17464.51 withdrawn from ATM linked to A/c XX9503 on 26/06/2026 01:31. Txn ID TXN210003757. Bal INR 23437.09.
+Bank of Baroda: Rs 17543.82 debited due to IMPS transfer to beneficiary Riya Sharma from account XX9546. UTR UTR64000013098.
+Canara Bank: Fastag recharge of Rs 17622.13 debited from A/c XX9589. Reference 810000010481. Available balance Rs 23631.67.
+IDFC FIRST Bank Alert: Rs 17701.44 auto-debited for Netflix subscription from account ending 9632. RRN 430000005152.
+IndusInd Bank: EMI installment of Rs 17780.75 debited from A/c XX9675. Txn TXN210003825. Current balance Rs 23825.25.
+Federal Bank: INR 17859.06 sent via NEFT to beneficiary Akash Verma from account XX9718. UTR UTR64000013334.
+Yes Bank: Rs 17938.37 debited for IRCTC ticket booking from account ending 9761. Ref 810000010669.
+Union Bank Alert: You paid Rs 18017.68 to merchant3228@ybl using UPI. Debited from A/c XX9804. Txn TXN210003876.
+Indian Bank: Debit of Rs 18096.99 for POS transaction at Reliance Fresh from A/c XX9847. RRN 430000005267.
+AU SFB: Rs 18175.30 deducted as annual debit card fee from account ending 9890. Ref 810000010810. Bal Rs 24310.70.
+PhonePe: Payment of Rs 18254.61 to Zomato successful. Amount debited from linked bank account XX9933. UPI Ref 810000010857.
+Google Pay alert: Rs 18333.92 transferred to user4232@oksbi. Debited from account ending 9976 at SBI. Txn TXN210003944.
+Paytm: Mobile recharge of Rs 18412.23 completed. Debit posted to bank account XX0019. Ref 810000010951.
+BHIM UPI: Rs 18491.54 paid to VPA vendor5234@ibl and debited from A/c XX0062 on 11/07/2026 18:54. RRN 430000005382.
+Amazon Pay: Rs 18570.85 debited for order payment from account ending 0105. Txn ID TXN210003995. Balance Rs 24795.15.
+CRED: Credit card bill payment of Rs 18649.16 debited from bank account XX0148 via UPI. Ref 810000011092.
+MobiKwik: Wallet top-up of Rs 18728.47 processed; amount debited from account ending 0191. UTR UTR64000013983.
+BharatPe: Settlement adjustment debit of Rs 18807.78 posted to account XX0234. Reference 810000011186. Avl Bal Rs 25086.02.
+Jupiter app: Rs 18886.09 debited for SIP auto-pay from account ending 0277 at 16/12/2026 19:49. Txn TXN210004063.
+SBI Alert: INR 18965.40 debited from A/c XX0320 via UPI to merchant1240@upi on 17/01/2026 00:00. Ref 810000011280. Avl Bal INR 25280.60.
+HDFC Bank: Rs 19044.71 spent on UPI transfer to user2241@okhdfcbank from account ending 0363. UTR UTR64000014219.
+ICICI Notification: Debit of Rs 19123.02 for Swiggy payment from A/c XX0406. Txn TXN210004114. Balance Rs 25474.18.
+Axis Bank SMS: Card purchase of Rs 19202.33 at Amazon has been debited from account XX0449. RRN 430000005589.
+Kotak Bank: Rs 19281.64 debited for electricity bill via BBPS from account ending 0492. Ref 810000011468.
+PNB Alert: INR 19360.95 withdrawn from ATM linked to A/c XX0535 on 22/06/2026 01:55. Txn ID TXN210004165. Bal INR 25765.05.
+Bank of Baroda: Rs 19439.26 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0578. UTR UTR64000014514.
+Canara Bank: Fastag recharge of Rs 19518.57 debited from A/c XX0621. Reference 810000011609. Available balance Rs 25959.63.
+IDFC FIRST Bank Alert: Rs 19597.88 auto-debited for Netflix subscription from account ending 0664. RRN 430000005704.
+IndusInd Bank: EMI installment of Rs 19676.19 debited from A/c XX0707. Txn TXN210004233. Current balance Rs 26153.21.
+Federal Bank: INR 19755.50 sent via NEFT to beneficiary Akash Verma from account XX0750. UTR UTR64000014750.
+Yes Bank: Rs 19834.81 debited for IRCTC ticket booking from account ending 0793. Ref 810000011797.
+Union Bank Alert: You paid Rs 19913.12 to merchant3252@ybl using UPI. Debited from A/c XX0836. Txn TXN210004284.
+Indian Bank: Debit of Rs 19992.43 for POS transaction at Reliance Fresh from A/c XX0879. RRN 430000005819.
+AU SFB: Rs 20071.74 deducted as annual debit card fee from account ending 0922. Ref 810000011938. Bal Rs 26638.66.
+PhonePe: Payment of Rs 20150.05 to Zomato successful. Amount debited from linked bank account XX0965. UPI Ref 810000011985.
+Google Pay alert: Rs 20229.36 transferred to user4256@oksbi. Debited from account ending 1008 at SBI. Txn TXN210004352.
+Paytm: Mobile recharge of Rs 20308.67 completed. Debit posted to bank account XX1051. Ref 810000012079.
+BHIM UPI: Rs 20387.98 paid to VPA vendor5258@ibl and debited from A/c XX1094 on 07/07/2026 18:18. RRN 430000005934.
+Amazon Pay: Rs 20466.29 debited for order payment from account ending 1137. Txn ID TXN210004403. Balance Rs 27123.11.
+CRED: Credit card bill payment of Rs 20545.60 debited from bank account XX1180 via UPI. Ref 810000012220.
+MobiKwik: Wallet top-up of Rs 20624.91 processed; amount debited from account ending 1223. UTR UTR64000015399.
+BharatPe: Settlement adjustment debit of Rs 20703.22 posted to account XX1266. Reference 810000012314. Avl Bal Rs 27414.98.
+Jupiter app: Rs 20782.53 debited for SIP auto-pay from account ending 1309 at 12/12/2026 19:13. Txn TXN210004471.
+SBI Alert: INR 20861.84 debited from A/c XX1352 via UPI to merchant1264@upi on 13/01/2026 00:24. Ref 810000012408. Avl Bal INR 27608.56.
+HDFC Bank: Rs 20940.15 spent on UPI transfer to user2265@okhdfcbank from account ending 1395. UTR UTR64000015635.
+ICICI Notification: Debit of Rs 21019.46 for Swiggy payment from A/c XX1438. Txn TXN210004522. Balance Rs 27802.14.
+Axis Bank SMS: Card purchase of Rs 21098.77 at Amazon has been debited from account XX1481. RRN 430000006141.
+Kotak Bank: Rs 21177.08 debited for electricity bill via BBPS from account ending 1524. Ref 810000012596.
+PNB Alert: INR 21256.39 withdrawn from ATM linked to A/c XX1567 on 18/06/2026 01:19. Txn ID TXN210004573. Bal INR 28093.01.
+Bank of Baroda: Rs 21335.70 debited due to IMPS transfer to beneficiary Riya Sharma from account XX1610. UTR UTR64000015930.
+Canara Bank: Fastag recharge of Rs 21414.01 debited from A/c XX1653. Reference 810000012737. Available balance Rs 28287.59.
+IDFC FIRST Bank Alert: Rs 21493.32 auto-debited for Netflix subscription from account ending 1696. RRN 430000006256.
+IndusInd Bank: EMI installment of Rs 21572.63 debited from A/c XX1739. Txn TXN210004641. Current balance Rs 28481.17.
+Federal Bank: INR 21651.94 sent via NEFT to beneficiary Akash Verma from account XX1782. UTR UTR64000016166.
+Yes Bank: Rs 21730.25 debited for IRCTC ticket booking from account ending 1825. Ref 810000012925.
+Union Bank Alert: You paid Rs 21809.56 to merchant3276@ybl using UPI. Debited from A/c XX1868. Txn TXN210004692.
+Indian Bank: Debit of Rs 21888.87 for POS transaction at Reliance Fresh from A/c XX1911. RRN 430000006371.
+AU SFB: Rs 21967.18 deducted as annual debit card fee from account ending 1954. Ref 810000013066. Bal Rs 28966.62.
+PhonePe: Payment of Rs 22046.49 to Zomato successful. Amount debited from linked bank account XX1997. UPI Ref 810000013113.
+Google Pay alert: Rs 22125.80 transferred to user4280@oksbi. Debited from account ending 2040 at SBI. Txn TXN210004760.
+Paytm: Mobile recharge of Rs 22204.11 completed. Debit posted to bank account XX2083. Ref 810000013207.
+BHIM UPI: Rs 22283.42 paid to VPA vendor5282@ibl and debited from A/c XX2126 on 03/07/2026 18:42. RRN 430000006486.
+Amazon Pay: Rs 22362.73 debited for order payment from account ending 2169. Txn ID TXN210004811. Balance Rs 29451.07.
+CRED: Credit card bill payment of Rs 22441.04 debited from bank account XX2212 via UPI. Ref 810000013348.
+MobiKwik: Wallet top-up of Rs 22520.35 processed; amount debited from account ending 2255. UTR UTR64000016815.
+BharatPe: Settlement adjustment debit of Rs 22599.66 posted to account XX2298. Reference 810000013442. Avl Bal Rs 29742.94.
+Jupiter app: Rs 22678.97 debited for SIP auto-pay from account ending 2341 at 08/12/2026 19:37. Txn TXN210004879.
+SBI Alert: INR 22757.28 debited from A/c XX2384 via UPI to merchant1288@upi on 09/01/2026 00:48. Ref 810000013536. Avl Bal INR 29936.52.
+HDFC Bank: Rs 22836.59 spent on UPI transfer to user2289@okhdfcbank from account ending 2427. UTR UTR64000017051.
+ICICI Notification: Debit of Rs 22915.90 for Swiggy payment from A/c XX2470. Txn TXN210004930. Balance Rs 30130.10.
+Axis Bank SMS: Card purchase of Rs 22994.21 at Amazon has been debited from account XX2513. RRN 430000006693.
+Kotak Bank: Rs 23073.52 debited for electricity bill via BBPS from account ending 2556. Ref 810000013724.
+PNB Alert: INR 23152.83 withdrawn from ATM linked to A/c XX2599 on 14/06/2026 01:43. Txn ID TXN210004981. Bal INR 30421.97.
+Bank of Baroda: Rs 23231.14 debited due to IMPS transfer to beneficiary Riya Sharma from account XX2642. UTR UTR64000017346.
+Canara Bank: Fastag recharge of Rs 23310.45 debited from A/c XX2685. Reference 810000013865. Available balance Rs 30615.55.
+IDFC FIRST Bank Alert: Rs 23389.76 auto-debited for Netflix subscription from account ending 2728. RRN 430000006808.
+IndusInd Bank: EMI installment of Rs 23468.07 debited from A/c XX2771. Txn TXN210005049. Current balance Rs 30809.13.
+Federal Bank: INR 23547.38 sent via NEFT to beneficiary Akash Verma from account XX2814. UTR UTR64000017582.
+Yes Bank: Rs 23626.69 debited for IRCTC ticket booking from account ending 2857. Ref 810000014053.
+Union Bank Alert: You paid Rs 23705.00 to merchant3300@ybl using UPI. Debited from A/c XX2900. Txn TXN210005100.
+Indian Bank: Debit of Rs 23784.31 for POS transaction at Reliance Fresh from A/c XX2943. RRN 430000006923.
+AU SFB: Rs 23863.62 deducted as annual debit card fee from account ending 2986. Ref 810000014194. Bal Rs 31294.58.
+PhonePe: Payment of Rs 23942.93 to Zomato successful. Amount debited from linked bank account XX3029. UPI Ref 810000014241.
+Google Pay alert: Rs 24021.24 transferred to user4304@oksbi. Debited from account ending 3072 at SBI. Txn TXN210005168.
+Paytm: Mobile recharge of Rs 24100.55 completed. Debit posted to bank account XX3115. Ref 810000014335.
+BHIM UPI: Rs 24179.86 paid to VPA vendor5306@ibl and debited from A/c XX3158 on 27/07/2026 18:06. RRN 430000007038.
+Amazon Pay: Rs 24258.17 debited for order payment from account ending 3201. Txn ID TXN210005219. Balance Rs 31779.03.
+CRED: Credit card bill payment of Rs 24337.48 debited from bank account XX3244 via UPI. Ref 810000014476.
+MobiKwik: Wallet top-up of Rs 24416.79 processed; amount debited from account ending 3287. UTR UTR64000018231.
+BharatPe: Settlement adjustment debit of Rs 24495.10 posted to account XX3330. Reference 810000014570. Avl Bal Rs 32070.90.
+Jupiter app: Rs 24574.41 debited for SIP auto-pay from account ending 3373 at 04/12/2026 19:01. Txn TXN210005287.
+SBI Alert: INR 24653.72 debited from A/c XX3416 via UPI to merchant1312@upi on 05/01/2026 00:12. Ref 810000014664. Avl Bal INR 32264.48.
+HDFC Bank: Rs 24732.03 spent on UPI transfer to user2313@okhdfcbank from account ending 3459. UTR UTR64000018467.
+ICICI Notification: Debit of Rs 24811.34 for Swiggy payment from A/c XX3502. Txn TXN210005338. Balance Rs 32458.06.
+Axis Bank SMS: Card purchase of Rs 24890.65 at Amazon has been debited from account XX3545. RRN 430000007245.
+Kotak Bank: Rs 24969.96 debited for electricity bill via BBPS from account ending 3588. Ref 810000014852.
+PNB Alert: INR 25048.27 withdrawn from ATM linked to A/c XX3631 on 10/06/2026 01:07. Txn ID TXN210005389. Bal INR 32749.93.
+Bank of Baroda: Rs 25127.58 debited due to IMPS transfer to beneficiary Riya Sharma from account XX3674. UTR UTR64000018762.
+Canara Bank: Fastag recharge of Rs 25206.89 debited from A/c XX3717. Reference 810000014993. Available balance Rs 32943.51.
+IDFC FIRST Bank Alert: Rs 25285.20 auto-debited for Netflix subscription from account ending 3760. RRN 430000007360.
+IndusInd Bank: EMI installment of Rs 25364.51 debited from A/c XX3803. Txn TXN210005457. Current balance Rs 33137.09.
+Federal Bank: INR 25443.82 sent via NEFT to beneficiary Akash Verma from account XX3846. UTR UTR64000018998.
+Yes Bank: Rs 25522.13 debited for IRCTC ticket booking from account ending 3889. Ref 810000015181.
+Union Bank Alert: You paid Rs 25601.44 to merchant3324@ybl using UPI. Debited from A/c XX3932. Txn TXN210005508.
+Indian Bank: Debit of Rs 25680.75 for POS transaction at Reliance Fresh from A/c XX3975. RRN 430000007475.
+AU SFB: Rs 25759.06 deducted as annual debit card fee from account ending 4018. Ref 810000015322. Bal Rs 33622.54.
+PhonePe: Payment of Rs 25838.37 to Zomato successful. Amount debited from linked bank account XX4061. UPI Ref 810000015369.
+Google Pay alert: Rs 25917.68 transferred to user4328@oksbi. Debited from account ending 4104 at SBI. Txn TXN210005576.
+Paytm: Mobile recharge of Rs 25996.99 completed. Debit posted to bank account XX4147. Ref 810000015463.
+BHIM UPI: Rs 26075.30 paid to VPA vendor5330@ibl and debited from A/c XX4190 on 23/07/2026 18:30. RRN 430000007590.
+Amazon Pay: Rs 26154.61 debited for order payment from account ending 4233. Txn ID TXN210005627. Balance Rs 34107.99.
+CRED: Credit card bill payment of Rs 26233.92 debited from bank account XX4276 via UPI. Ref 810000015604.
+MobiKwik: Wallet top-up of Rs 26312.23 processed; amount debited from account ending 4319. UTR UTR64000019647.
+BharatPe: Settlement adjustment debit of Rs 26391.54 posted to account XX4362. Reference 810000015698. Avl Bal Rs 34398.86.
+Jupiter app: Rs 26470.85 debited for SIP auto-pay from account ending 4405 at 28/12/2026 19:25. Txn TXN210005695.
+SBI Alert: INR 26549.16 debited from A/c XX4448 via UPI to merchant1336@upi on 01/01/2026 00:36. Ref 810000015792. Avl Bal INR 34592.44.
+HDFC Bank: Rs 26628.47 spent on UPI transfer to user2337@okhdfcbank from account ending 4491. UTR UTR64000019883.
+ICICI Notification: Debit of Rs 26707.78 for Swiggy payment from A/c XX4534. Txn TXN210005746. Balance Rs 34786.02.
+Axis Bank SMS: Card purchase of Rs 26786.09 at Amazon has been debited from account XX4577. RRN 430000007797.
+Kotak Bank: Rs 26865.40 debited for electricity bill via BBPS from account ending 4620. Ref 810000015980.
+PNB Alert: INR 26944.71 withdrawn from ATM linked to A/c XX4663 on 06/06/2026 01:31. Txn ID TXN210005797. Bal INR 35077.89.
+Bank of Baroda: Rs 27023.02 debited due to IMPS transfer to beneficiary Riya Sharma from account XX4706. UTR UTR64000020178.
+Canara Bank: Fastag recharge of Rs 27102.33 debited from A/c XX4749. Reference 810000016121. Available balance Rs 35271.47.
+IDFC FIRST Bank Alert: Rs 27181.64 auto-debited for Netflix subscription from account ending 4792. RRN 430000007912.
+IndusInd Bank: EMI installment of Rs 27260.95 debited from A/c XX4835. Txn TXN210005865. Current balance Rs 35465.05.
+Federal Bank: INR 27339.26 sent via NEFT to beneficiary Akash Verma from account XX4878. UTR UTR64000020414.
+Yes Bank: Rs 27418.57 debited for IRCTC ticket booking from account ending 4921. Ref 810000016309.
+Union Bank Alert: You paid Rs 27497.88 to merchant3348@ybl using UPI. Debited from A/c XX4964. Txn TXN210005916.
+Indian Bank: Debit of Rs 27576.19 for POS transaction at Reliance Fresh from A/c XX5007. RRN 430000008027.
+AU SFB: Rs 27655.50 deducted as annual debit card fee from account ending 5050. Ref 810000016450. Bal Rs 35950.50.
+PhonePe: Payment of Rs 27734.81 to Zomato successful. Amount debited from linked bank account XX5093. UPI Ref 810000016497.
+Google Pay alert: Rs 27813.12 transferred to user4352@oksbi. Debited from account ending 5136 at SBI. Txn TXN210005984.
+Paytm: Mobile recharge of Rs 27892.43 completed. Debit posted to bank account XX5179. Ref 810000016591.
+BHIM UPI: Rs 27971.74 paid to VPA vendor5354@ibl and debited from A/c XX5222 on 19/07/2026 18:54. RRN 430000008142.
+Amazon Pay: Rs 28050.05 debited for order payment from account ending 5265. Txn ID TXN210006035. Balance Rs 36435.95.
+CRED: Credit card bill payment of Rs 28129.36 debited from bank account XX5308 via UPI. Ref 810000016732.
+MobiKwik: Wallet top-up of Rs 28208.67 processed; amount debited from account ending 5351. UTR UTR64000021063.
+BharatPe: Settlement adjustment debit of Rs 28287.98 posted to account XX5394. Reference 810000016826. Avl Bal Rs 36726.82.
+Jupiter app: Rs 28366.29 debited for SIP auto-pay from account ending 5437 at 24/12/2026 19:49. Txn TXN210006103.
+SBI Alert: INR 28445.60 debited from A/c XX5480 via UPI to merchant1360@upi on 25/01/2026 00:00. Ref 810000016920. Avl Bal INR 36920.40.
+HDFC Bank: Rs 28524.91 spent on UPI transfer to user2361@okhdfcbank from account ending 5523. UTR UTR64000021299.
+ICICI Notification: Debit of Rs 28603.22 for Swiggy payment from A/c XX5566. Txn TXN210006154. Balance Rs 37114.98.
+Axis Bank SMS: Card purchase of Rs 28682.53 at Amazon has been debited from account XX5609. RRN 430000008349.
+Kotak Bank: Rs 28761.84 debited for electricity bill via BBPS from account ending 5652. Ref 810000017108.
+PNB Alert: INR 28840.15 withdrawn from ATM linked to A/c XX5695 on 02/06/2026 01:55. Txn ID TXN210006205. Bal INR 37405.85.
+Bank of Baroda: Rs 28919.46 debited due to IMPS transfer to beneficiary Riya Sharma from account XX5738. UTR UTR64000021594.
+Canara Bank: Fastag recharge of Rs 28998.77 debited from A/c XX5781. Reference 810000017249. Available balance Rs 37599.43.
+IDFC FIRST Bank Alert: Rs 29077.08 auto-debited for Netflix subscription from account ending 5824. RRN 430000008464.
+IndusInd Bank: EMI installment of Rs 29156.39 debited from A/c XX5867. Txn TXN210006273. Current balance Rs 37793.01.
+Federal Bank: INR 29235.70 sent via NEFT to beneficiary Akash Verma from account XX5910. UTR UTR64000021830.
+Yes Bank: Rs 29314.01 debited for IRCTC ticket booking from account ending 5953. Ref 810000017437.
+Union Bank Alert: You paid Rs 29393.32 to merchant3372@ybl using UPI. Debited from A/c XX5996. Txn TXN210006324.
+Indian Bank: Debit of Rs 29472.63 for POS transaction at Reliance Fresh from A/c XX6039. RRN 430000008579.
+AU SFB: Rs 29551.94 deducted as annual debit card fee from account ending 6082. Ref 810000017578. Bal Rs 38278.46.
+PhonePe: Payment of Rs 29630.25 to Zomato successful. Amount debited from linked bank account XX6125. UPI Ref 810000017625.
+Google Pay alert: Rs 29709.56 transferred to user4376@oksbi. Debited from account ending 6168 at SBI. Txn TXN210006392.
+Paytm: Mobile recharge of Rs 29788.87 completed. Debit posted to bank account XX6211. Ref 810000017719.
+BHIM UPI: Rs 29867.18 paid to VPA vendor5378@ibl and debited from A/c XX6254 on 15/07/2026 18:18. RRN 430000008694.
+Amazon Pay: Rs 29946.49 debited for order payment from account ending 6297. Txn ID TXN210006443. Balance Rs 38763.91.
+CRED: Credit card bill payment of Rs 30025.80 debited from bank account XX6340 via UPI. Ref 810000017860.
+MobiKwik: Wallet top-up of Rs 30104.11 processed; amount debited from account ending 6383. UTR UTR64000022479.
+BharatPe: Settlement adjustment debit of Rs 30183.42 posted to account XX6426. Reference 810000017954. Avl Bal Rs 39054.78.
+Jupiter app: Rs 30262.73 debited for SIP auto-pay from account ending 6469 at 20/12/2026 19:13. Txn TXN210006511.
+SBI Alert: INR 30341.04 debited from A/c XX6512 via UPI to merchant1384@upi on 21/01/2026 00:24. Ref 810000018048. Avl Bal INR 39248.36.
+HDFC Bank: Rs 30420.35 spent on UPI transfer to user2385@okhdfcbank from account ending 6555. UTR UTR64000022715.
+ICICI Notification: Debit of Rs 30499.66 for Swiggy payment from A/c XX6598. Txn TXN210006562. Balance Rs 39442.94.
+Axis Bank SMS: Card purchase of Rs 30578.97 at Amazon has been debited from account XX6641. RRN 430000008901.
+Kotak Bank: Rs 30657.28 debited for electricity bill via BBPS from account ending 6684. Ref 810000018236.
+PNB Alert: INR 30736.59 withdrawn from ATM linked to A/c XX6727 on 26/06/2026 01:19. Txn ID TXN210006613. Bal INR 39733.81.
+Bank of Baroda: Rs 30815.90 debited due to IMPS transfer to beneficiary Riya Sharma from account XX6770. UTR UTR64000023010.
+Canara Bank: Fastag recharge of Rs 30894.21 debited from A/c XX6813. Reference 810000018377. Available balance Rs 39927.39.
+IDFC FIRST Bank Alert: Rs 30973.52 auto-debited for Netflix subscription from account ending 6856. RRN 430000009016.
+IndusInd Bank: EMI installment of Rs 31052.83 debited from A/c XX6899. Txn TXN210006681. Current balance Rs 40121.97.
+Federal Bank: INR 31131.14 sent via NEFT to beneficiary Akash Verma from account XX6942. UTR UTR64000023246.
+Yes Bank: Rs 31210.45 debited for IRCTC ticket booking from account ending 6985. Ref 810000018565.
+Union Bank Alert: You paid Rs 31289.76 to merchant3396@ybl using UPI. Debited from A/c XX7028. Txn TXN210006732.
+Indian Bank: Debit of Rs 31368.07 for POS transaction at Reliance Fresh from A/c XX7071. RRN 430000009131.
+AU SFB: Rs 31447.38 deducted as annual debit card fee from account ending 7114. Ref 810000018706. Bal Rs 40606.42.
+PhonePe: Payment of Rs 31526.69 to Zomato successful. Amount debited from linked bank account XX7157. UPI Ref 810000018753.
+Google Pay alert: Rs 31605.00 transferred to user4400@oksbi. Debited from account ending 7200 at SBI. Txn TXN210006800.
+Paytm: Mobile recharge of Rs 31684.31 completed. Debit posted to bank account XX7243. Ref 810000018847.
+BHIM UPI: Rs 31763.62 paid to VPA vendor5402@ibl and debited from A/c XX7286 on 11/07/2026 18:42. RRN 430000009246.
+Amazon Pay: Rs 31842.93 debited for order payment from account ending 7329. Txn ID TXN210006851. Balance Rs 41091.87.
+CRED: Credit card bill payment of Rs 31921.24 debited from bank account XX7372 via UPI. Ref 810000018988.
+MobiKwik: Wallet top-up of Rs 32000.55 processed; amount debited from account ending 7415. UTR UTR64000023895.
+BharatPe: Settlement adjustment debit of Rs 32079.86 posted to account XX7458. Reference 810000019082. Avl Bal Rs 41382.74.
+Jupiter app: Rs 32158.17 debited for SIP auto-pay from account ending 7501 at 16/12/2026 19:37. Txn TXN210006919.
+SBI Alert: INR 32237.48 debited from A/c XX7544 via UPI to merchant1408@upi on 17/01/2026 00:48. Ref 810000019176. Avl Bal INR 41576.32.
+HDFC Bank: Rs 32316.79 spent on UPI transfer to user2409@okhdfcbank from account ending 7587. UTR UTR64000024131.
+ICICI Notification: Debit of Rs 32395.10 for Swiggy payment from A/c XX7630. Txn TXN210006970. Balance Rs 41770.90.
+Axis Bank SMS: Card purchase of Rs 32474.41 at Amazon has been debited from account XX7673. RRN 430000009453.
+Kotak Bank: Rs 32553.72 debited for electricity bill via BBPS from account ending 7716. Ref 810000019364.
+PNB Alert: INR 32632.03 withdrawn from ATM linked to A/c XX7759 on 22/06/2026 01:43. Txn ID TXN210007021. Bal INR 42061.77.
+Bank of Baroda: Rs 32711.34 debited due to IMPS transfer to beneficiary Riya Sharma from account XX7802. UTR UTR64000024426.
+Canara Bank: Fastag recharge of Rs 32790.65 debited from A/c XX7845. Reference 810000019505. Available balance Rs 42255.35.
+IDFC FIRST Bank Alert: Rs 32869.96 auto-debited for Netflix subscription from account ending 7888. RRN 430000009568.
+IndusInd Bank: EMI installment of Rs 32948.27 debited from A/c XX7931. Txn TXN210007089. Current balance Rs 42449.93.
+Federal Bank: INR 33027.58 sent via NEFT to beneficiary Akash Verma from account XX7974. UTR UTR64000024662.
+Yes Bank: Rs 33106.89 debited for IRCTC ticket booking from account ending 8017. Ref 810000019693.
+Union Bank Alert: You paid Rs 33185.20 to merchant3420@ybl using UPI. Debited from A/c XX8060. Txn TXN210007140.
+Indian Bank: Debit of Rs 33264.51 for POS transaction at Reliance Fresh from A/c XX8103. RRN 430000009683.
+AU SFB: Rs 33343.82 deducted as annual debit card fee from account ending 8146. Ref 810000019834. Bal Rs 42934.38.
+PhonePe: Payment of Rs 33422.13 to Zomato successful. Amount debited from linked bank account XX8189. UPI Ref 810000019881.
+Google Pay alert: Rs 33501.44 transferred to user4424@oksbi. Debited from account ending 8232 at SBI. Txn TXN210007208.
+Paytm: Mobile recharge of Rs 33580.75 completed. Debit posted to bank account XX8275. Ref 810000019975.
+BHIM UPI: Rs 33659.06 paid to VPA vendor5426@ibl and debited from A/c XX8318 on 07/07/2026 18:06. RRN 430000009798.
+Amazon Pay: Rs 33738.37 debited for order payment from account ending 8361. Txn ID TXN210007259. Balance Rs 43419.83.
+CRED: Credit card bill payment of Rs 33817.68 debited from bank account XX8404 via UPI. Ref 810000020116.
+MobiKwik: Wallet top-up of Rs 33896.99 processed; amount debited from account ending 8447. UTR UTR64000025311.
+BharatPe: Settlement adjustment debit of Rs 33975.30 posted to account XX8490. Reference 810000020210. Avl Bal Rs 43710.70.
+Jupiter app: Rs 34054.61 debited for SIP auto-pay from account ending 8533 at 12/12/2026 19:01. Txn TXN210007327.
+SBI Alert: INR 34133.92 debited from A/c XX8576 via UPI to merchant1432@upi on 13/01/2026 00:12. Ref 810000020304. Avl Bal INR 43904.28.
+HDFC Bank: Rs 34212.23 spent on UPI transfer to user2433@okhdfcbank from account ending 8619. UTR UTR64000025547.
+ICICI Notification: Debit of Rs 34291.54 for Swiggy payment from A/c XX8662. Txn TXN210007378. Balance Rs 44098.86.
+Axis Bank SMS: Card purchase of Rs 34370.85 at Amazon has been debited from account XX8705. RRN 430000010005.
+Kotak Bank: Rs 34449.16 debited for electricity bill via BBPS from account ending 8748. Ref 810000020492.
+PNB Alert: INR 34528.47 withdrawn from ATM linked to A/c XX8791 on 18/06/2026 01:07. Txn ID TXN210007429. Bal INR 44389.73.
+Bank of Baroda: Rs 34607.78 debited due to IMPS transfer to beneficiary Riya Sharma from account XX8834. UTR UTR64000025842.
+Canara Bank: Fastag recharge of Rs 34686.09 debited from A/c XX8877. Reference 810000020633. Available balance Rs 44583.31.
+IDFC FIRST Bank Alert: Rs 34765.40 auto-debited for Netflix subscription from account ending 8920. RRN 430000010120.
+IndusInd Bank: EMI installment of Rs 34844.71 debited from A/c XX8963. Txn TXN210007497. Current balance Rs 44777.89.
+Federal Bank: INR 34923.02 sent via NEFT to beneficiary Akash Verma from account XX9006. UTR UTR64000026078.
+Yes Bank: Rs 35002.33 debited for IRCTC ticket booking from account ending 9049. Ref 810000020821.
+Union Bank Alert: You paid Rs 35081.64 to merchant3444@ybl using UPI. Debited from A/c XX9092. Txn TXN210007548.
+Indian Bank: Debit of Rs 35160.95 for POS transaction at Reliance Fresh from A/c XX9135. RRN 430000010235.
+AU SFB: Rs 35239.26 deducted as annual debit card fee from account ending 9178. Ref 810000020962. Bal Rs 45262.34.
+PhonePe: Payment of Rs 35318.57 to Zomato successful. Amount debited from linked bank account XX9221. UPI Ref 810000021009.
+Google Pay alert: Rs 35397.88 transferred to user4448@oksbi. Debited from account ending 9264 at SBI. Txn TXN210007616.
+Paytm: Mobile recharge of Rs 35476.19 completed. Debit posted to bank account XX9307. Ref 810000021103.
+BHIM UPI: Rs 35555.50 paid to VPA vendor5450@ibl and debited from A/c XX9350 on 03/07/2026 18:30. RRN 430000010350.
+Amazon Pay: Rs 35634.81 debited for order payment from account ending 9393. Txn ID TXN210007667. Balance Rs 45747.79.
+CRED: Credit card bill payment of Rs 35713.12 debited from bank account XX9436 via UPI. Ref 810000021244.
+MobiKwik: Wallet top-up of Rs 35792.43 processed; amount debited from account ending 9479. UTR UTR64000026727.
+BharatPe: Settlement adjustment debit of Rs 35871.74 posted to account XX9522. Reference 810000021338. Avl Bal Rs 46038.66.
+Jupiter app: Rs 35950.05 debited for SIP auto-pay from account ending 9565 at 08/12/2026 19:25. Txn TXN210007735.
+SBI Alert: INR 36029.36 debited from A/c XX9608 via UPI to merchant1456@upi on 09/01/2026 00:36. Ref 810000021432. Avl Bal INR 46232.24.
+HDFC Bank: Rs 36108.67 spent on UPI transfer to user2457@okhdfcbank from account ending 9651. UTR UTR64000026963.
+ICICI Notification: Debit of Rs 36187.98 for Swiggy payment from A/c XX9694. Txn TXN210007786. Balance Rs 46426.82.
+Axis Bank SMS: Card purchase of Rs 36266.29 at Amazon has been debited from account XX9737. RRN 430000010557.
+Kotak Bank: Rs 36345.60 debited for electricity bill via BBPS from account ending 9780. Ref 810000021620.
+PNB Alert: INR 36424.91 withdrawn from ATM linked to A/c XX9823 on 14/06/2026 01:31. Txn ID TXN210007837. Bal INR 46717.69.
+Bank of Baroda: Rs 36503.22 debited due to IMPS transfer to beneficiary Riya Sharma from account XX9866. UTR UTR64000027258.
+Canara Bank: Fastag recharge of Rs 36582.53 debited from A/c XX9909. Reference 810000021761. Available balance Rs 46911.27.
+IDFC FIRST Bank Alert: Rs 36661.84 auto-debited for Netflix subscription from account ending 9952. RRN 430000010672.
+IndusInd Bank: EMI installment of Rs 36740.15 debited from A/c XX9995. Txn TXN210007905. Current balance Rs 47105.85.
+Federal Bank: INR 36819.46 sent via NEFT to beneficiary Akash Verma from account XX0038. UTR UTR64000027494.
+Yes Bank: Rs 36898.77 debited for IRCTC ticket booking from account ending 0081. Ref 810000021949.
+Union Bank Alert: You paid Rs 36977.08 to merchant3468@ybl using UPI. Debited from A/c XX0124. Txn TXN210007956.
+Indian Bank: Debit of Rs 37056.39 for POS transaction at Reliance Fresh from A/c XX0167. RRN 430000010787.
+AU SFB: Rs 37135.70 deducted as annual debit card fee from account ending 0210. Ref 810000022090. Bal Rs 47590.30.
+PhonePe: Payment of Rs 37214.01 to Zomato successful. Amount debited from linked bank account XX0253. UPI Ref 810000022137.
+Google Pay alert: Rs 37293.32 transferred to user4472@oksbi. Debited from account ending 0296 at SBI. Txn TXN210008024.
+Paytm: Mobile recharge of Rs 37372.63 completed. Debit posted to bank account XX0339. Ref 810000022231.
+BHIM UPI: Rs 37451.94 paid to VPA vendor5474@ibl and debited from A/c XX0382 on 27/07/2026 18:54. RRN 430000010902.
+Amazon Pay: Rs 37530.25 debited for order payment from account ending 0425. Txn ID TXN210008075. Balance Rs 48075.75.
+CRED: Credit card bill payment of Rs 37609.56 debited from bank account XX0468 via UPI. Ref 810000022372.
+MobiKwik: Wallet top-up of Rs 37688.87 processed; amount debited from account ending 0511. UTR UTR64000028143.
+BharatPe: Settlement adjustment debit of Rs 37767.18 posted to account XX0554. Reference 810000022466. Avl Bal Rs 48366.62.
+Jupiter app: Rs 37846.49 debited for SIP auto-pay from account ending 0597 at 04/12/2026 19:49. Txn TXN210008143.
+SBI Alert: INR 37925.80 debited from A/c XX0640 via UPI to merchant1480@upi on 05/01/2026 00:00. Ref 810000022560. Avl Bal INR 48560.20.
+HDFC Bank: Rs 38004.11 spent on UPI transfer to user2481@okhdfcbank from account ending 0683. UTR UTR64000028379.
+ICICI Notification: Debit of Rs 38083.42 for Swiggy payment from A/c XX0726. Txn TXN210008194. Balance Rs 48754.78.
+Axis Bank SMS: Card purchase of Rs 38162.73 at Amazon has been debited from account XX0769. RRN 430000011109.
+Kotak Bank: Rs 38241.04 debited for electricity bill via BBPS from account ending 0812. Ref 810000022748.
+PNB Alert: INR 38320.35 withdrawn from ATM linked to A/c XX0855 on 10/06/2026 01:55. Txn ID TXN210008245. Bal INR 49045.65.
+Bank of Baroda: Rs 38399.66 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0898. UTR UTR64000028674.
+Canara Bank: Fastag recharge of Rs 38478.97 debited from A/c XX0941. Reference 810000022889. Available balance Rs 49239.23.
+IDFC FIRST Bank Alert: Rs 38557.28 auto-debited for Netflix subscription from account ending 0984. RRN 430000011224.
+IndusInd Bank: EMI installment of Rs 38636.59 debited from A/c XX1027. Txn TXN210008313. Current balance Rs 49433.81.
+Federal Bank: INR 38715.90 sent via NEFT to beneficiary Akash Verma from account XX1070. UTR UTR64000028910.
+Yes Bank: Rs 38794.21 debited for IRCTC ticket booking from account ending 1113. Ref 810000023077.
+Union Bank Alert: You paid Rs 38873.52 to merchant3492@ybl using UPI. Debited from A/c XX1156. Txn TXN210008364.
+Indian Bank: Debit of Rs 38952.83 for POS transaction at Reliance Fresh from A/c XX1199. RRN 430000011339.
+AU SFB: Rs 39031.14 deducted as annual debit card fee from account ending 1242. Ref 810000023218. Bal Rs 49918.26.
+PhonePe: Payment of Rs 39110.45 to Zomato successful. Amount debited from linked bank account XX1285. UPI Ref 810000023265.
+Google Pay alert: Rs 39189.76 transferred to user4496@oksbi. Debited from account ending 1328 at SBI. Txn TXN210008432.
+Paytm: Mobile recharge of Rs 39268.07 completed. Debit posted to bank account XX1371. Ref 810000023359.
+BHIM UPI: Rs 39347.38 paid to VPA vendor5498@ibl and debited from A/c XX1414 on 23/07/2026 18:18. RRN 430000011454.
+Amazon Pay: Rs 39426.69 debited for order payment from account ending 1457. Txn ID TXN210008483. Balance Rs 50403.71.
+CRED: Credit card bill payment of Rs 39505.00 debited from bank account XX1500 via UPI. Ref 810000023500.
+MobiKwik: Wallet top-up of Rs 39584.31 processed; amount debited from account ending 1543. UTR UTR64000029559.
+BharatPe: Settlement adjustment debit of Rs 39663.62 posted to account XX1586. Reference 810000023594. Avl Bal Rs 50694.58.
+Jupiter app: Rs 39742.93 debited for SIP auto-pay from account ending 1629 at 28/12/2026 19:13. Txn TXN210008551.
+SBI Alert: INR 39821.24 debited from A/c XX1672 via UPI to merchant1504@upi on 01/01/2026 00:24. Ref 810000023688. Avl Bal INR 50888.16.
+HDFC Bank: Rs 39900.55 spent on UPI transfer to user2505@okhdfcbank from account ending 1715. UTR UTR64000029795.
+ICICI Notification: Debit of Rs 39979.86 for Swiggy payment from A/c XX1758. Txn TXN210008602. Balance Rs 51082.74.
+Axis Bank SMS: Card purchase of Rs 40058.17 at Amazon has been debited from account XX1801. RRN 430000011661.
+Kotak Bank: Rs 40137.48 debited for electricity bill via BBPS from account ending 1844. Ref 810000023876.
+PNB Alert: INR 40216.79 withdrawn from ATM linked to A/c XX1887 on 06/06/2026 01:19. Txn ID TXN210008653. Bal INR 51373.61.
+Bank of Baroda: Rs 40295.10 debited due to IMPS transfer to beneficiary Riya Sharma from account XX1930. UTR UTR64000030090.
+Canara Bank: Fastag recharge of Rs 40374.41 debited from A/c XX1973. Reference 810000024017. Available balance Rs 51567.19.
+IDFC FIRST Bank Alert: Rs 40453.72 auto-debited for Netflix subscription from account ending 2016. RRN 430000011776.
+IndusInd Bank: EMI installment of Rs 40532.03 debited from A/c XX2059. Txn TXN210008721. Current balance Rs 51761.77.
+Federal Bank: INR 40611.34 sent via NEFT to beneficiary Akash Verma from account XX2102. UTR UTR64000030326.
+Yes Bank: Rs 40690.65 debited for IRCTC ticket booking from account ending 2145. Ref 810000024205.
+Union Bank Alert: You paid Rs 40769.96 to merchant3516@ybl using UPI. Debited from A/c XX2188. Txn TXN210008772.
+Indian Bank: Debit of Rs 40848.27 for POS transaction at Reliance Fresh from A/c XX2231. RRN 430000011891.
+AU SFB: Rs 40927.58 deducted as annual debit card fee from account ending 2274. Ref 810000024346. Bal Rs 52246.22.
+PhonePe: Payment of Rs 41006.89 to Zomato successful. Amount debited from linked bank account XX2317. UPI Ref 810000024393.
+Google Pay alert: Rs 41085.20 transferred to user4520@oksbi. Debited from account ending 2360 at SBI. Txn TXN210008840.
+Paytm: Mobile recharge of Rs 41164.51 completed. Debit posted to bank account XX2403. Ref 810000024487.
+BHIM UPI: Rs 41243.82 paid to VPA vendor5522@ibl and debited from A/c XX2446 on 19/07/2026 18:42. RRN 430000012006.
+Amazon Pay: Rs 41322.13 debited for order payment from account ending 2489. Txn ID TXN210008891. Balance Rs 52731.67.
+CRED: Credit card bill payment of Rs 41401.44 debited from bank account XX2532 via UPI. Ref 810000024628.
+MobiKwik: Wallet top-up of Rs 41480.75 processed; amount debited from account ending 2575. UTR UTR64000030975.
+BharatPe: Settlement adjustment debit of Rs 41559.06 posted to account XX2618. Reference 810000024722. Avl Bal Rs 53022.54.
+Jupiter app: Rs 41638.37 debited for SIP auto-pay from account ending 2661 at 24/12/2026 19:37. Txn TXN210008959.
+SBI Alert: INR 41717.68 debited from A/c XX2704 via UPI to merchant1528@upi on 25/01/2026 00:48. Ref 810000024816. Avl Bal INR 53216.12.
+HDFC Bank: Rs 41796.99 spent on UPI transfer to user2529@okhdfcbank from account ending 2747. UTR UTR64000031211.
+ICICI Notification: Debit of Rs 41875.30 for Swiggy payment from A/c XX2790. Txn TXN210009010. Balance Rs 53410.70.
+Axis Bank SMS: Card purchase of Rs 41954.61 at Amazon has been debited from account XX2833. RRN 430000012213.
+Kotak Bank: Rs 42033.92 debited for electricity bill via BBPS from account ending 2876. Ref 810000025004.
+PNB Alert: INR 42112.23 withdrawn from ATM linked to A/c XX2919 on 02/06/2026 01:43. Txn ID TXN210009061. Bal INR 53701.57.
+Bank of Baroda: Rs 42191.54 debited due to IMPS transfer to beneficiary Riya Sharma from account XX2962. UTR UTR64000031506.
+Canara Bank: Fastag recharge of Rs 42270.85 debited from A/c XX3005. Reference 810000025145. Available balance Rs 53895.15.
+IDFC FIRST Bank Alert: Rs 42349.16 auto-debited for Netflix subscription from account ending 3048. RRN 430000012328.
+IndusInd Bank: EMI installment of Rs 42428.47 debited from A/c XX3091. Txn TXN210009129. Current balance Rs 54089.73.
+Federal Bank: INR 42507.78 sent via NEFT to beneficiary Akash Verma from account XX3134. UTR UTR64000031742.
+Yes Bank: Rs 42586.09 debited for IRCTC ticket booking from account ending 3177. Ref 810000025333.
+Union Bank Alert: You paid Rs 42665.40 to merchant3540@ybl using UPI. Debited from A/c XX3220. Txn TXN210009180.
+Indian Bank: Debit of Rs 42744.71 for POS transaction at Reliance Fresh from A/c XX3263. RRN 430000012443.
+AU SFB: Rs 42823.02 deducted as annual debit card fee from account ending 3306. Ref 810000025474. Bal Rs 54574.18.
+PhonePe: Payment of Rs 42902.33 to Zomato successful. Amount debited from linked bank account XX3349. UPI Ref 810000025521.
+Google Pay alert: Rs 42981.64 transferred to user4544@oksbi. Debited from account ending 3392 at SBI. Txn TXN210009248.
+Paytm: Mobile recharge of Rs 43060.95 completed. Debit posted to bank account XX3435. Ref 810000025615.
+BHIM UPI: Rs 43139.26 paid to VPA vendor5546@ibl and debited from A/c XX3478 on 15/07/2026 18:06. RRN 430000012558.
+Amazon Pay: Rs 43218.57 debited for order payment from account ending 3521. Txn ID TXN210009299. Balance Rs 55059.63.
+CRED: Credit card bill payment of Rs 43297.88 debited from bank account XX3564 via UPI. Ref 810000025756.
+MobiKwik: Wallet top-up of Rs 43376.19 processed; amount debited from account ending 3607. UTR UTR64000032391.
+BharatPe: Settlement adjustment debit of Rs 43455.50 posted to account XX3650. Reference 810000025850. Avl Bal Rs 55350.50.
+Jupiter app: Rs 43534.81 debited for SIP auto-pay from account ending 3693 at 20/12/2026 19:01. Txn TXN210009367.
+SBI Alert: INR 43613.12 debited from A/c XX3736 via UPI to merchant1552@upi on 21/01/2026 00:12. Ref 810000025944. Avl Bal INR 55544.08.
+HDFC Bank: Rs 43692.43 spent on UPI transfer to user2553@okhdfcbank from account ending 3779. UTR UTR64000032627.
+ICICI Notification: Debit of Rs 43771.74 for Swiggy payment from A/c XX3822. Txn TXN210009418. Balance Rs 55738.66.
+Axis Bank SMS: Card purchase of Rs 43850.05 at Amazon has been debited from account XX3865. RRN 430000012765.
+Kotak Bank: Rs 43929.36 debited for electricity bill via BBPS from account ending 3908. Ref 810000026132.
+PNB Alert: INR 44008.67 withdrawn from ATM linked to A/c XX3951 on 26/06/2026 01:07. Txn ID TXN210009469. Bal INR 56029.53.
+Bank of Baroda: Rs 44087.98 debited due to IMPS transfer to beneficiary Riya Sharma from account XX3994. UTR UTR64000032922.
+Canara Bank: Fastag recharge of Rs 44166.29 debited from A/c XX4037. Reference 810000026273. Available balance Rs 56223.11.
+IDFC FIRST Bank Alert: Rs 44245.60 auto-debited for Netflix subscription from account ending 4080. RRN 430000012880.
+IndusInd Bank: EMI installment of Rs 44324.91 debited from A/c XX4123. Txn TXN210009537. Current balance Rs 56417.69.
+Federal Bank: INR 44403.22 sent via NEFT to beneficiary Akash Verma from account XX4166. UTR UTR64000033158.
+Yes Bank: Rs 44482.53 debited for IRCTC ticket booking from account ending 4209. Ref 810000026461.
+Union Bank Alert: You paid Rs 44561.84 to merchant3564@ybl using UPI. Debited from A/c XX4252. Txn TXN210009588.
+Indian Bank: Debit of Rs 44640.15 for POS transaction at Reliance Fresh from A/c XX4295. RRN 430000012995.
+AU SFB: Rs 44719.46 deducted as annual debit card fee from account ending 4338. Ref 810000026602. Bal Rs 56902.14.
+PhonePe: Payment of Rs 44798.77 to Zomato successful. Amount debited from linked bank account XX4381. UPI Ref 810000026649.
+Google Pay alert: Rs 44877.08 transferred to user4568@oksbi. Debited from account ending 4424 at SBI. Txn TXN210009656.
+Paytm: Mobile recharge of Rs 44956.39 completed. Debit posted to bank account XX4467. Ref 810000026743.
+BHIM UPI: Rs 45035.70 paid to VPA vendor5570@ibl and debited from A/c XX4510 on 11/07/2026 18:30. RRN 430000013110.
+Amazon Pay: Rs 45114.01 debited for order payment from account ending 4553. Txn ID TXN210009707. Balance Rs 57387.59.
+CRED: Credit card bill payment of Rs 45193.32 debited from bank account XX4596 via UPI. Ref 810000026884.
+MobiKwik: Wallet top-up of Rs 45272.63 processed; amount debited from account ending 4639. UTR UTR64000033807.
+BharatPe: Settlement adjustment debit of Rs 45351.94 posted to account XX4682. Reference 810000026978. Avl Bal Rs 57678.46.
+Jupiter app: Rs 45430.25 debited for SIP auto-pay from account ending 4725 at 16/12/2026 19:25. Txn TXN210009775.
+SBI Alert: INR 45509.56 debited from A/c XX4768 via UPI to merchant1576@upi on 17/01/2026 00:36. Ref 810000027072. Avl Bal INR 57872.04.
+HDFC Bank: Rs 45588.87 spent on UPI transfer to user2577@okhdfcbank from account ending 4811. UTR UTR64000034043.
+ICICI Notification: Debit of Rs 45667.18 for Swiggy payment from A/c XX4854. Txn TXN210009826. Balance Rs 58066.62.
+Axis Bank SMS: Card purchase of Rs 45746.49 at Amazon has been debited from account XX4897. RRN 430000013317.
+Kotak Bank: Rs 45825.80 debited for electricity bill via BBPS from account ending 4940. Ref 810000027260.
+PNB Alert: INR 45904.11 withdrawn from ATM linked to A/c XX4983 on 22/06/2026 01:31. Txn ID TXN210009877. Bal INR 58357.49.
+Bank of Baroda: Rs 45983.42 debited due to IMPS transfer to beneficiary Riya Sharma from account XX5026. UTR UTR64000034338.
+Canara Bank: Fastag recharge of Rs 46062.73 debited from A/c XX5069. Reference 810000027401. Available balance Rs 58551.07.
+IDFC FIRST Bank Alert: Rs 46141.04 auto-debited for Netflix subscription from account ending 5112. RRN 430000013432.
+IndusInd Bank: EMI installment of Rs 46220.35 debited from A/c XX5155. Txn TXN210009945. Current balance Rs 58745.65.
+Federal Bank: INR 46299.66 sent via NEFT to beneficiary Akash Verma from account XX5198. UTR UTR64000034574.
+Yes Bank: Rs 46378.97 debited for IRCTC ticket booking from account ending 5241. Ref 810000027589.
+Union Bank Alert: You paid Rs 46457.28 to merchant3588@ybl using UPI. Debited from A/c XX5284. Txn TXN210009996.
+Indian Bank: Debit of Rs 46536.59 for POS transaction at Reliance Fresh from A/c XX5327. RRN 430000013547.
+AU SFB: Rs 46615.90 deducted as annual debit card fee from account ending 5370. Ref 810000027730. Bal Rs 59230.10.
+PhonePe: Payment of Rs 46694.21 to Zomato successful. Amount debited from linked bank account XX5413. UPI Ref 810000027777.
+Google Pay alert: Rs 46773.52 transferred to user4592@oksbi. Debited from account ending 5456 at SBI. Txn TXN210010064.
+Paytm: Mobile recharge of Rs 46852.83 completed. Debit posted to bank account XX5499. Ref 810000027871.
+BHIM UPI: Rs 46931.14 paid to VPA vendor5594@ibl and debited from A/c XX5542 on 07/07/2026 18:54. RRN 430000013662.
+Amazon Pay: Rs 47010.45 debited for order payment from account ending 5585. Txn ID TXN210010115. Balance Rs 59715.55.
+CRED: Credit card bill payment of Rs 47089.76 debited from bank account XX5628 via UPI. Ref 810000028012.
+MobiKwik: Wallet top-up of Rs 47168.07 processed; amount debited from account ending 5671. UTR UTR64000035223.
+BharatPe: Settlement adjustment debit of Rs 47247.38 posted to account XX5714. Reference 810000028106. Avl Bal Rs 60006.42.
+Jupiter app: Rs 47326.69 debited for SIP auto-pay from account ending 5757 at 12/12/2026 19:49. Txn TXN210010183.
+SBI Alert: INR 47405.00 debited from A/c XX5800 via UPI to merchant1600@upi on 13/01/2026 00:00. Ref 810000028200. Avl Bal INR 60200.00.
+HDFC Bank: Rs 47484.31 spent on UPI transfer to user2601@okhdfcbank from account ending 5843. UTR UTR64000035459.
+ICICI Notification: Debit of Rs 47563.62 for Swiggy payment from A/c XX5886. Txn TXN210010234. Balance Rs 60394.58.
+Axis Bank SMS: Card purchase of Rs 47642.93 at Amazon has been debited from account XX5929. RRN 430000013869.
+Kotak Bank: Rs 47721.24 debited for electricity bill via BBPS from account ending 5972. Ref 810000028388.
+PNB Alert: INR 47800.55 withdrawn from ATM linked to A/c XX6015 on 18/06/2026 01:55. Txn ID TXN210010285. Bal INR 60685.45.
+Bank of Baroda: Rs 47879.86 debited due to IMPS transfer to beneficiary Riya Sharma from account XX6058. UTR UTR64000035754.
+Canara Bank: Fastag recharge of Rs 47958.17 debited from A/c XX6101. Reference 810000028529. Available balance Rs 60879.03.
+IDFC FIRST Bank Alert: Rs 48037.48 auto-debited for Netflix subscription from account ending 6144. RRN 430000013984.
+IndusInd Bank: EMI installment of Rs 48116.79 debited from A/c XX6187. Txn TXN210010353. Current balance Rs 61073.61.
+Federal Bank: INR 48195.10 sent via NEFT to beneficiary Akash Verma from account XX6230. UTR UTR64000035990.
+Yes Bank: Rs 48274.41 debited for IRCTC ticket booking from account ending 6273. Ref 810000028717.
+Union Bank Alert: You paid Rs 48353.72 to merchant3612@ybl using UPI. Debited from A/c XX6316. Txn TXN210010404.
+Indian Bank: Debit of Rs 48432.03 for POS transaction at Reliance Fresh from A/c XX6359. RRN 430000014099.
+AU SFB: Rs 48511.34 deducted as annual debit card fee from account ending 6402. Ref 810000028858. Bal Rs 61558.06.
+PhonePe: Payment of Rs 48590.65 to Zomato successful. Amount debited from linked bank account XX6445. UPI Ref 810000028905.
+Google Pay alert: Rs 48669.96 transferred to user4616@oksbi. Debited from account ending 6488 at SBI. Txn TXN210010472.
+Paytm: Mobile recharge of Rs 48748.27 completed. Debit posted to bank account XX6531. Ref 810000028999.
+BHIM UPI: Rs 48827.58 paid to VPA vendor5618@ibl and debited from A/c XX6574 on 03/07/2026 18:18. RRN 430000014214.
+Amazon Pay: Rs 48906.89 debited for order payment from account ending 6617. Txn ID TXN210010523. Balance Rs 62043.51.
+CRED: Credit card bill payment of Rs 48985.20 debited from bank account XX6660 via UPI. Ref 810000029140.
+MobiKwik: Wallet top-up of Rs 49064.51 processed; amount debited from account ending 6703. UTR UTR64000036639.
+BharatPe: Settlement adjustment debit of Rs 49143.82 posted to account XX6746. Reference 810000029234. Avl Bal Rs 62334.38.
+Jupiter app: Rs 49222.13 debited for SIP auto-pay from account ending 6789 at 08/12/2026 19:13. Txn TXN210010591.
+SBI Alert: INR 49301.44 debited from A/c XX6832 via UPI to merchant1624@upi on 09/01/2026 00:24. Ref 810000029328. Avl Bal INR 62528.96.
+HDFC Bank: Rs 49380.75 spent on UPI transfer to user2625@okhdfcbank from account ending 6875. UTR UTR64000036875.
+ICICI Notification: Debit of Rs 49459.06 for Swiggy payment from A/c XX6918. Txn TXN210010642. Balance Rs 62722.54.
+Axis Bank SMS: Card purchase of Rs 49538.37 at Amazon has been debited from account XX6961. RRN 430000014421.
+Kotak Bank: Rs 49617.68 debited for electricity bill via BBPS from account ending 7004. Ref 810000029516.
+PNB Alert: INR 49696.99 withdrawn from ATM linked to A/c XX7047 on 14/06/2026 01:19. Txn ID TXN210010693. Bal INR 63013.41.
+Bank of Baroda: Rs 49775.30 debited due to IMPS transfer to beneficiary Riya Sharma from account XX7090. UTR UTR64000037170.
+Canara Bank: Fastag recharge of Rs 49854.61 debited from A/c XX7133. Reference 810000029657. Available balance Rs 63207.99.
+IDFC FIRST Bank Alert: Rs 49933.92 auto-debited for Netflix subscription from account ending 7176. RRN 430000014536.
+IndusInd Bank: EMI installment of Rs 50012.23 debited from A/c XX7219. Txn TXN210010761. Current balance Rs 63401.57.
+Federal Bank: INR 50091.54 sent via NEFT to beneficiary Akash Verma from account XX7262. UTR UTR64000037406.
+Yes Bank: Rs 50170.85 debited for IRCTC ticket booking from account ending 7305. Ref 810000029845.
+Union Bank Alert: You paid Rs 50249.16 to merchant3636@ybl using UPI. Debited from A/c XX7348. Txn TXN210010812.
+Indian Bank: Debit of Rs 50328.47 for POS transaction at Reliance Fresh from A/c XX7391. RRN 430000014651.
+AU SFB: Rs 50407.78 deducted as annual debit card fee from account ending 7434. Ref 810000029986. Bal Rs 63886.02.
+PhonePe: Payment of Rs 50486.09 to Zomato successful. Amount debited from linked bank account XX7477. UPI Ref 810000030033.
+Google Pay alert: Rs 50565.40 transferred to user4640@oksbi. Debited from account ending 7520 at SBI. Txn TXN210010880.
+Paytm: Mobile recharge of Rs 50644.71 completed. Debit posted to bank account XX7563. Ref 810000030127.
+BHIM UPI: Rs 50723.02 paid to VPA vendor5642@ibl and debited from A/c XX7606 on 27/07/2026 18:42. RRN 430000014766.
+Amazon Pay: Rs 50802.33 debited for order payment from account ending 7649. Txn ID TXN210010931. Balance Rs 64371.47.
+CRED: Credit card bill payment of Rs 50881.64 debited from bank account XX7692 via UPI. Ref 810000030268.
+MobiKwik: Wallet top-up of Rs 50960.95 processed; amount debited from account ending 7735. UTR UTR64000038055.
+BharatPe: Settlement adjustment debit of Rs 51039.26 posted to account XX7778. Reference 810000030362. Avl Bal Rs 64662.34.
+Jupiter app: Rs 51118.57 debited for SIP auto-pay from account ending 7821 at 04/12/2026 19:37. Txn TXN210010999.
+SBI Alert: INR 51197.88 debited from A/c XX7864 via UPI to merchant1648@upi on 05/01/2026 00:48. Ref 810000030456. Avl Bal INR 64856.92.
+HDFC Bank: Rs 51276.19 spent on UPI transfer to user2649@okhdfcbank from account ending 7907. UTR UTR64000038291.
+ICICI Notification: Debit of Rs 51355.50 for Swiggy payment from A/c XX7950. Txn TXN210011050. Balance Rs 65050.50.
+Axis Bank SMS: Card purchase of Rs 51434.81 at Amazon has been debited from account XX7993. RRN 430000014973.
+Kotak Bank: Rs 51513.12 debited for electricity bill via BBPS from account ending 8036. Ref 810000030644.
+PNB Alert: INR 51592.43 withdrawn from ATM linked to A/c XX8079 on 10/06/2026 01:43. Txn ID TXN210011101. Bal INR 65341.37.
+Bank of Baroda: Rs 51671.74 debited due to IMPS transfer to beneficiary Riya Sharma from account XX8122. UTR UTR64000038586.
+Canara Bank: Fastag recharge of Rs 51750.05 debited from A/c XX8165. Reference 810000030785. Available balance Rs 65535.95.
+IDFC FIRST Bank Alert: Rs 51829.36 auto-debited for Netflix subscription from account ending 8208. RRN 430000015088.
+IndusInd Bank: EMI installment of Rs 51908.67 debited from A/c XX8251. Txn TXN210011169. Current balance Rs 65729.53.
+Federal Bank: INR 51987.98 sent via NEFT to beneficiary Akash Verma from account XX8294. UTR UTR64000038822.
+Yes Bank: Rs 66.29 debited for IRCTC ticket booking from account ending 8337. Ref 810000030973.
+Union Bank Alert: You paid Rs 145.60 to merchant3660@ybl using UPI. Debited from A/c XX8380. Txn TXN210011220.
+Indian Bank: Debit of Rs 224.91 for POS transaction at Reliance Fresh from A/c XX8423. RRN 430000015203.
+AU SFB: Rs 303.22 deducted as annual debit card fee from account ending 8466. Ref 810000031114. Bal Rs 66214.98.
+PhonePe: Payment of Rs 382.53 to Zomato successful. Amount debited from linked bank account XX8509. UPI Ref 810000031161.
+Google Pay alert: Rs 461.84 transferred to user4664@oksbi. Debited from account ending 8552 at SBI. Txn TXN210011288.
+Paytm: Mobile recharge of Rs 540.15 completed. Debit posted to bank account XX8595. Ref 810000031255.
+BHIM UPI: Rs 619.46 paid to VPA vendor5666@ibl and debited from A/c XX8638 on 23/07/2026 18:06. RRN 430000015318.
+Amazon Pay: Rs 698.77 debited for order payment from account ending 8681. Txn ID TXN210011339. Balance Rs 66699.43.
+CRED: Credit card bill payment of Rs 777.08 debited from bank account XX8724 via UPI. Ref 810000031396.
+MobiKwik: Wallet top-up of Rs 856.39 processed; amount debited from account ending 8767. UTR UTR64000039471.
+BharatPe: Settlement adjustment debit of Rs 935.70 posted to account XX8810. Reference 810000031490. Avl Bal Rs 66990.30.
+Jupiter app: Rs 1014.01 debited for SIP auto-pay from account ending 8853 at 28/12/2026 19:01. Txn TXN210011407.
+SBI Alert: INR 1093.32 debited from A/c XX8896 via UPI to merchant1672@upi on 01/01/2026 00:12. Ref 810000031584. Avl Bal INR 67184.88.
+HDFC Bank: Rs 1172.63 spent on UPI transfer to user2673@okhdfcbank from account ending 8939. UTR UTR64000039707.
+ICICI Notification: Debit of Rs 1251.94 for Swiggy payment from A/c XX8982. Txn TXN210011458. Balance Rs 67378.46.
+Axis Bank SMS: Card purchase of Rs 1330.25 at Amazon has been debited from account XX9025. RRN 430000015525.
+Kotak Bank: Rs 1409.56 debited for electricity bill via BBPS from account ending 9068. Ref 810000031772.
+PNB Alert: INR 1488.87 withdrawn from ATM linked to A/c XX9111 on 06/06/2026 01:07. Txn ID TXN210011509. Bal INR 67669.33.
+Bank of Baroda: Rs 1567.18 debited due to IMPS transfer to beneficiary Riya Sharma from account XX9154. UTR UTR64000040002.
+Canara Bank: Fastag recharge of Rs 1646.49 debited from A/c XX9197. Reference 810000031913. Available balance Rs 67863.91.
+IDFC FIRST Bank Alert: Rs 1725.80 auto-debited for Netflix subscription from account ending 9240. RRN 430000015640.
+IndusInd Bank: EMI installment of Rs 1804.11 debited from A/c XX9283. Txn TXN210011577. Current balance Rs 68057.49.
+Federal Bank: INR 1883.42 sent via NEFT to beneficiary Akash Verma from account XX9326. UTR UTR64000040238.
+Yes Bank: Rs 1962.73 debited for IRCTC ticket booking from account ending 9369. Ref 810000032101.
+Union Bank Alert: You paid Rs 2041.04 to merchant3684@ybl using UPI. Debited from A/c XX9412. Txn TXN210011628.
+Indian Bank: Debit of Rs 2120.35 for POS transaction at Reliance Fresh from A/c XX9455. RRN 430000015755.
+AU SFB: Rs 2199.66 deducted as annual debit card fee from account ending 9498. Ref 810000032242. Bal Rs 68542.94.
+PhonePe: Payment of Rs 2278.97 to Zomato successful. Amount debited from linked bank account XX9541. UPI Ref 810000032289.
+Google Pay alert: Rs 2357.28 transferred to user4688@oksbi. Debited from account ending 9584 at SBI. Txn TXN210011696.
+Paytm: Mobile recharge of Rs 2436.59 completed. Debit posted to bank account XX9627. Ref 810000032383.
+BHIM UPI: Rs 2515.90 paid to VPA vendor5690@ibl and debited from A/c XX9670 on 19/07/2026 18:30. RRN 430000015870.
+Amazon Pay: Rs 2594.21 debited for order payment from account ending 9713. Txn ID TXN210011747. Balance Rs 69027.39.
+CRED: Credit card bill payment of Rs 2673.52 debited from bank account XX9756 via UPI. Ref 810000032524.
+MobiKwik: Wallet top-up of Rs 2752.83 processed; amount debited from account ending 9799. UTR UTR64000040887.
+BharatPe: Settlement adjustment debit of Rs 2831.14 posted to account XX9842. Reference 810000032618. Avl Bal Rs 69318.26.
+Jupiter app: Rs 2910.45 debited for SIP auto-pay from account ending 9885 at 24/12/2026 19:25. Txn TXN210011815.
+SBI Alert: INR 2989.76 debited from A/c XX9928 via UPI to merchant1696@upi on 25/01/2026 00:36. Ref 810000032712. Avl Bal INR 69512.84.
+HDFC Bank: Rs 3068.07 spent on UPI transfer to user2697@okhdfcbank from account ending 9971. UTR UTR64000041123.
+ICICI Notification: Debit of Rs 3147.38 for Swiggy payment from A/c XX0014. Txn TXN210011866. Balance Rs 69706.42.
+Axis Bank SMS: Card purchase of Rs 3226.69 at Amazon has been debited from account XX0057. RRN 430000016077.
+Kotak Bank: Rs 3305.00 debited for electricity bill via BBPS from account ending 0100. Ref 810000032900.
+PNB Alert: INR 3384.31 withdrawn from ATM linked to A/c XX0143 on 02/06/2026 01:31. Txn ID TXN210011917. Bal INR 69997.29.
+Bank of Baroda: Rs 3463.62 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0186. UTR UTR64000041418.
+Canara Bank: Fastag recharge of Rs 3542.93 debited from A/c XX0229. Reference 810000033041. Available balance Rs 70191.87.
+IDFC FIRST Bank Alert: Rs 3621.24 auto-debited for Netflix subscription from account ending 0272. RRN 430000016192.
+IndusInd Bank: EMI installment of Rs 3700.55 debited from A/c XX0315. Txn TXN210011985. Current balance Rs 70385.45.
+Federal Bank: INR 3779.86 sent via NEFT to beneficiary Akash Verma from account XX0358. UTR UTR64000041654.
+Yes Bank: Rs 3858.17 debited for IRCTC ticket booking from account ending 0401. Ref 810000033229.
+Union Bank Alert: You paid Rs 3937.48 to merchant3708@ybl using UPI. Debited from A/c XX0444. Txn TXN210012036.
+Indian Bank: Debit of Rs 4016.79 for POS transaction at Reliance Fresh from A/c XX0487. RRN 430000016307.
+AU SFB: Rs 4095.10 deducted as annual debit card fee from account ending 0530. Ref 810000033370. Bal Rs 70870.90.
+PhonePe: Payment of Rs 4174.41 to Zomato successful. Amount debited from linked bank account XX0573. UPI Ref 810000033417.
+Google Pay alert: Rs 4253.72 transferred to user4712@oksbi. Debited from account ending 0616 at SBI. Txn TXN210012104.
+Paytm: Mobile recharge of Rs 4332.03 completed. Debit posted to bank account XX0659. Ref 810000033511.
+BHIM UPI: Rs 4411.34 paid to VPA vendor5714@ibl and debited from A/c XX0702 on 15/07/2026 18:54. RRN 430000016422.
+Amazon Pay: Rs 4490.65 debited for order payment from account ending 0745. Txn ID TXN210012155. Balance Rs 71355.35.
+CRED: Credit card bill payment of Rs 4569.96 debited from bank account XX0788 via UPI. Ref 810000033652.
+MobiKwik: Wallet top-up of Rs 4648.27 processed; amount debited from account ending 0831. UTR UTR64000042303.
+BharatPe: Settlement adjustment debit of Rs 4727.58 posted to account XX0874. Reference 810000033746. Avl Bal Rs 71646.22.
+Jupiter app: Rs 4806.89 debited for SIP auto-pay from account ending 0917 at 20/12/2026 19:49. Txn TXN210012223.
+SBI Alert: INR 4885.20 debited from A/c XX0960 via UPI to merchant1720@upi on 21/01/2026 00:00. Ref 810000033840. Avl Bal INR 71840.80.
+HDFC Bank: Rs 4964.51 spent on UPI transfer to user2721@okhdfcbank from account ending 1003. UTR UTR64000042539.
+ICICI Notification: Debit of Rs 5043.82 for Swiggy payment from A/c XX1046. Txn TXN210012274. Balance Rs 72034.38.
+Axis Bank SMS: Card purchase of Rs 5122.13 at Amazon has been debited from account XX1089. RRN 430000016629.
+Kotak Bank: Rs 5201.44 debited for electricity bill via BBPS from account ending 1132. Ref 810000034028.
+PNB Alert: INR 5280.75 withdrawn from ATM linked to A/c XX1175 on 26/06/2026 01:55. Txn ID TXN210012325. Bal INR 72325.25.
+Bank of Baroda: Rs 5359.06 debited due to IMPS transfer to beneficiary Riya Sharma from account XX1218. UTR UTR64000042834.
+Canara Bank: Fastag recharge of Rs 5438.37 debited from A/c XX1261. Reference 810000034169. Available balance Rs 72519.83.
+IDFC FIRST Bank Alert: Rs 5517.68 auto-debited for Netflix subscription from account ending 1304. RRN 430000016744.
+IndusInd Bank: EMI installment of Rs 5596.99 debited from A/c XX1347. Txn TXN210012393. Current balance Rs 72713.41.
+Federal Bank: INR 5675.30 sent via NEFT to beneficiary Akash Verma from account XX1390. UTR UTR64000043070.
+Yes Bank: Rs 5754.61 debited for IRCTC ticket booking from account ending 1433. Ref 810000034357.
+Union Bank Alert: You paid Rs 5833.92 to merchant3732@ybl using UPI. Debited from A/c XX1476. Txn TXN210012444.
+Indian Bank: Debit of Rs 5912.23 for POS transaction at Reliance Fresh from A/c XX1519. RRN 430000016859.
+AU SFB: Rs 5991.54 deducted as annual debit card fee from account ending 1562. Ref 810000034498. Bal Rs 73198.86.
+PhonePe: Payment of Rs 6070.85 to Zomato successful. Amount debited from linked bank account XX1605. UPI Ref 810000034545.
+Google Pay alert: Rs 6149.16 transferred to user4736@oksbi. Debited from account ending 1648 at SBI. Txn TXN210012512.
+Paytm: Mobile recharge of Rs 6228.47 completed. Debit posted to bank account XX1691. Ref 810000034639.
+BHIM UPI: Rs 6307.78 paid to VPA vendor5738@ibl and debited from A/c XX1734 on 11/07/2026 18:18. RRN 430000016974.
+Amazon Pay: Rs 6386.09 debited for order payment from account ending 1777. Txn ID TXN210012563. Balance Rs 73683.31.
+CRED: Credit card bill payment of Rs 6465.40 debited from bank account XX1820 via UPI. Ref 810000034780.
+MobiKwik: Wallet top-up of Rs 6544.71 processed; amount debited from account ending 1863. UTR UTR64000043719.
+BharatPe: Settlement adjustment debit of Rs 6623.02 posted to account XX1906. Reference 810000034874. Avl Bal Rs 73974.18.
+Jupiter app: Rs 6702.33 debited for SIP auto-pay from account ending 1949 at 16/12/2026 19:13. Txn TXN210012631.
+SBI Alert: INR 6781.64 debited from A/c XX1992 via UPI to merchant1744@upi on 17/01/2026 00:24. Ref 810000034968. Avl Bal INR 74168.76.
+HDFC Bank: Rs 6860.95 spent on UPI transfer to user2745@okhdfcbank from account ending 2035. UTR UTR64000043955.
+ICICI Notification: Debit of Rs 6939.26 for Swiggy payment from A/c XX2078. Txn TXN210012682. Balance Rs 74362.34.
+Axis Bank SMS: Card purchase of Rs 7018.57 at Amazon has been debited from account XX2121. RRN 430000017181.
+Kotak Bank: Rs 7097.88 debited for electricity bill via BBPS from account ending 2164. Ref 810000035156.
+PNB Alert: INR 7176.19 withdrawn from ATM linked to A/c XX2207 on 22/06/2026 01:19. Txn ID TXN210012733. Bal INR 74653.21.
+Bank of Baroda: Rs 7255.50 debited due to IMPS transfer to beneficiary Riya Sharma from account XX2250. UTR UTR64000044250.
+Canara Bank: Fastag recharge of Rs 7334.81 debited from A/c XX2293. Reference 810000035297. Available balance Rs 74847.79.
+IDFC FIRST Bank Alert: Rs 7413.12 auto-debited for Netflix subscription from account ending 2336. RRN 430000017296.
+IndusInd Bank: EMI installment of Rs 7492.43 debited from A/c XX2379. Txn TXN210012801. Current balance Rs 75041.37.
+Federal Bank: INR 7571.74 sent via NEFT to beneficiary Akash Verma from account XX2422. UTR UTR64000044486.
+Yes Bank: Rs 7650.05 debited for IRCTC ticket booking from account ending 2465. Ref 810000035485.
+Union Bank Alert: You paid Rs 7729.36 to merchant3756@ybl using UPI. Debited from A/c XX2508. Txn TXN210012852.
+Indian Bank: Debit of Rs 7808.67 for POS transaction at Reliance Fresh from A/c XX2551. RRN 430000017411.
+AU SFB: Rs 7887.98 deducted as annual debit card fee from account ending 2594. Ref 810000035626. Bal Rs 75526.82.
+PhonePe: Payment of Rs 7966.29 to Zomato successful. Amount debited from linked bank account XX2637. UPI Ref 810000035673.
+Google Pay alert: Rs 8045.60 transferred to user4760@oksbi. Debited from account ending 2680 at SBI. Txn TXN210012920.
+Paytm: Mobile recharge of Rs 8124.91 completed. Debit posted to bank account XX2723. Ref 810000035767.
+BHIM UPI: Rs 8203.22 paid to VPA vendor5762@ibl and debited from A/c XX2766 on 07/07/2026 18:42. RRN 430000017526.
+Amazon Pay: Rs 8282.53 debited for order payment from account ending 2809. Txn ID TXN210012971. Balance Rs 76011.27.
+CRED: Credit card bill payment of Rs 8361.84 debited from bank account XX2852 via UPI. Ref 810000035908.
+MobiKwik: Wallet top-up of Rs 8440.15 processed; amount debited from account ending 2895. UTR UTR64000045135.
+BharatPe: Settlement adjustment debit of Rs 8519.46 posted to account XX2938. Reference 810000036002. Avl Bal Rs 76302.14.
+Jupiter app: Rs 8598.77 debited for SIP auto-pay from account ending 2981 at 12/12/2026 19:37. Txn TXN210013039.
+SBI Alert: INR 8677.08 debited from A/c XX3024 via UPI to merchant1768@upi on 13/01/2026 00:48. Ref 810000036096. Avl Bal INR 76496.72.
+HDFC Bank: Rs 8756.39 spent on UPI transfer to user2769@okhdfcbank from account ending 3067. UTR UTR64000045371.
+ICICI Notification: Debit of Rs 8835.70 for Swiggy payment from A/c XX3110. Txn TXN210013090. Balance Rs 76690.30.
+Axis Bank SMS: Card purchase of Rs 8914.01 at Amazon has been debited from account XX3153. RRN 430000017733.
+Kotak Bank: Rs 8993.32 debited for electricity bill via BBPS from account ending 3196. Ref 810000036284.
+PNB Alert: INR 9072.63 withdrawn from ATM linked to A/c XX3239 on 18/06/2026 01:43. Txn ID TXN210013141. Bal INR 76981.17.
+Bank of Baroda: Rs 9151.94 debited due to IMPS transfer to beneficiary Riya Sharma from account XX3282. UTR UTR64000045666.
+Canara Bank: Fastag recharge of Rs 9230.25 debited from A/c XX3325. Reference 810000036425. Available balance Rs 77175.75.
+IDFC FIRST Bank Alert: Rs 9309.56 auto-debited for Netflix subscription from account ending 3368. RRN 430000017848.
+IndusInd Bank: EMI installment of Rs 9388.87 debited from A/c XX3411. Txn TXN210013209. Current balance Rs 77369.33.
+Federal Bank: INR 9467.18 sent via NEFT to beneficiary Akash Verma from account XX3454. UTR UTR64000045902.
+Yes Bank: Rs 9546.49 debited for IRCTC ticket booking from account ending 3497. Ref 810000036613.
+Union Bank Alert: You paid Rs 9625.80 to merchant3780@ybl using UPI. Debited from A/c XX3540. Txn TXN210013260.
+Indian Bank: Debit of Rs 9704.11 for POS transaction at Reliance Fresh from A/c XX3583. RRN 430000017963.
+AU SFB: Rs 9783.42 deducted as annual debit card fee from account ending 3626. Ref 810000036754. Bal Rs 77854.78.
+PhonePe: Payment of Rs 9862.73 to Zomato successful. Amount debited from linked bank account XX3669. UPI Ref 810000036801.
+Google Pay alert: Rs 9941.04 transferred to user4784@oksbi. Debited from account ending 3712 at SBI. Txn TXN210013328.
+Paytm: Mobile recharge of Rs 10020.35 completed. Debit posted to bank account XX3755. Ref 810000036895.
+BHIM UPI: Rs 10099.66 paid to VPA vendor5786@ibl and debited from A/c XX3798 on 03/07/2026 18:06. RRN 430000018078.
+Amazon Pay: Rs 10178.97 debited for order payment from account ending 3841. Txn ID TXN210013379. Balance Rs 78339.23.
+CRED: Credit card bill payment of Rs 10257.28 debited from bank account XX3884 via UPI. Ref 810000037036.
+MobiKwik: Wallet top-up of Rs 10336.59 processed; amount debited from account ending 3927. UTR UTR64000046551.
+BharatPe: Settlement adjustment debit of Rs 10415.90 posted to account XX3970. Reference 810000037130. Avl Bal Rs 78630.10.
+Jupiter app: Rs 10494.21 debited for SIP auto-pay from account ending 4013 at 08/12/2026 19:01. Txn TXN210013447.
+SBI Alert: INR 10573.52 debited from A/c XX4056 via UPI to merchant1792@upi on 09/01/2026 00:12. Ref 810000037224. Avl Bal INR 78824.68.
+HDFC Bank: Rs 10652.83 spent on UPI transfer to user2793@okhdfcbank from account ending 4099. UTR UTR64000046787.
+ICICI Notification: Debit of Rs 10731.14 for Swiggy payment from A/c XX4142. Txn TXN210013498. Balance Rs 79018.26.
+Axis Bank SMS: Card purchase of Rs 10810.45 at Amazon has been debited from account XX4185. RRN 430000018285.
+Kotak Bank: Rs 10889.76 debited for electricity bill via BBPS from account ending 4228. Ref 810000037412.
+PNB Alert: INR 10968.07 withdrawn from ATM linked to A/c XX4271 on 14/06/2026 01:07. Txn ID TXN210013549. Bal INR 79309.13.
+Bank of Baroda: Rs 11047.38 debited due to IMPS transfer to beneficiary Riya Sharma from account XX4314. UTR UTR64000047082.
+Canara Bank: Fastag recharge of Rs 11126.69 debited from A/c XX4357. Reference 810000037553. Available balance Rs 79503.71.
+IDFC FIRST Bank Alert: Rs 11205.00 auto-debited for Netflix subscription from account ending 4400. RRN 430000018400.
+IndusInd Bank: EMI installment of Rs 11284.31 debited from A/c XX4443. Txn TXN210013617. Current balance Rs 79697.29.
+Federal Bank: INR 11363.62 sent via NEFT to beneficiary Akash Verma from account XX4486. UTR UTR64000047318.
+Yes Bank: Rs 11442.93 debited for IRCTC ticket booking from account ending 4529. Ref 810000037741.
+Union Bank Alert: You paid Rs 11521.24 to merchant3804@ybl using UPI. Debited from A/c XX4572. Txn TXN210013668.
+Indian Bank: Debit of Rs 11600.55 for POS transaction at Reliance Fresh from A/c XX4615. RRN 430000018515.
+AU SFB: Rs 11679.86 deducted as annual debit card fee from account ending 4658. Ref 810000037882. Bal Rs 80182.74.
+PhonePe: Payment of Rs 11758.17 to Zomato successful. Amount debited from linked bank account XX4701. UPI Ref 810000037929.
+Google Pay alert: Rs 11837.48 transferred to user4808@oksbi. Debited from account ending 4744 at SBI. Txn TXN210013736.
+Paytm: Mobile recharge of Rs 11916.79 completed. Debit posted to bank account XX4787. Ref 810000038023.
+BHIM UPI: Rs 11995.10 paid to VPA vendor5810@ibl and debited from A/c XX4830 on 27/07/2026 18:30. RRN 430000018630.
+Amazon Pay: Rs 12074.41 debited for order payment from account ending 4873. Txn ID TXN210013787. Balance Rs 80667.19.
+CRED: Credit card bill payment of Rs 12153.72 debited from bank account XX4916 via UPI. Ref 810000038164.
+MobiKwik: Wallet top-up of Rs 12232.03 processed; amount debited from account ending 4959. UTR UTR64000047967.
+BharatPe: Settlement adjustment debit of Rs 12311.34 posted to account XX5002. Reference 810000038258. Avl Bal Rs 80958.06.
+Jupiter app: Rs 12390.65 debited for SIP auto-pay from account ending 5045 at 04/12/2026 19:25. Txn TXN210013855.
+SBI Alert: INR 12469.96 debited from A/c XX5088 via UPI to merchant1816@upi on 05/01/2026 00:36. Ref 810000038352. Avl Bal INR 81152.64.
+HDFC Bank: Rs 12548.27 spent on UPI transfer to user2817@okhdfcbank from account ending 5131. UTR UTR64000048203.
+ICICI Notification: Debit of Rs 12627.58 for Swiggy payment from A/c XX5174. Txn TXN210013906. Balance Rs 81346.22.
+Axis Bank SMS: Card purchase of Rs 12706.89 at Amazon has been debited from account XX5217. RRN 430000018837.
+Kotak Bank: Rs 12785.20 debited for electricity bill via BBPS from account ending 5260. Ref 810000038540.
+PNB Alert: INR 12864.51 withdrawn from ATM linked to A/c XX5303 on 10/06/2026 01:31. Txn ID TXN210013957. Bal INR 81637.09.
+Bank of Baroda: Rs 12943.82 debited due to IMPS transfer to beneficiary Riya Sharma from account XX5346. UTR UTR64000048498.
+Canara Bank: Fastag recharge of Rs 13022.13 debited from A/c XX5389. Reference 810000038681. Available balance Rs 81831.67.
+IDFC FIRST Bank Alert: Rs 13101.44 auto-debited for Netflix subscription from account ending 5432. RRN 430000018952.
+IndusInd Bank: EMI installment of Rs 13180.75 debited from A/c XX5475. Txn TXN210014025. Current balance Rs 82025.25.
+Federal Bank: INR 13259.06 sent via NEFT to beneficiary Akash Verma from account XX5518. UTR UTR64000048734.
+Yes Bank: Rs 13338.37 debited for IRCTC ticket booking from account ending 5561. Ref 810000038869.
+Union Bank Alert: You paid Rs 13417.68 to merchant3828@ybl using UPI. Debited from A/c XX5604. Txn TXN210014076.
+Indian Bank: Debit of Rs 13496.99 for POS transaction at Reliance Fresh from A/c XX5647. RRN 430000019067.
+AU SFB: Rs 13575.30 deducted as annual debit card fee from account ending 5690. Ref 810000039010. Bal Rs 82510.70.
+PhonePe: Payment of Rs 13654.61 to Zomato successful. Amount debited from linked bank account XX5733. UPI Ref 810000039057.
+Google Pay alert: Rs 13733.92 transferred to user4832@oksbi. Debited from account ending 5776 at SBI. Txn TXN210014144.
+Paytm: Mobile recharge of Rs 13812.23 completed. Debit posted to bank account XX5819. Ref 810000039151.
+BHIM UPI: Rs 13891.54 paid to VPA vendor5834@ibl and debited from A/c XX5862 on 23/07/2026 18:54. RRN 430000019182.
+Amazon Pay: Rs 13970.85 debited for order payment from account ending 5905. Txn ID TXN210014195. Balance Rs 82995.15.
+CRED: Credit card bill payment of Rs 14049.16 debited from bank account XX5948 via UPI. Ref 810000039292.
+MobiKwik: Wallet top-up of Rs 14128.47 processed; amount debited from account ending 5991. UTR UTR64000049383.
+BharatPe: Settlement adjustment debit of Rs 14207.78 posted to account XX6034. Reference 810000039386. Avl Bal Rs 83286.02.
+Jupiter app: Rs 14286.09 debited for SIP auto-pay from account ending 6077 at 28/12/2026 19:49. Txn TXN210014263.
+SBI Alert: INR 14365.40 debited from A/c XX6120 via UPI to merchant1840@upi on 01/01/2026 00:00. Ref 810000039480. Avl Bal INR 83480.60.
+HDFC Bank: Rs 14444.71 spent on UPI transfer to user2841@okhdfcbank from account ending 6163. UTR UTR64000049619.
+ICICI Notification: Debit of Rs 14523.02 for Swiggy payment from A/c XX6206. Txn TXN210014314. Balance Rs 83674.18.
+Axis Bank SMS: Card purchase of Rs 14602.33 at Amazon has been debited from account XX6249. RRN 430000019389.
+Kotak Bank: Rs 14681.64 debited for electricity bill via BBPS from account ending 6292. Ref 810000039668.
+PNB Alert: INR 14760.95 withdrawn from ATM linked to A/c XX6335 on 06/06/2026 01:55. Txn ID TXN210014365. Bal INR 83965.05.
+Bank of Baroda: Rs 14839.26 debited due to IMPS transfer to beneficiary Riya Sharma from account XX6378. UTR UTR64000049914.
+Canara Bank: Fastag recharge of Rs 14918.57 debited from A/c XX6421. Reference 810000039809. Available balance Rs 84159.63.
+IDFC FIRST Bank Alert: Rs 14997.88 auto-debited for Netflix subscription from account ending 6464. RRN 430000019504.
+IndusInd Bank: EMI installment of Rs 15076.19 debited from A/c XX6507. Txn TXN210014433. Current balance Rs 84353.21.
+Federal Bank: INR 15155.50 sent via NEFT to beneficiary Akash Verma from account XX6550. UTR UTR64000050150.
+Yes Bank: Rs 15234.81 debited for IRCTC ticket booking from account ending 6593. Ref 810000039997.
+Union Bank Alert: You paid Rs 15313.12 to merchant3852@ybl using UPI. Debited from A/c XX6636. Txn TXN210014484.
+Indian Bank: Debit of Rs 15392.43 for POS transaction at Reliance Fresh from A/c XX6679. RRN 430000019619.
+AU SFB: Rs 15471.74 deducted as annual debit card fee from account ending 6722. Ref 810000040138. Bal Rs 84838.66.
+PhonePe: Payment of Rs 15550.05 to Zomato successful. Amount debited from linked bank account XX6765. UPI Ref 810000040185.
+Google Pay alert: Rs 15629.36 transferred to user4856@oksbi. Debited from account ending 6808 at SBI. Txn TXN210014552.
+Paytm: Mobile recharge of Rs 15708.67 completed. Debit posted to bank account XX6851. Ref 810000040279.
+BHIM UPI: Rs 15787.98 paid to VPA vendor5858@ibl and debited from A/c XX6894 on 19/07/2026 18:18. RRN 430000019734.
+Amazon Pay: Rs 15866.29 debited for order payment from account ending 6937. Txn ID TXN210014603. Balance Rs 85323.11.
+CRED: Credit card bill payment of Rs 15945.60 debited from bank account XX6980 via UPI. Ref 810000040420.
+MobiKwik: Wallet top-up of Rs 16024.91 processed; amount debited from account ending 7023. UTR UTR64000050799.
+BharatPe: Settlement adjustment debit of Rs 16103.22 posted to account XX7066. Reference 810000040514. Avl Bal Rs 85614.98.
+Jupiter app: Rs 16182.53 debited for SIP auto-pay from account ending 7109 at 24/12/2026 19:13. Txn TXN210014671.
+SBI Alert: INR 16261.84 debited from A/c XX7152 via UPI to merchant1864@upi on 25/01/2026 00:24. Ref 810000040608. Avl Bal INR 85808.56.
+HDFC Bank: Rs 16340.15 spent on UPI transfer to user2865@okhdfcbank from account ending 7195. UTR UTR64000051035.
+ICICI Notification: Debit of Rs 16419.46 for Swiggy payment from A/c XX7238. Txn TXN210014722. Balance Rs 86002.14.
+Axis Bank SMS: Card purchase of Rs 16498.77 at Amazon has been debited from account XX7281. RRN 430000019941.
+Kotak Bank: Rs 16577.08 debited for electricity bill via BBPS from account ending 7324. Ref 810000040796.
+PNB Alert: INR 16656.39 withdrawn from ATM linked to A/c XX7367 on 02/06/2026 01:19. Txn ID TXN210014773. Bal INR 86293.01.
+Bank of Baroda: Rs 16735.70 debited due to IMPS transfer to beneficiary Riya Sharma from account XX7410. UTR UTR64000051330.
+Canara Bank: Fastag recharge of Rs 16814.01 debited from A/c XX7453. Reference 810000040937. Available balance Rs 86487.59.
+IDFC FIRST Bank Alert: Rs 16893.32 auto-debited for Netflix subscription from account ending 7496. RRN 430000020056.
+IndusInd Bank: EMI installment of Rs 16972.63 debited from A/c XX7539. Txn TXN210014841. Current balance Rs 86681.17.
+Federal Bank: INR 17051.94 sent via NEFT to beneficiary Akash Verma from account XX7582. UTR UTR64000051566.
+Yes Bank: Rs 17130.25 debited for IRCTC ticket booking from account ending 7625. Ref 810000041125.
+Union Bank Alert: You paid Rs 17209.56 to merchant3876@ybl using UPI. Debited from A/c XX7668. Txn TXN210014892.
+Indian Bank: Debit of Rs 17288.87 for POS transaction at Reliance Fresh from A/c XX7711. RRN 430000020171.
+AU SFB: Rs 17367.18 deducted as annual debit card fee from account ending 7754. Ref 810000041266. Bal Rs 87166.62.
+PhonePe: Payment of Rs 17446.49 to Zomato successful. Amount debited from linked bank account XX7797. UPI Ref 810000041313.
+Google Pay alert: Rs 17525.80 transferred to user4880@oksbi. Debited from account ending 7840 at SBI. Txn TXN210014960.
+Paytm: Mobile recharge of Rs 17604.11 completed. Debit posted to bank account XX7883. Ref 810000041407.
+BHIM UPI: Rs 17683.42 paid to VPA vendor5882@ibl and debited from A/c XX7926 on 15/07/2026 18:42. RRN 430000020286.
+Amazon Pay: Rs 17762.73 debited for order payment from account ending 7969. Txn ID TXN210015011. Balance Rs 87651.07.
+CRED: Credit card bill payment of Rs 17841.04 debited from bank account XX8012 via UPI. Ref 810000041548.
+MobiKwik: Wallet top-up of Rs 17920.35 processed; amount debited from account ending 8055. UTR UTR64000052215.
+BharatPe: Settlement adjustment debit of Rs 17999.66 posted to account XX8098. Reference 810000041642. Avl Bal Rs 87942.94.
+Jupiter app: Rs 18078.97 debited for SIP auto-pay from account ending 8141 at 20/12/2026 19:37. Txn TXN210015079.
+SBI Alert: INR 18157.28 debited from A/c XX8184 via UPI to merchant1888@upi on 21/01/2026 00:48. Ref 810000041736. Avl Bal INR 88136.52.
+HDFC Bank: Rs 18236.59 spent on UPI transfer to user2889@okhdfcbank from account ending 8227. UTR UTR64000052451.
+ICICI Notification: Debit of Rs 18315.90 for Swiggy payment from A/c XX8270. Txn TXN210015130. Balance Rs 88330.10.
+Axis Bank SMS: Card purchase of Rs 18394.21 at Amazon has been debited from account XX8313. RRN 430000020493.
+Kotak Bank: Rs 18473.52 debited for electricity bill via BBPS from account ending 8356. Ref 810000041924.
+PNB Alert: INR 18552.83 withdrawn from ATM linked to A/c XX8399 on 26/06/2026 01:43. Txn ID TXN210015181. Bal INR 88621.97.
+Bank of Baroda: Rs 18631.14 debited due to IMPS transfer to beneficiary Riya Sharma from account XX8442. UTR UTR64000052746.
+Canara Bank: Fastag recharge of Rs 18710.45 debited from A/c XX8485. Reference 810000042065. Available balance Rs 88815.55.
+IDFC FIRST Bank Alert: Rs 18789.76 auto-debited for Netflix subscription from account ending 8528. RRN 430000020608.
+IndusInd Bank: EMI installment of Rs 18868.07 debited from A/c XX8571. Txn TXN210015249. Current balance Rs 89009.13.
+Federal Bank: INR 18947.38 sent via NEFT to beneficiary Akash Verma from account XX8614. UTR UTR64000052982.
+Yes Bank: Rs 19026.69 debited for IRCTC ticket booking from account ending 8657. Ref 810000042253.
+Union Bank Alert: You paid Rs 19105.00 to merchant3900@ybl using UPI. Debited from A/c XX8700. Txn TXN210015300.
+Indian Bank: Debit of Rs 19184.31 for POS transaction at Reliance Fresh from A/c XX8743. RRN 430000020723.
+AU SFB: Rs 19263.62 deducted as annual debit card fee from account ending 8786. Ref 810000042394. Bal Rs 89494.58.
+PhonePe: Payment of Rs 19342.93 to Zomato successful. Amount debited from linked bank account XX8829. UPI Ref 810000042441.
+Google Pay alert: Rs 19421.24 transferred to user4904@oksbi. Debited from account ending 8872 at SBI. Txn TXN210015368.
+Paytm: Mobile recharge of Rs 19500.55 completed. Debit posted to bank account XX8915. Ref 810000042535.
+BHIM UPI: Rs 19579.86 paid to VPA vendor5906@ibl and debited from A/c XX8958 on 11/07/2026 18:06. RRN 430000020838.
+Amazon Pay: Rs 19658.17 debited for order payment from account ending 9001. Txn ID TXN210015419. Balance Rs 89979.03.
+CRED: Credit card bill payment of Rs 19737.48 debited from bank account XX9044 via UPI. Ref 810000042676.
+MobiKwik: Wallet top-up of Rs 19816.79 processed; amount debited from account ending 9087. UTR UTR64000053631.
+BharatPe: Settlement adjustment debit of Rs 19895.10 posted to account XX9130. Reference 810000042770. Avl Bal Rs 90270.90.
+Jupiter app: Rs 19974.41 debited for SIP auto-pay from account ending 9173 at 16/12/2026 19:01. Txn TXN210015487.
+SBI Alert: INR 20053.72 debited from A/c XX9216 via UPI to merchant1912@upi on 17/01/2026 00:12. Ref 810000042864. Avl Bal INR 90464.48.
+HDFC Bank: Rs 20132.03 spent on UPI transfer to user2913@okhdfcbank from account ending 9259. UTR UTR64000053867.
+ICICI Notification: Debit of Rs 20211.34 for Swiggy payment from A/c XX9302. Txn TXN210015538. Balance Rs 90658.06.
+Axis Bank SMS: Card purchase of Rs 20290.65 at Amazon has been debited from account XX9345. RRN 430000021045.
+Kotak Bank: Rs 20369.96 debited for electricity bill via BBPS from account ending 9388. Ref 810000043052.
+PNB Alert: INR 20448.27 withdrawn from ATM linked to A/c XX9431 on 22/06/2026 01:07. Txn ID TXN210015589. Bal INR 90949.93.
+Bank of Baroda: Rs 20527.58 debited due to IMPS transfer to beneficiary Riya Sharma from account XX9474. UTR UTR64000054162.
+Canara Bank: Fastag recharge of Rs 20606.89 debited from A/c XX9517. Reference 810000043193. Available balance Rs 91143.51.
+IDFC FIRST Bank Alert: Rs 20685.20 auto-debited for Netflix subscription from account ending 9560. RRN 430000021160.
+IndusInd Bank: EMI installment of Rs 20764.51 debited from A/c XX9603. Txn TXN210015657. Current balance Rs 91337.09.
+Federal Bank: INR 20843.82 sent via NEFT to beneficiary Akash Verma from account XX9646. UTR UTR64000054398.
+Yes Bank: Rs 20922.13 debited for IRCTC ticket booking from account ending 9689. Ref 810000043381.
+Union Bank Alert: You paid Rs 21001.44 to merchant3924@ybl using UPI. Debited from A/c XX9732. Txn TXN210015708.
+Indian Bank: Debit of Rs 21080.75 for POS transaction at Reliance Fresh from A/c XX9775. RRN 430000021275.
+AU SFB: Rs 21159.06 deducted as annual debit card fee from account ending 9818. Ref 810000043522. Bal Rs 91822.54.
+PhonePe: Payment of Rs 21238.37 to Zomato successful. Amount debited from linked bank account XX9861. UPI Ref 810000043569.
+Google Pay alert: Rs 21317.68 transferred to user4928@oksbi. Debited from account ending 9904 at SBI. Txn TXN210015776.
+Paytm: Mobile recharge of Rs 21396.99 completed. Debit posted to bank account XX9947. Ref 810000043663.
+BHIM UPI: Rs 21475.30 paid to VPA vendor5930@ibl and debited from A/c XX9990 on 07/07/2026 18:30. RRN 430000021390.
+Amazon Pay: Rs 21554.61 debited for order payment from account ending 0033. Txn ID TXN210015827. Balance Rs 92307.99.
+CRED: Credit card bill payment of Rs 21633.92 debited from bank account XX0076 via UPI. Ref 810000043804.
+MobiKwik: Wallet top-up of Rs 21712.23 processed; amount debited from account ending 0119. UTR UTR64000055047.
+BharatPe: Settlement adjustment debit of Rs 21791.54 posted to account XX0162. Reference 810000043898. Avl Bal Rs 92598.86.
+Jupiter app: Rs 21870.85 debited for SIP auto-pay from account ending 0205 at 12/12/2026 19:25. Txn TXN210015895.
+SBI Alert: INR 21949.16 debited from A/c XX0248 via UPI to merchant1936@upi on 13/01/2026 00:36. Ref 810000043992. Avl Bal INR 92792.44.
+HDFC Bank: Rs 22028.47 spent on UPI transfer to user2937@okhdfcbank from account ending 0291. UTR UTR64000055283.
+ICICI Notification: Debit of Rs 22107.78 for Swiggy payment from A/c XX0334. Txn TXN210015946. Balance Rs 92986.02.
+Axis Bank SMS: Card purchase of Rs 22186.09 at Amazon has been debited from account XX0377. RRN 430000021597.
+Kotak Bank: Rs 22265.40 debited for electricity bill via BBPS from account ending 0420. Ref 810000044180.
+PNB Alert: INR 22344.71 withdrawn from ATM linked to A/c XX0463 on 18/06/2026 01:31. Txn ID TXN210015997. Bal INR 93277.89.
+Bank of Baroda: Rs 22423.02 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0506. UTR UTR64000055578.
+Canara Bank: Fastag recharge of Rs 22502.33 debited from A/c XX0549. Reference 810000044321. Available balance Rs 93471.47.
+IDFC FIRST Bank Alert: Rs 22581.64 auto-debited for Netflix subscription from account ending 0592. RRN 430000021712.
+IndusInd Bank: EMI installment of Rs 22660.95 debited from A/c XX0635. Txn TXN210016065. Current balance Rs 93665.05.
+Federal Bank: INR 22739.26 sent via NEFT to beneficiary Akash Verma from account XX0678. UTR UTR64000055814.
+Yes Bank: Rs 22818.57 debited for IRCTC ticket booking from account ending 0721. Ref 810000044509.
+Union Bank Alert: You paid Rs 22897.88 to merchant3948@ybl using UPI. Debited from A/c XX0764. Txn TXN210016116.
+Indian Bank: Debit of Rs 22976.19 for POS transaction at Reliance Fresh from A/c XX0807. RRN 430000021827.
+AU SFB: Rs 23055.50 deducted as annual debit card fee from account ending 0850. Ref 810000044650. Bal Rs 94150.50.
+PhonePe: Payment of Rs 23134.81 to Zomato successful. Amount debited from linked bank account XX0893. UPI Ref 810000044697.
+Google Pay alert: Rs 23213.12 transferred to user4952@oksbi. Debited from account ending 0936 at SBI. Txn TXN210016184.
+Paytm: Mobile recharge of Rs 23292.43 completed. Debit posted to bank account XX0979. Ref 810000044791.
+BHIM UPI: Rs 23371.74 paid to VPA vendor5954@ibl and debited from A/c XX1022 on 03/07/2026 18:54. RRN 430000021942.
+Amazon Pay: Rs 23450.05 debited for order payment from account ending 1065. Txn ID TXN210016235. Balance Rs 94635.95.
+CRED: Credit card bill payment of Rs 23529.36 debited from bank account XX1108 via UPI. Ref 810000044932.
+MobiKwik: Wallet top-up of Rs 23608.67 processed; amount debited from account ending 1151. UTR UTR64000056463.
+BharatPe: Settlement adjustment debit of Rs 23687.98 posted to account XX1194. Reference 810000045026. Avl Bal Rs 94926.82.
+Jupiter app: Rs 23766.29 debited for SIP auto-pay from account ending 1237 at 08/12/2026 19:49. Txn TXN210016303.
+SBI Alert: INR 23845.60 debited from A/c XX1280 via UPI to merchant1960@upi on 09/01/2026 00:00. Ref 810000045120. Avl Bal INR 95120.40.
+HDFC Bank: Rs 23924.91 spent on UPI transfer to user2961@okhdfcbank from account ending 1323. UTR UTR64000056699.
+ICICI Notification: Debit of Rs 24003.22 for Swiggy payment from A/c XX1366. Txn TXN210016354. Balance Rs 95314.98.
+Axis Bank SMS: Card purchase of Rs 24082.53 at Amazon has been debited from account XX1409. RRN 430000022149.
+Kotak Bank: Rs 24161.84 debited for electricity bill via BBPS from account ending 1452. Ref 810000045308.
+PNB Alert: INR 24240.15 withdrawn from ATM linked to A/c XX1495 on 14/06/2026 01:55. Txn ID TXN210016405. Bal INR 95605.85.
+Bank of Baroda: Rs 24319.46 debited due to IMPS transfer to beneficiary Riya Sharma from account XX1538. UTR UTR64000056994.
+Canara Bank: Fastag recharge of Rs 24398.77 debited from A/c XX1581. Reference 810000045449. Available balance Rs 95799.43.
+IDFC FIRST Bank Alert: Rs 24477.08 auto-debited for Netflix subscription from account ending 1624. RRN 430000022264.
+IndusInd Bank: EMI installment of Rs 24556.39 debited from A/c XX1667. Txn TXN210016473. Current balance Rs 95993.01.
+Federal Bank: INR 24635.70 sent via NEFT to beneficiary Akash Verma from account XX1710. UTR UTR64000057230.
+Yes Bank: Rs 24714.01 debited for IRCTC ticket booking from account ending 1753. Ref 810000045637.
+Union Bank Alert: You paid Rs 24793.32 to merchant3972@ybl using UPI. Debited from A/c XX1796. Txn TXN210016524.
+Indian Bank: Debit of Rs 24872.63 for POS transaction at Reliance Fresh from A/c XX1839. RRN 430000022379.
+AU SFB: Rs 24951.94 deducted as annual debit card fee from account ending 1882. Ref 810000045778. Bal Rs 96478.46.
+PhonePe: Payment of Rs 25030.25 to Zomato successful. Amount debited from linked bank account XX1925. UPI Ref 810000045825.
+Google Pay alert: Rs 25109.56 transferred to user4976@oksbi. Debited from account ending 1968 at SBI. Txn TXN210016592.
+Paytm: Mobile recharge of Rs 25188.87 completed. Debit posted to bank account XX2011. Ref 810000045919.
+BHIM UPI: Rs 25267.18 paid to VPA vendor5978@ibl and debited from A/c XX2054 on 27/07/2026 18:18. RRN 430000022494.
+Amazon Pay: Rs 25346.49 debited for order payment from account ending 2097. Txn ID TXN210016643. Balance Rs 96963.91.
+CRED: Credit card bill payment of Rs 25425.80 debited from bank account XX2140 via UPI. Ref 810000046060.
+MobiKwik: Wallet top-up of Rs 25504.11 processed; amount debited from account ending 2183. UTR UTR64000057879.
+BharatPe: Settlement adjustment debit of Rs 25583.42 posted to account XX2226. Reference 810000046154. Avl Bal Rs 97254.78.
+Jupiter app: Rs 25662.73 debited for SIP auto-pay from account ending 2269 at 04/12/2026 19:13. Txn TXN210016711.
+SBI Alert: INR 25741.04 debited from A/c XX2312 via UPI to merchant1984@upi on 05/01/2026 00:24. Ref 810000046248. Avl Bal INR 97448.36.
+HDFC Bank: Rs 25820.35 spent on UPI transfer to user2985@okhdfcbank from account ending 2355. UTR UTR64000058115.
+ICICI Notification: Debit of Rs 25899.66 for Swiggy payment from A/c XX2398. Txn TXN210016762. Balance Rs 97642.94.
+Axis Bank SMS: Card purchase of Rs 25978.97 at Amazon has been debited from account XX2441. RRN 430000022701.
+Kotak Bank: Rs 26057.28 debited for electricity bill via BBPS from account ending 2484. Ref 810000046436.
+PNB Alert: INR 26136.59 withdrawn from ATM linked to A/c XX2527 on 10/06/2026 01:19. Txn ID TXN210016813. Bal INR 97933.81.
+Bank of Baroda: Rs 26215.90 debited due to IMPS transfer to beneficiary Riya Sharma from account XX2570. UTR UTR64000058410.
+Canara Bank: Fastag recharge of Rs 26294.21 debited from A/c XX2613. Reference 810000046577. Available balance Rs 98127.39.
+IDFC FIRST Bank Alert: Rs 26373.52 auto-debited for Netflix subscription from account ending 2656. RRN 430000022816.
+IndusInd Bank: EMI installment of Rs 26452.83 debited from A/c XX2699. Txn TXN210016881. Current balance Rs 98321.97.
+Federal Bank: INR 26531.14 sent via NEFT to beneficiary Akash Verma from account XX2742. UTR UTR64000058646.
+Yes Bank: Rs 26610.45 debited for IRCTC ticket booking from account ending 2785. Ref 810000046765.
+Union Bank Alert: You paid Rs 26689.76 to merchant3996@ybl using UPI. Debited from A/c XX2828. Txn TXN210016932.
+Indian Bank: Debit of Rs 26768.07 for POS transaction at Reliance Fresh from A/c XX2871. RRN 430000022931.
+AU SFB: Rs 26847.38 deducted as annual debit card fee from account ending 2914. Ref 810000046906. Bal Rs 98806.42.
+PhonePe: Payment of Rs 26926.69 to Zomato successful. Amount debited from linked bank account XX2957. UPI Ref 810000046953.
+Google Pay alert: Rs 27005.00 transferred to user5000@oksbi. Debited from account ending 3000 at SBI. Txn TXN210017000.
+Paytm: Mobile recharge of Rs 27084.31 completed. Debit posted to bank account XX3043. Ref 810000047047.
+BHIM UPI: Rs 27163.62 paid to VPA vendor6002@ibl and debited from A/c XX3086 on 23/07/2026 18:42. RRN 430000023046.
+Amazon Pay: Rs 27242.93 debited for order payment from account ending 3129. Txn ID TXN210017051. Balance Rs 99291.87.
+CRED: Credit card bill payment of Rs 27321.24 debited from bank account XX3172 via UPI. Ref 810000047188.
+MobiKwik: Wallet top-up of Rs 27400.55 processed; amount debited from account ending 3215. UTR UTR64000059295.
+BharatPe: Settlement adjustment debit of Rs 27479.86 posted to account XX3258. Reference 810000047282. Avl Bal Rs 99582.74.
+Jupiter app: Rs 27558.17 debited for SIP auto-pay from account ending 3301 at 28/12/2026 19:37. Txn TXN210017119.
+SBI Alert: INR 27637.48 debited from A/c XX3344 via UPI to merchant2008@upi on 01/01/2026 00:48. Ref 810000047376. Avl Bal INR 99776.32.
+HDFC Bank: Rs 27716.79 spent on UPI transfer to user3009@okhdfcbank from account ending 3387. UTR UTR64000059531.
+ICICI Notification: Debit of Rs 27795.10 for Swiggy payment from A/c XX3430. Txn TXN210017170. Balance Rs 99970.90.
+Axis Bank SMS: Card purchase of Rs 27874.41 at Amazon has been debited from account XX3473. RRN 430000023253.
+Kotak Bank: Rs 27953.72 debited for electricity bill via BBPS from account ending 3516. Ref 810000047564.
+PNB Alert: INR 28032.03 withdrawn from ATM linked to A/c XX3559 on 06/06/2026 01:43. Txn ID TXN210017221. Bal INR 100261.77.
+Bank of Baroda: Rs 28111.34 debited due to IMPS transfer to beneficiary Riya Sharma from account XX3602. UTR UTR64000059826.
+Canara Bank: Fastag recharge of Rs 28190.65 debited from A/c XX3645. Reference 810000047705. Available balance Rs 100455.35.
+IDFC FIRST Bank Alert: Rs 28269.96 auto-debited for Netflix subscription from account ending 3688. RRN 430000023368.
+IndusInd Bank: EMI installment of Rs 28348.27 debited from A/c XX3731. Txn TXN210017289. Current balance Rs 100649.93.
+Federal Bank: INR 28427.58 sent via NEFT to beneficiary Akash Verma from account XX3774. UTR UTR64000060062.
+Yes Bank: Rs 28506.89 debited for IRCTC ticket booking from account ending 3817. Ref 810000047893.
+Union Bank Alert: You paid Rs 28585.20 to merchant4020@ybl using UPI. Debited from A/c XX3860. Txn TXN210017340.
+Indian Bank: Debit of Rs 28664.51 for POS transaction at Reliance Fresh from A/c XX3903. RRN 430000023483.
+AU SFB: Rs 28743.82 deducted as annual debit card fee from account ending 3946. Ref 810000048034. Bal Rs 101134.38.
+PhonePe: Payment of Rs 28822.13 to Zomato successful. Amount debited from linked bank account XX3989. UPI Ref 810000048081.
+Google Pay alert: Rs 28901.44 transferred to user5024@oksbi. Debited from account ending 4032 at SBI. Txn TXN210017408.
+Paytm: Mobile recharge of Rs 28980.75 completed. Debit posted to bank account XX4075. Ref 810000048175.
+BHIM UPI: Rs 29059.06 paid to VPA vendor6026@ibl and debited from A/c XX4118 on 19/07/2026 18:06. RRN 430000023598.
+Amazon Pay: Rs 29138.37 debited for order payment from account ending 4161. Txn ID TXN210017459. Balance Rs 101619.83.
+CRED: Credit card bill payment of Rs 29217.68 debited from bank account XX4204 via UPI. Ref 810000048316.
+MobiKwik: Wallet top-up of Rs 29296.99 processed; amount debited from account ending 4247. UTR UTR64000060711.
+BharatPe: Settlement adjustment debit of Rs 29375.30 posted to account XX4290. Reference 810000048410. Avl Bal Rs 101910.70.
+Jupiter app: Rs 29454.61 debited for SIP auto-pay from account ending 4333 at 24/12/2026 19:01. Txn TXN210017527.
+SBI Alert: INR 29533.92 debited from A/c XX4376 via UPI to merchant2032@upi on 25/01/2026 00:12. Ref 810000048504. Avl Bal INR 102104.28.
+HDFC Bank: Rs 29612.23 spent on UPI transfer to user3033@okhdfcbank from account ending 4419. UTR UTR64000060947.
+ICICI Notification: Debit of Rs 29691.54 for Swiggy payment from A/c XX4462. Txn TXN210017578. Balance Rs 102298.86.
+Axis Bank SMS: Card purchase of Rs 29770.85 at Amazon has been debited from account XX4505. RRN 430000023805.
+Kotak Bank: Rs 29849.16 debited for electricity bill via BBPS from account ending 4548. Ref 810000048692.
+PNB Alert: INR 29928.47 withdrawn from ATM linked to A/c XX4591 on 02/06/2026 01:07. Txn ID TXN210017629. Bal INR 102589.73.
+Bank of Baroda: Rs 30007.78 debited due to IMPS transfer to beneficiary Riya Sharma from account XX4634. UTR UTR64000061242.
+Canara Bank: Fastag recharge of Rs 30086.09 debited from A/c XX4677. Reference 810000048833. Available balance Rs 102783.31.
+IDFC FIRST Bank Alert: Rs 30165.40 auto-debited for Netflix subscription from account ending 4720. RRN 430000023920.
+IndusInd Bank: EMI installment of Rs 30244.71 debited from A/c XX4763. Txn TXN210017697. Current balance Rs 102977.89.
+Federal Bank: INR 30323.02 sent via NEFT to beneficiary Akash Verma from account XX4806. UTR UTR64000061478.
+Yes Bank: Rs 30402.33 debited for IRCTC ticket booking from account ending 4849. Ref 810000049021.
+Union Bank Alert: You paid Rs 30481.64 to merchant4044@ybl using UPI. Debited from A/c XX4892. Txn TXN210017748.
+Indian Bank: Debit of Rs 30560.95 for POS transaction at Reliance Fresh from A/c XX4935. RRN 430000024035.
+AU SFB: Rs 30639.26 deducted as annual debit card fee from account ending 4978. Ref 810000049162. Bal Rs 103462.34.
+PhonePe: Payment of Rs 30718.57 to Zomato successful. Amount debited from linked bank account XX5021. UPI Ref 810000049209.
+Google Pay alert: Rs 30797.88 transferred to user5048@oksbi. Debited from account ending 5064 at SBI. Txn TXN210017816.
+Paytm: Mobile recharge of Rs 30876.19 completed. Debit posted to bank account XX5107. Ref 810000049303.
+BHIM UPI: Rs 30955.50 paid to VPA vendor6050@ibl and debited from A/c XX5150 on 15/07/2026 18:30. RRN 430000024150.
+Amazon Pay: Rs 31034.81 debited for order payment from account ending 5193. Txn ID TXN210017867. Balance Rs 103947.79.
+CRED: Credit card bill payment of Rs 31113.12 debited from bank account XX5236 via UPI. Ref 810000049444.
+MobiKwik: Wallet top-up of Rs 31192.43 processed; amount debited from account ending 5279. UTR UTR64000062127.
+BharatPe: Settlement adjustment debit of Rs 31271.74 posted to account XX5322. Reference 810000049538. Avl Bal Rs 104238.66.
+Jupiter app: Rs 31350.05 debited for SIP auto-pay from account ending 5365 at 20/12/2026 19:25. Txn TXN210017935.
+SBI Alert: INR 31429.36 debited from A/c XX5408 via UPI to merchant2056@upi on 21/01/2026 00:36. Ref 810000049632. Avl Bal INR 104432.24.
+HDFC Bank: Rs 31508.67 spent on UPI transfer to user3057@okhdfcbank from account ending 5451. UTR UTR64000062363.
+ICICI Notification: Debit of Rs 31587.98 for Swiggy payment from A/c XX5494. Txn TXN210017986. Balance Rs 104626.82.
+Axis Bank SMS: Card purchase of Rs 31666.29 at Amazon has been debited from account XX5537. RRN 430000024357.
+Kotak Bank: Rs 31745.60 debited for electricity bill via BBPS from account ending 5580. Ref 810000049820.
+PNB Alert: INR 31824.91 withdrawn from ATM linked to A/c XX5623 on 26/06/2026 01:31. Txn ID TXN210018037. Bal INR 104917.69.
+Bank of Baroda: Rs 31903.22 debited due to IMPS transfer to beneficiary Riya Sharma from account XX5666. UTR UTR64000062658.
+Canara Bank: Fastag recharge of Rs 31982.53 debited from A/c XX5709. Reference 810000049961. Available balance Rs 105111.27.
+IDFC FIRST Bank Alert: Rs 32061.84 auto-debited for Netflix subscription from account ending 5752. RRN 430000024472.
+IndusInd Bank: EMI installment of Rs 32140.15 debited from A/c XX5795. Txn TXN210018105. Current balance Rs 105305.85.
+Federal Bank: INR 32219.46 sent via NEFT to beneficiary Akash Verma from account XX5838. UTR UTR64000062894.
+Yes Bank: Rs 32298.77 debited for IRCTC ticket booking from account ending 5881. Ref 810000050149.
+Union Bank Alert: You paid Rs 32377.08 to merchant4068@ybl using UPI. Debited from A/c XX5924. Txn TXN210018156.
+Indian Bank: Debit of Rs 32456.39 for POS transaction at Reliance Fresh from A/c XX5967. RRN 430000024587.
+AU SFB: Rs 32535.70 deducted as annual debit card fee from account ending 6010. Ref 810000050290. Bal Rs 105790.30.
+PhonePe: Payment of Rs 32614.01 to Zomato successful. Amount debited from linked bank account XX6053. UPI Ref 810000050337.
+Google Pay alert: Rs 32693.32 transferred to user5072@oksbi. Debited from account ending 6096 at SBI. Txn TXN210018224.
+Paytm: Mobile recharge of Rs 32772.63 completed. Debit posted to bank account XX6139. Ref 810000050431.
+BHIM UPI: Rs 32851.94 paid to VPA vendor6074@ibl and debited from A/c XX6182 on 11/07/2026 18:54. RRN 430000024702.
+Amazon Pay: Rs 32930.25 debited for order payment from account ending 6225. Txn ID TXN210018275. Balance Rs 106275.75.
+CRED: Credit card bill payment of Rs 33009.56 debited from bank account XX6268 via UPI. Ref 810000050572.
+MobiKwik: Wallet top-up of Rs 33088.87 processed; amount debited from account ending 6311. UTR UTR64000063543.
+BharatPe: Settlement adjustment debit of Rs 33167.18 posted to account XX6354. Reference 810000050666. Avl Bal Rs 106566.62.
+Jupiter app: Rs 33246.49 debited for SIP auto-pay from account ending 6397 at 16/12/2026 19:49. Txn TXN210018343.
+SBI Alert: INR 33325.80 debited from A/c XX6440 via UPI to merchant2080@upi on 17/01/2026 00:00. Ref 810000050760. Avl Bal INR 106760.20.
+HDFC Bank: Rs 33404.11 spent on UPI transfer to user3081@okhdfcbank from account ending 6483. UTR UTR64000063779.
+ICICI Notification: Debit of Rs 33483.42 for Swiggy payment from A/c XX6526. Txn TXN210018394. Balance Rs 106954.78.
+Axis Bank SMS: Card purchase of Rs 33562.73 at Amazon has been debited from account XX6569. RRN 430000024909.
+Kotak Bank: Rs 33641.04 debited for electricity bill via BBPS from account ending 6612. Ref 810000050948.
+PNB Alert: INR 33720.35 withdrawn from ATM linked to A/c XX6655 on 22/06/2026 01:55. Txn ID TXN210018445. Bal INR 107245.65.
+Bank of Baroda: Rs 33799.66 debited due to IMPS transfer to beneficiary Riya Sharma from account XX6698. UTR UTR64000064074.
+Canara Bank: Fastag recharge of Rs 33878.97 debited from A/c XX6741. Reference 810000051089. Available balance Rs 107439.23.
+IDFC FIRST Bank Alert: Rs 33957.28 auto-debited for Netflix subscription from account ending 6784. RRN 430000025024.
+IndusInd Bank: EMI installment of Rs 34036.59 debited from A/c XX6827. Txn TXN210018513. Current balance Rs 107633.81.
+Federal Bank: INR 34115.90 sent via NEFT to beneficiary Akash Verma from account XX6870. UTR UTR64000064310.
+Yes Bank: Rs 34194.21 debited for IRCTC ticket booking from account ending 6913. Ref 810000051277.
+Union Bank Alert: You paid Rs 34273.52 to merchant4092@ybl using UPI. Debited from A/c XX6956. Txn TXN210018564.
+Indian Bank: Debit of Rs 34352.83 for POS transaction at Reliance Fresh from A/c XX6999. RRN 430000025139.
+AU SFB: Rs 34431.14 deducted as annual debit card fee from account ending 7042. Ref 810000051418. Bal Rs 108118.26.
+PhonePe: Payment of Rs 34510.45 to Zomato successful. Amount debited from linked bank account XX7085. UPI Ref 810000051465.
+Google Pay alert: Rs 34589.76 transferred to user5096@oksbi. Debited from account ending 7128 at SBI. Txn TXN210018632.
+Paytm: Mobile recharge of Rs 34668.07 completed. Debit posted to bank account XX7171. Ref 810000051559.
+BHIM UPI: Rs 34747.38 paid to VPA vendor6098@ibl and debited from A/c XX7214 on 07/07/2026 18:18. RRN 430000025254.
+Amazon Pay: Rs 34826.69 debited for order payment from account ending 7257. Txn ID TXN210018683. Balance Rs 108603.71.
+CRED: Credit card bill payment of Rs 34905.00 debited from bank account XX7300 via UPI. Ref 810000051700.
+MobiKwik: Wallet top-up of Rs 34984.31 processed; amount debited from account ending 7343. UTR UTR64000064959.
+BharatPe: Settlement adjustment debit of Rs 35063.62 posted to account XX7386. Reference 810000051794. Avl Bal Rs 108894.58.
+Jupiter app: Rs 35142.93 debited for SIP auto-pay from account ending 7429 at 12/12/2026 19:13. Txn TXN210018751.
+SBI Alert: INR 35221.24 debited from A/c XX7472 via UPI to merchant2104@upi on 13/01/2026 00:24. Ref 810000051888. Avl Bal INR 109088.16.
+HDFC Bank: Rs 35300.55 spent on UPI transfer to user3105@okhdfcbank from account ending 7515. UTR UTR64000065195.
+ICICI Notification: Debit of Rs 35379.86 for Swiggy payment from A/c XX7558. Txn TXN210018802. Balance Rs 109282.74.
+Axis Bank SMS: Card purchase of Rs 35458.17 at Amazon has been debited from account XX7601. RRN 430000025461.
+Kotak Bank: Rs 35537.48 debited for electricity bill via BBPS from account ending 7644. Ref 810000052076.
+PNB Alert: INR 35616.79 withdrawn from ATM linked to A/c XX7687 on 18/06/2026 01:19. Txn ID TXN210018853. Bal INR 109573.61.
+Bank of Baroda: Rs 35695.10 debited due to IMPS transfer to beneficiary Riya Sharma from account XX7730. UTR UTR64000065490.
+Canara Bank: Fastag recharge of Rs 35774.41 debited from A/c XX7773. Reference 810000052217. Available balance Rs 109767.19.
+IDFC FIRST Bank Alert: Rs 35853.72 auto-debited for Netflix subscription from account ending 7816. RRN 430000025576.
+IndusInd Bank: EMI installment of Rs 35932.03 debited from A/c XX7859. Txn TXN210018921. Current balance Rs 109961.77.
+Federal Bank: INR 36011.34 sent via NEFT to beneficiary Akash Verma from account XX7902. UTR UTR64000065726.
+Yes Bank: Rs 36090.65 debited for IRCTC ticket booking from account ending 7945. Ref 810000052405.
+Union Bank Alert: You paid Rs 36169.96 to merchant4116@ybl using UPI. Debited from A/c XX7988. Txn TXN210018972.
+Indian Bank: Debit of Rs 36248.27 for POS transaction at Reliance Fresh from A/c XX8031. RRN 430000025691.
+AU SFB: Rs 36327.58 deducted as annual debit card fee from account ending 8074. Ref 810000052546. Bal Rs 110446.22.
+PhonePe: Payment of Rs 36406.89 to Zomato successful. Amount debited from linked bank account XX8117. UPI Ref 810000052593.
+Google Pay alert: Rs 36485.20 transferred to user5120@oksbi. Debited from account ending 8160 at SBI. Txn TXN210019040.
+Paytm: Mobile recharge of Rs 36564.51 completed. Debit posted to bank account XX8203. Ref 810000052687.
+BHIM UPI: Rs 36643.82 paid to VPA vendor6122@ibl and debited from A/c XX8246 on 03/07/2026 18:42. RRN 430000025806.
+Amazon Pay: Rs 36722.13 debited for order payment from account ending 8289. Txn ID TXN210019091. Balance Rs 110931.67.
+CRED: Credit card bill payment of Rs 36801.44 debited from bank account XX8332 via UPI. Ref 810000052828.
+MobiKwik: Wallet top-up of Rs 36880.75 processed; amount debited from account ending 8375. UTR UTR64000066375.
+BharatPe: Settlement adjustment debit of Rs 36959.06 posted to account XX8418. Reference 810000052922. Avl Bal Rs 111222.54.
+Jupiter app: Rs 37038.37 debited for SIP auto-pay from account ending 8461 at 08/12/2026 19:37. Txn TXN210019159.
+SBI Alert: INR 37117.68 debited from A/c XX8504 via UPI to merchant2128@upi on 09/01/2026 00:48. Ref 810000053016. Avl Bal INR 111416.12.
+HDFC Bank: Rs 37196.99 spent on UPI transfer to user3129@okhdfcbank from account ending 8547. UTR UTR64000066611.
+ICICI Notification: Debit of Rs 37275.30 for Swiggy payment from A/c XX8590. Txn TXN210019210. Balance Rs 111610.70.
+Axis Bank SMS: Card purchase of Rs 37354.61 at Amazon has been debited from account XX8633. RRN 430000026013.
+Kotak Bank: Rs 37433.92 debited for electricity bill via BBPS from account ending 8676. Ref 810000053204.
+PNB Alert: INR 37512.23 withdrawn from ATM linked to A/c XX8719 on 14/06/2026 01:43. Txn ID TXN210019261. Bal INR 111901.57.
+Bank of Baroda: Rs 37591.54 debited due to IMPS transfer to beneficiary Riya Sharma from account XX8762. UTR UTR64000066906.
+Canara Bank: Fastag recharge of Rs 37670.85 debited from A/c XX8805. Reference 810000053345. Available balance Rs 112095.15.
+IDFC FIRST Bank Alert: Rs 37749.16 auto-debited for Netflix subscription from account ending 8848. RRN 430000026128.
+IndusInd Bank: EMI installment of Rs 37828.47 debited from A/c XX8891. Txn TXN210019329. Current balance Rs 112289.73.
+Federal Bank: INR 37907.78 sent via NEFT to beneficiary Akash Verma from account XX8934. UTR UTR64000067142.
+Yes Bank: Rs 37986.09 debited for IRCTC ticket booking from account ending 8977. Ref 810000053533.
+Union Bank Alert: You paid Rs 38065.40 to merchant4140@ybl using UPI. Debited from A/c XX9020. Txn TXN210019380.
+Indian Bank: Debit of Rs 38144.71 for POS transaction at Reliance Fresh from A/c XX9063. RRN 430000026243.
+AU SFB: Rs 38223.02 deducted as annual debit card fee from account ending 9106. Ref 810000053674. Bal Rs 112774.18.
+PhonePe: Payment of Rs 38302.33 to Zomato successful. Amount debited from linked bank account XX9149. UPI Ref 810000053721.
+Google Pay alert: Rs 38381.64 transferred to user5144@oksbi. Debited from account ending 9192 at SBI. Txn TXN210019448.
+Paytm: Mobile recharge of Rs 38460.95 completed. Debit posted to bank account XX9235. Ref 810000053815.
+BHIM UPI: Rs 38539.26 paid to VPA vendor6146@ibl and debited from A/c XX9278 on 27/07/2026 18:06. RRN 430000026358.
+Amazon Pay: Rs 38618.57 debited for order payment from account ending 9321. Txn ID TXN210019499. Balance Rs 113259.63.
+CRED: Credit card bill payment of Rs 38697.88 debited from bank account XX9364 via UPI. Ref 810000053956.
+MobiKwik: Wallet top-up of Rs 38776.19 processed; amount debited from account ending 9407. UTR UTR64000067791.
+BharatPe: Settlement adjustment debit of Rs 38855.50 posted to account XX9450. Reference 810000054050. Avl Bal Rs 113550.50.
+Jupiter app: Rs 38934.81 debited for SIP auto-pay from account ending 9493 at 04/12/2026 19:01. Txn TXN210019567.
+SBI Alert: INR 39013.12 debited from A/c XX9536 via UPI to merchant2152@upi on 05/01/2026 00:12. Ref 810000054144. Avl Bal INR 113744.08.
+HDFC Bank: Rs 39092.43 spent on UPI transfer to user3153@okhdfcbank from account ending 9579. UTR UTR64000068027.
+ICICI Notification: Debit of Rs 39171.74 for Swiggy payment from A/c XX9622. Txn TXN210019618. Balance Rs 113938.66.
+Axis Bank SMS: Card purchase of Rs 39250.05 at Amazon has been debited from account XX9665. RRN 430000026565.
+Kotak Bank: Rs 39329.36 debited for electricity bill via BBPS from account ending 9708. Ref 810000054332.
+PNB Alert: INR 39408.67 withdrawn from ATM linked to A/c XX9751 on 10/06/2026 01:07. Txn ID TXN210019669. Bal INR 114229.53.
+Bank of Baroda: Rs 39487.98 debited due to IMPS transfer to beneficiary Riya Sharma from account XX9794. UTR UTR64000068322.
+Canara Bank: Fastag recharge of Rs 39566.29 debited from A/c XX9837. Reference 810000054473. Available balance Rs 114423.11.
+IDFC FIRST Bank Alert: Rs 39645.60 auto-debited for Netflix subscription from account ending 9880. RRN 430000026680.
+IndusInd Bank: EMI installment of Rs 39724.91 debited from A/c XX9923. Txn TXN210019737. Current balance Rs 114617.69.
+Federal Bank: INR 39803.22 sent via NEFT to beneficiary Akash Verma from account XX9966. UTR UTR64000068558.
+Yes Bank: Rs 39882.53 debited for IRCTC ticket booking from account ending 0009. Ref 810000054661.
+Union Bank Alert: You paid Rs 39961.84 to merchant4164@ybl using UPI. Debited from A/c XX0052. Txn TXN210019788.
+Indian Bank: Debit of Rs 40040.15 for POS transaction at Reliance Fresh from A/c XX0095. RRN 430000026795.
+AU SFB: Rs 40119.46 deducted as annual debit card fee from account ending 0138. Ref 810000054802. Bal Rs 115102.14.
+PhonePe: Payment of Rs 40198.77 to Zomato successful. Amount debited from linked bank account XX0181. UPI Ref 810000054849.
+Google Pay alert: Rs 40277.08 transferred to user5168@oksbi. Debited from account ending 0224 at SBI. Txn TXN210019856.
+Paytm: Mobile recharge of Rs 40356.39 completed. Debit posted to bank account XX0267. Ref 810000054943.
+BHIM UPI: Rs 40435.70 paid to VPA vendor6170@ibl and debited from A/c XX0310 on 23/07/2026 18:30. RRN 430000026910.
+Amazon Pay: Rs 40514.01 debited for order payment from account ending 0353. Txn ID TXN210019907. Balance Rs 115587.59.
+CRED: Credit card bill payment of Rs 40593.32 debited from bank account XX0396 via UPI. Ref 810000055084.
+MobiKwik: Wallet top-up of Rs 40672.63 processed; amount debited from account ending 0439. UTR UTR64000069207.
+BharatPe: Settlement adjustment debit of Rs 40751.94 posted to account XX0482. Reference 810000055178. Avl Bal Rs 115878.46.
+Jupiter app: Rs 40830.25 debited for SIP auto-pay from account ending 0525 at 28/12/2026 19:25. Txn TXN210019975.
+SBI Alert: INR 40909.56 debited from A/c XX0568 via UPI to merchant2176@upi on 01/01/2026 00:36. Ref 810000055272. Avl Bal INR 116072.04.
+HDFC Bank: Rs 40988.87 spent on UPI transfer to user3177@okhdfcbank from account ending 0611. UTR UTR64000069443.
+ICICI Notification: Debit of Rs 41067.18 for Swiggy payment from A/c XX0654. Txn TXN210020026. Balance Rs 116266.62.
+Axis Bank SMS: Card purchase of Rs 41146.49 at Amazon has been debited from account XX0697. RRN 430000027117.
+Kotak Bank: Rs 41225.80 debited for electricity bill via BBPS from account ending 0740. Ref 810000055460.
+PNB Alert: INR 41304.11 withdrawn from ATM linked to A/c XX0783 on 06/06/2026 01:31. Txn ID TXN210020077. Bal INR 116557.49.
+Bank of Baroda: Rs 41383.42 debited due to IMPS transfer to beneficiary Riya Sharma from account XX0826. UTR UTR64000069738.
+Canara Bank: Fastag recharge of Rs 41462.73 debited from A/c XX0869. Reference 810000055601. Available balance Rs 116751.07.
+IDFC FIRST Bank Alert: Rs 41541.04 auto-debited for Netflix subscription from account ending 0912. RRN 430000027232.
+IndusInd Bank: EMI installment of Rs 41620.35 debited from A/c XX0955. Txn TXN210020145. Current balance Rs 116945.65.
+Federal Bank: INR 41699.66 sent via NEFT to beneficiary Akash Verma from account XX0998. UTR UTR64000069974.
+Yes Bank: Rs 41778.97 debited for IRCTC ticket booking from account ending 1041. Ref 810000055789.
+Union Bank Alert: You paid Rs 41857.28 to merchant4188@ybl using UPI. Debited from A/c XX1084. Txn TXN210020196.
+Indian Bank: Debit of Rs 41936.59 for POS transaction at Reliance Fresh from A/c XX1127. RRN 430000027347.
+AU SFB: Rs 42015.90 deducted as annual debit card fee from account ending 1170. Ref 810000055930. Bal Rs 117430.10.
+PhonePe: Payment of Rs 42094.21 to Zomato successful. Amount debited from linked bank account XX1213. UPI Ref 810000055977.
+Google Pay alert: Rs 42173.52 transferred to user5192@oksbi. Debited from account ending 1256 at SBI. Txn TXN210020264.
+Paytm: Mobile recharge of Rs 42252.83 completed. Debit posted to bank account XX1299. Ref 810000056071.
+BHIM UPI: Rs 42331.14 paid to VPA vendor6194@ibl and debited from A/c XX1342 on 19/07/2026 18:54. RRN 430000027462.
+Amazon Pay: Rs 42410.45 debited for order payment from account ending 1385. Txn ID TXN210020315. Balance Rs 117915.55.
+CRED: Credit card bill payment of Rs 42489.76 debited from bank account XX1428 via UPI. Ref 810000056212.
+MobiKwik: Wallet top-up of Rs 42568.07 processed; amount debited from account ending 1471. UTR UTR64000070623.
+BharatPe: Settlement adjustment debit of Rs 42647.38 posted to account XX1514. Reference 810000056306. Avl Bal Rs 118206.42.
+Jupiter app: Rs 42726.69 debited for SIP auto-pay from account ending 1557 at 24/12/2026 19:49. Txn TXN210020383.
+SBI Alert: INR 42805.00 debited from A/c XX1600 via UPI to merchant2200@upi on 25/01/2026 00:00. Ref 810000056400. Avl Bal INR 118400.00.

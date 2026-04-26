@@ -1,0 +1,35 @@
+2026-04-26 09:24:45,348 [INFO] train — ============================================================
+2026-04-26 09:24:45,348 [INFO] train — SMS Classifier — Training Pipeline
+2026-04-26 09:24:45,348 [INFO] train — ============================================================
+2026-04-26 09:30:13,269 [INFO] train — ============================================================
+2026-04-26 09:30:13,269 [INFO] train — SMS Classifier — Training Pipeline
+2026-04-26 09:30:13,269 [INFO] train — ============================================================
+2026-04-26 09:30:13,421 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-04-26 09:30:13,422 [INFO] train — Cleaning text...
+2026-04-26 09:30:13,534 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-04-26 09:30:13,538 [INFO] train — Train: 3040 | Test: 760
+2026-04-26 09:30:13,538 [INFO] train — Running GridSearchCV (5-fold CV)...
+2026-04-26 09:30:15,582 [INFO] train — Best params : {'clf__alpha': 0.01}
+2026-04-26 09:30:15,582 [INFO] train — Best CV F1  : 1.0000
+2026-04-26 09:30:15,606 [INFO] train — Test Accuracy : 1.0000
+2026-04-26 09:30:15,606 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       240
+       DEBIT       1.00      1.00      1.00       240
+     UNKNOWN       1.00      1.00      1.00       280
+
+    accuracy                           1.00       760
+   macro avg       1.00      1.00      1.00       760
+weighted avg       1.00      1.00      1.00       760
+
+2026-04-26 09:30:15,686 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-04-26 09:30:15,690 [INFO] train — CV results saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/cv_results.csv
+2026-04-26 09:30:15,691 [INFO] train — Saved TF-IDF vectorizer → /home/mustak24/Documents/Coding/Python/classification-model/models/vectorizer.pkl
+2026-04-26 09:30:15,691 [INFO] train — Saved MultinomialNB model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.pkl
+2026-04-26 09:30:15,691 [INFO] train — Saved LabelEncoder → /home/mustak24/Documents/Coding/Python/classification-model/models/label_encoder.pkl
+2026-04-26 09:30:15,691 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-04-26 09:30:15,691 [INFO] train — ============================================================
+2026-04-26 09:30:15,692 [INFO] train — Training complete. Test accuracy: 100.00%
+2026-04-26 09:30:15,692 [INFO] train — ============================================================

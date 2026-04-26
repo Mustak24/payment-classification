@@ -1,0 +1,38 @@
+{
+  "trained_at": "2026-04-26T04:00:15.691789Z",
+  "classes": [
+    "CREDIT",
+    "DEBIT",
+    "UNKNOWN"
+  ],
+  "n_train": 3040,
+  "n_test": 760,
+  "best_params": {
+    "clf__alpha": 0.01
+  },
+  "cv_f1_macro": 1.0,
+  "test_accuracy": 1.0,
+  "test_f1_macro": 1.0,
+  "vocabulary_size": 1295,
+  "confidence_threshold": 0.6,
+  "per_class_metrics": {
+    "CREDIT": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    },
+    "DEBIT": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    },
+    "UNKNOWN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 280.0
+    }
+  }
+}
