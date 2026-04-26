@@ -1,0 +1,17 @@
+{
+  "classes": [
+    "CREDIT",
+    "DEBIT",
+    "UNKNOWN"
+  ],
+  "confidence_threshold": 0.6,
+  "trained_at": "2026-04-26T07:43:43.074679Z",
+  "val_accuracy": 0.9961,
+  "val_loss": 0.0112,
+  "epochs_ran": 10,
+  "vocab_size": 10000,
+  "sequence_length": 64,
+  "input_dtype": "string",
+  "output": "softmax_probabilities",
+  "requires_select_tf_ops": true
+}

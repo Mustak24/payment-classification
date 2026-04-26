@@ -52,6 +52,21 @@ This will:
 - Save `models/classifier.pkl`, `models/vectorizer.pkl`, `models/label_encoder.pkl`
 - Save `logs/confusion_matrix.png` and `logs/class_distribution.png`
 
+### 3.1 Build TensorFlow Lite model (`.tflite`)
+```bash
+uv add tensorflow
+uv run build_tflite_model.py
+```
+
+This creates:
+- `models/classifier.tflite` (TensorFlow Lite model)
+- `models/classifier_tflite.keras` (saved Keras model)
+- `models/tflite_labels.json` (class labels + model metadata)
+
+Note:
+- This exported `.tflite` model includes Select TF Ops (Flex) because it accepts raw string input and performs tokenization inside the model.
+- Your TFLite runtime must include Flex delegate support.
+
 ### 4. Test predictions (CLI)
 ```bash
 uv run predict.py "message text here"
