@@ -2,14 +2,14 @@
   "input_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/data",
   "output_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/log",
   "total_samples": 150,
-  "correct_predictions": 141,
-  "accuracy": 0.94,
-  "uncertain_predictions": 8,
-  "uncertain_rate": 0.0533,
+  "correct_predictions": 136,
+  "accuracy": 0.9067,
+  "uncertain_predictions": 1,
+  "uncertain_rate": 0.0067,
   "per_label_accuracy": {
-    "CREDIT": 0.96,
-    "DEBIT": 1.0,
-    "UNKNOWN": 0.86
+    "CREDIT": 0.92,
+    "DEBIT": 0.8,
+    "UNKNOWN": 1.0
   },
   "per_label_totals": {
     "CREDIT": 50,
@@ -23,7 +23,8 @@
     "UNKNOWN"
   ],
   "metadata": {
-    "trained_at": "2026-04-26T06:32:57.394196Z",
+    "trained_at": "2026-04-30T18:51:43.133945Z",
+    "model_type": "fasttext",
     "classes": [
       "CREDIT",
       "DEBIT",
@@ -31,13 +32,13 @@
     ],
     "n_train": 3072,
     "n_test": 768,
-    "best_params": {
-      "clf__alpha": 0.01
-    },
-    "cv_f1_macro": 0.9974,
+    "autotune_enabled": true,
+    "autotune_duration": 30,
+    "fasttext_params": "auto",
     "test_accuracy": 0.9987,
+    "test_precision_at1": 0.9987,
+    "test_recall_at1": 0.9987,
     "test_f1_macro": 0.9987,
-    "vocabulary_size": 1315,
     "confidence_threshold": 0.6,
     "per_class_metrics": {
       "CREDIT": {

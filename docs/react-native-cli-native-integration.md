@@ -1,24 +1,23 @@
-# React Native CLI Native Integration (TFLite Model)
+# React Native CLI Native Integration (FastText Model)
 
-This guide explains how to integrate this model into a React Native CLI app using native Android and iOS code.
+This guide explains how to integrate the FastText model into a React Native CLI app using native Android and iOS code.
 
 Model files from this repo:
-- `models/classifier.tflite`
-- `models/tflite_labels.json`
+- `models/classifier.ftz` (Quantized model for production)
+- `models/metadata.json` (Thresholds and labels info)
 
 Important model constraints:
-- Input type: string
-- Output: softmax probabilities for classes `CREDIT`, `DEBIT`, `UNKNOWN`
-- Confidence threshold: 0.6
-- Requires Select TF Ops: true
+- Input type: string (whitespace collapsed, no newlines)
+- Output: labels (e.g. `__label__CREDIT`) and softmax probabilities
+- Confidence threshold: 0.6 (or as defined in `metadata.json`)
 
 ---
 
 ## 1. Copy model assets into your React Native app
 
 In your React Native project, copy:
-- `classifier.tflite`
-- `tflite_labels.json`
+- `classifier.ftz`
+- `metadata.json`
 
 Recommended destination:
 - Android: `android/app/src/main/assets/`
@@ -26,32 +25,20 @@ Recommended destination:
 
 ---
 
-## 2. Android native setup (Kotlin)
+## 2. Android native setup (Kotlin/C++)
 
-### 2.1 Add TensorFlow Lite dependencies
+FastText does not have an official pre-built Maven artifact for Android. You will need to either use a community Java wrapper or compile the FastText C++ source code using the Android NDK via JNI.
 
-In `android/app/build.gradle` (or module-level Gradle file), add:
+### 2.1 Add FastText C++ via NDK
 
-```gradle
-dependencies {
-    implementation "org.tensorflow:tensorflow-lite:2.14.0"
-    implementation "org.tensorflow:tensorflow-lite-select-tf-ops:2.14.0"
-}
-```
-
-If your app does not already package native libs correctly, add:
-
-```gradle
-android {
-    packagingOptions {
-        pickFirst "**/*.so"
-    }
-}
-```
+1. Add FastText C++ source files to your Android project's `cpp` directory.
+2. Create a `CMakeLists.txt` to compile it.
+3. Write a JNI wrapper to load the model and call the `predict` function.
 
 ### 2.2 Create a native classifier module
 
-Create a Kotlin module, for example:
+Once you have a FastText JNI wrapper (e.g., a custom `FastTextWrapper` class), create a Kotlin module:
+
 - `android/app/src/main/java/<your_package>/TextClassifierModule.kt`
 
 Example implementation:
@@ -59,22 +46,19 @@ Example implementation:
 ```kotlin
 package com.yourapp
 
-import android.content.res.AssetFileDescriptor
 import com.facebook.react.bridge.Promise
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule
 import com.facebook.react.bridge.ReactMethod
 import org.json.JSONObject
-import org.tensorflow.lite.Interpreter
-import java.io.FileInputStream
-import java.nio.MappedByteBuffer
-import java.nio.channels.FileChannel
+import java.io.File
+import java.io.FileOutputStream
 
 class TextClassifierModule(private val reactContext: ReactApplicationContext) :
     ReactContextBaseJavaModule(reactContext) {
 
-    private var interpreter: Interpreter? = null
-    private var classes: List<String> = emptyList()
+    // Hypothetical wrapper around FastText C++ NDK
+    private var fastText: FastTextWrapper? = null
     private var threshold: Float = 0.6f
 
     override fun getName(): String = "TextClassifier"
@@ -85,60 +69,51 @@ class TextClassifierModule(private val reactContext: ReactApplicationContext) :
     }
 
     private fun loadMetadata() {
-        val json = reactContext.assets.open("tflite_labels.json").bufferedReader().use { it.readText() }
+        val json = reactContext.assets.open("metadata.json").bufferedReader().use { it.readText() }
         val root = JSONObject(json)
-        val arr = root.getJSONArray("classes")
-        classes = (0 until arr.length()).map { arr.getString(it) }
         threshold = root.optDouble("confidence_threshold", 0.6).toFloat()
     }
 
     private fun loadModel() {
-        val modelBuffer = loadModelFile("classifier.tflite")
-        interpreter = Interpreter(modelBuffer)
-    }
-
-    private fun loadModelFile(assetName: String): MappedByteBuffer {
-        val fileDescriptor: AssetFileDescriptor = reactContext.assets.openFd(assetName)
-        FileInputStream(fileDescriptor.fileDescriptor).use { inputStream ->
-            val fileChannel = inputStream.channel
-            return fileChannel.map(
-                FileChannel.MapMode.READ_ONLY,
-                fileDescriptor.startOffset,
-                fileDescriptor.declaredLength
-            )
+        // FastText C++ requires a direct file path.
+        // Copy the model from assets to the internal file system first.
+        val modelFile = File(reactContext.filesDir, "classifier.ftz")
+        if (!modelFile.exists()) {
+            reactContext.assets.open("classifier.ftz").use { input ->
+                FileOutputStream(modelFile).use { output ->
+                    input.copyTo(output)
+                }
+            }
         }
+        fastText = FastTextWrapper()
+        fastText?.loadModel(modelFile.absolutePath)
     }
 
     @ReactMethod
     fun predict(text: String, promise: Promise) {
         try {
-            val localInterpreter = interpreter ?: throw IllegalStateException("Interpreter not initialized")
+            val ft = fastText ?: throw IllegalStateException("Model not initialized")
 
-            // Model input is a single string tensor with shape [1]
-            val input = arrayOf(text)
+            // Clean text: remove newlines as FastText uses them as record separators
+            val cleanedText = text.replace("\n", " ").replace("\r", " ")
 
-            // Output shape is [1, numClasses]
-            val output = Array(1) { FloatArray(classes.size) }
+            // Call predict (returns top 1 prediction)
+            val result = ft.predict(cleanedText, 1)
+            
+            // Expected result properties: label (String) and probability (Float)
+            val rawLabel = result.label
+            val confidence = result.probability
 
-            localInterpreter.run(input, output)
-            val probs = output[0]
+            // Strip the FastText label prefix
+            val label = rawLabel.replace("__label__", "")
 
-            var bestIdx = 0
-            var bestScore = probs[0]
-            for (i in 1 until probs.size) {
-                if (probs[i] > bestScore) {
-                    bestScore = probs[i]
-                    bestIdx = i
-                }
+            val finalLabel = if (confidence >= threshold) label else "UNKNOWN"
+
+            val map = com.facebook.react.bridge.Arguments.createMap().apply {
+                putString("label", finalLabel)
+                putDouble("confidence", confidence.toDouble())
             }
-
-            val predicted = if (bestScore >= threshold) classes[bestIdx] else "UNKNOWN"
-
-            val result = com.facebook.react.bridge.Arguments.createMap().apply {
-                putString("label", predicted)
-                putDouble("confidence", bestScore.toDouble())
-            }
-            promise.resolve(result)
+            promise.resolve(map)
         } catch (e: Exception) {
             promise.reject("PREDICT_ERROR", e)
         }
@@ -150,43 +125,28 @@ Also register your module in a package class and add it to `getPackages()`.
 
 ---
 
-## 3. iOS native setup (Swift)
+## 3. iOS native setup (Swift/C++)
 
-### 3.1 Add TensorFlow Lite iOS libraries
+FastText is written in C++. You can include the FastText C++ source files directly into your Xcode project and create an Objective-C++ (`.mm`) wrapper to expose it to Swift.
 
-If you use CocoaPods, in `ios/Podfile` add:
+### 3.1 Add FastText to Xcode target
 
-```ruby
-pod 'TensorFlowLiteSwift'
-pod 'TensorFlowLiteSelectTfOps'
-```
+1. Download the FastText C++ source code.
+2. Drag the `.cc` and `.h` files into your Xcode project.
+3. Create an Objective-C++ wrapper (e.g., `FastTextWrapper.mm` and `FastTextWrapper.h`).
 
-Then run in the iOS folder:
-
-```bash
-pod install
-```
-
-### 3.2 Add model files to Xcode target
-
-Drag:
-- `classifier.tflite`
-- `tflite_labels.json`
-
-into Xcode project and make sure they are included in your app target.
-
-### 3.3 Create Swift bridge module
+### 3.2 Create Swift bridge module
 
 Example module:
 
 ```swift
 import Foundation
-import TensorFlowLite
+import React
 
 @objc(TextClassifier)
 class TextClassifier: NSObject {
-  private var interpreter: Interpreter?
-  private var classes: [String] = []
+  // Hypothetical Objective-C++ wrapper
+  private var fastText: FastTextWrapper?
   private var threshold: Float = 0.6
 
   override init() {
@@ -196,28 +156,23 @@ class TextClassifier: NSObject {
   }
 
   private func loadMetadata() {
-    guard let url = Bundle.main.url(forResource: "tflite_labels", withExtension: "json"),
+    guard let url = Bundle.main.url(forResource: "metadata", withExtension: "json"),
           let data = try? Data(contentsOf: url),
           let json = try? JSONSerialization.jsonObject(with: data) as? [String: Any] else {
       return
     }
 
-    classes = (json["classes"] as? [String]) ?? []
     threshold = (json["confidence_threshold"] as? NSNumber)?.floatValue ?? 0.6
   }
 
   private func loadInterpreter() {
-    guard let modelPath = Bundle.main.path(forResource: "classifier", ofType: "tflite") else {
+    // Get absolute path from bundle
+    guard let modelPath = Bundle.main.path(forResource: "classifier", ofType: "ftz") else {
       return
     }
 
-    do {
-      let options = Interpreter.Options()
-      interpreter = try Interpreter(modelPath: modelPath, options: options)
-      try interpreter?.allocateTensors()
-    } catch {
-      print("Interpreter init failed: \(error)")
-    }
+    fastText = FastTextWrapper()
+    fastText?.loadModel(modelPath)
   }
 
   @objc
@@ -225,40 +180,28 @@ class TextClassifier: NSObject {
                resolver resolve: @escaping RCTPromiseResolveBlock,
                rejecter reject: @escaping RCTPromiseRejectBlock) {
     do {
-      guard let interpreter = interpreter else {
-        reject("INIT_ERROR", "Interpreter not initialized", nil)
+      guard let ft = fastText else {
+        reject("INIT_ERROR", "Model not initialized", nil)
         return
       }
 
-      // For string input tensor, pass UTF-8 bytes to input tensor 0.
-      // Depending on TensorFlowLite version, string tensor helper APIs may differ.
-      let data = text.data(using: .utf8) ?? Data()
-      try interpreter.copy(data, toInputAt: 0)
-      try interpreter.invoke()
+      // Clean text: remove newlines
+      let cleanedText = text.replacingOccurrences(of: "\n", with: " ")
+                            .replacingOccurrences(of: "\r", with: " ")
 
-      let outputTensor = try interpreter.output(at: 0)
-      let probabilities = outputTensor.data.withUnsafeBytes {
-        Array($0.bindMemory(to: Float32.self))
-      }
+      // Call predict (returns top 1 prediction)
+      let prediction = ft.predict(cleanedText, k: 1)
+      let labelRaw = prediction.label
+      let confidence = prediction.probability
+      
+      // Strip the FastText label prefix
+      let label = labelRaw.replacingOccurrences(of: "__label__", with: "")
 
-      guard !probabilities.isEmpty, !classes.isEmpty else {
-        reject("OUTPUT_ERROR", "Invalid model output", nil)
-        return
-      }
-
-      var bestIdx = 0
-      var bestScore = probabilities[0]
-      for i in 1..<probabilities.count {
-        if probabilities[i] > bestScore {
-          bestScore = probabilities[i]
-          bestIdx = i
-        }
-      }
-
-      let label = bestScore >= threshold ? classes[bestIdx] : "UNKNOWN"
+      let finalLabel = confidence >= threshold ? label : "UNKNOWN"
+      
       resolve([
-        "label": label,
-        "confidence": bestScore
+        "label": finalLabel,
+        "confidence": confidence
       ])
     } catch {
       reject("PREDICT_ERROR", "Prediction failed", error)
@@ -267,7 +210,7 @@ class TextClassifier: NSObject {
 }
 ```
 
-Also expose it with Objective-C bridge macros (`RCT_EXTERN_MODULE`) or directly in Objective-C if your app uses an Obj-C bridge.
+Also expose it with Objective-C bridge macros (`RCT_EXTERN_MODULE`).
 
 ---
 
@@ -291,17 +234,17 @@ export async function classifyText(text: string) {
 
 ## 5. Validation checklist
 
-- Model file loads on both platforms.
-- `tflite_labels.json` is readable in both platforms.
+- Model file loads on both platforms (requires copying `.ftz` from assets to device file system on Android).
+- `metadata.json` is readable in both platforms.
 - Inference works with sample strings.
-- Prediction label is forced to `UNKNOWN` when confidence < 0.6.
-- Android includes `tensorflow-lite-select-tf-ops`.
-- iOS includes `TensorFlowLiteSelectTfOps`.
+- Text input is cleaned (newlines removed) before passing to the FastText C++ `predict` function.
+- Prediction label strips the `__label__` prefix.
+- Prediction label is forced to `UNKNOWN` when confidence < threshold.
 
 ---
 
 ## 6. Notes specific to this model
 
-- This model has a built-in `TextVectorization` layer and expects raw text string input.
-- The conversion was done with Select TF Ops enabled; do not remove Select TF Ops dependencies.
-- If you retrain and export a new model, always ship the matching `tflite_labels.json` together with `classifier.tflite`.
+- **File Paths:** FastText requires actual file paths to load the model. On Android, assets are compressed inside the APK, so you must copy `classifier.ftz` to the app's internal storage (`filesDir`) before loading it.
+- **Newlines:** FastText treats newlines as record separators. Ensure all input strings have `\n` and `\r` replaced with spaces before prediction.
+- **Labels:** FastText outputs labels with a prefix (e.g., `__label__CREDIT`). Your native wrapper must strip `__label__` to match the expected app behavior.

@@ -1,5 +1,5 @@
 # =============================================================================
-# config.py — Central configuration for the SMS classifier
+# config.py — Central configuration for the SMS classifier (FastText)
 # =============================================================================
 
 import os
@@ -10,10 +10,13 @@ DATA_DIR    = os.path.join(BASE_DIR, "data")
 MODEL_DIR   = os.path.join(BASE_DIR, "models")
 LOG_DIR     = os.path.join(BASE_DIR, "logs")
 
-MODEL_PATH      = os.path.join(MODEL_DIR, "classifier.pkl")
-VECTORIZER_PATH = os.path.join(MODEL_DIR, "vectorizer.pkl")
-LABEL_PATH      = os.path.join(MODEL_DIR, "label_encoder.pkl")
-METADATA_PATH   = os.path.join(MODEL_DIR, "metadata.json")
+MODEL_PATH           = os.path.join(MODEL_DIR, "classifier.bin")
+MODEL_QUANTIZED_PATH = os.path.join(MODEL_DIR, "classifier.ftz")
+METADATA_PATH        = os.path.join(MODEL_DIR, "metadata.json")
+
+# Intermediate FastText-format files (generated during training)
+FASTTEXT_TRAIN_FILE = os.path.join(MODEL_DIR, "train.ft.txt")
+FASTTEXT_TEST_FILE  = os.path.join(MODEL_DIR, "test.ft.txt")
 
 # ── Data files  ───────────────────────────────────────────────────────────────
 # Map each CLASS LABEL → text file inside DATA_DIR
@@ -27,21 +30,24 @@ DATA_FILES = {
 # ── Preprocessing ─────────────────────────────────────────────────────────────
 MAX_TEXT_LENGTH = 500          # characters; longer texts are truncated
 
-# ── TF-IDF Vectorizer ────────────────────────────────────────────────────────
-TFIDF_PARAMS = {
-    "ngram_range": (1, 2),     # unigrams + bigrams
-    "max_features": 10_000,
-    "sublinear_tf": True,      # apply log normalization
-    "min_df": 2,               # ignore terms appearing in fewer than 2 docs
-    "max_df": 0.95,            # ignore terms appearing in >95 % of docs
-    "strip_accents": "unicode",
+# ── FastText Hyperparameters ─────────────────────────────────────────────────
+FASTTEXT_PARAMS = {
+    "lr":         0.5,         # learning rate
+    "epoch":      50,          # number of training epochs
+    "wordNgrams": 2,           # use bigrams (like old TF-IDF ngram_range=(1,2))
+    "dim":        50,          # embedding dimension
+    "loss":       "softmax",   # loss function (softmax for multi-class)
+    "minCount":   2,           # min word frequency (like old min_df=2)
+    "minn":       2,           # min char n-gram length (sub-word features)
+    "maxn":       5,           # max char n-gram length
+    "bucket":     200000,      # number of hash buckets for char n-grams
 }
 
-# ── Model Hyperparameter Search Space ────────────────────────────────────────
-# GridSearchCV will try every combination below.
-PARAM_GRID = {
-    "clf__alpha": [0.01, 0.1, 0.5, 1.0],   # Naive Bayes smoothing
-}
+# ── Auto-Tune ────────────────────────────────────────────────────────────────
+# Set to 0 to disable auto-tuning and use manual FASTTEXT_PARAMS instead.
+# When enabled, FastText will search for optimal hyperparameters for the given
+# duration (in seconds). Recommended: 120–600 for thorough search.
+AUTOTUNE_DURATION = 300
 
 # ── Training ──────────────────────────────────────────────────────────────────
 TEST_SIZE      = 0.20    # 20 % held-out test set

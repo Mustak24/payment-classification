@@ -1,26 +1,36 @@
-# SMS Classifier — Production Ready
+# SMS Classifier — FastText
 
 A production-grade text classification system to label SMS / bank messages
 as **CREDIT**, **DEBIT**, **UNKNOWN**, or any custom classes you define.
+
+Powered by **Facebook FastText** — fast training, sub-word embeddings that
+handle SMS abbreviations & misspellings, and lightweight on-device deployment
+via the quantized `.ftz` format.
 
 ---
 
 ## Project Structure
 
 ```
-sms_classifier/
+classification-model/
 ├── config.py          ← All settings in one place
 ├── preprocess.py      ← Text cleaning (shared by train & inference)
 ├── data_loader.py     ← Loads labelled .txt files
-├── train.py           ← Full training pipeline (run this first)
+├── train.py           ← Full FastText training pipeline (run this first)
 ├── predict.py         ← Load model & predict (single or batch)
 ├── api.py             ← FastAPI REST server
-├── requirements.txt
+├── retrain_from_test_logs.py  ← Auto-retrain from test CSV logs
 ├── data/
 │   ├── credit.txt     ← One message per line for CREDIT class
 │   ├── debit.txt      ← One message per line for DEBIT class
 │   └── unknown.txt    ← One message per line for UNKNOWN class
 ├── models/            ← Saved model artifacts (auto-created after training)
+│   ├── classifier.bin       ← Full FastText model
+│   ├── classifier.ftz       ← Quantized/compressed model (for production)
+│   ├── metadata.json        ← Training metrics & config
+│   ├── train.ft.txt         ← Generated FastText-format training data
+│   └── test.ft.txt          ← Generated FastText-format test data
+├── test/              ← Model test suite
 ├── logs/              ← Training logs + plots (auto-created)
 ```
 
@@ -46,26 +56,36 @@ Put your messages (one per line) in the `data/` folder:
 uv run train.py
 ```
 This will:
-- Clean and vectorize your text
-- Run 5-fold cross-validation with hyperparameter tuning
+- Clean and preprocess your text
+- Split data into train/test sets (80/20)
+- Train a FastText supervised classifier (with optional auto-tuning)
 - Evaluate on a held-out test set
-- Save `models/classifier.pkl`, `models/vectorizer.pkl`, `models/label_encoder.pkl`
+- Save `models/classifier.bin` (full) and `models/classifier.ftz` (quantized)
 - Save `logs/confusion_matrix.png` and `logs/class_distribution.png`
 
-### 3.1 Build TensorFlow Lite model (`.tflite`)
-```bash
-uv add tensorflow
-uv run build_tflite_model.py
+#### Training modes
+
+**Auto-tune (default):** FastText automatically searches for the best
+hyperparameters for the configured duration:
+```python
+# config.py
+AUTOTUNE_DURATION = 300   # seconds (set to 0 to disable)
 ```
 
-This creates:
-- `models/classifier.tflite` (TensorFlow Lite model)
-- `models/classifier_tflite.keras` (saved Keras model)
-- `models/tflite_labels.json` (class labels + model metadata)
-
-Note:
-- This exported `.tflite` model includes Select TF Ops (Flex) because it accepts raw string input and performs tokenization inside the model.
-- Your TFLite runtime must include Flex delegate support.
+**Manual hyperparameters:** Set `AUTOTUNE_DURATION = 0` and tune
+`FASTTEXT_PARAMS` in `config.py`:
+```python
+FASTTEXT_PARAMS = {
+    "lr": 0.5,
+    "epoch": 50,
+    "wordNgrams": 2,
+    "dim": 50,
+    "loss": "softmax",
+    "minCount": 2,
+    "minn": 2,
+    "maxn": 5,
+}
+```
 
 ### 4. Test predictions (CLI)
 ```bash
@@ -103,13 +123,6 @@ JSON log  : /home/.../test/log/model_test_summary.json
 Matrix    : /home/.../test/log/model_test_confusion_matrix.png
 ```
 
-Optional: test custom input/output directories
-```bash
-uv run test/run_model_test.py \
-  --input-dir test/data \
-  --output-dir test/log
-```
-
 ### 5. Start the REST API
 ```bash
 uv run uvicorn api:app --host 0.0.0.0 --port 8000
@@ -141,7 +154,7 @@ curl -X POST http://localhost:8000/predict \
   "confidence": 0.9712,
   "is_uncertain": false,
   "all_scores": {"CREDIT": 0.02, "DEBIT": 0.97, "UNKNOWN": 0.01},
-  "latency_ms": 1.8
+  "latency_ms": 0.3
 }
 ```
 
@@ -172,13 +185,24 @@ curl -X POST http://localhost:8000/predict/batch \
 
 ## Configuration Reference (`config.py`)
 
-| Setting                | Default  | Description                                   |
-|------------------------|----------|-----------------------------------------------|
-| `TEST_SIZE`            | 0.20     | Fraction of data held out for testing         |
-| `CV_FOLDS`             | 5        | Number of cross-validation folds              |
-| `CONFIDENCE_THRESHOLD` | 0.60     | Below this → returns `UNCERTAIN`              |
-| `TFIDF_PARAMS`         | see file | Vectorizer hyperparameters                    |
-| `PARAM_GRID`           | see file | Hyperparameter search space for GridSearchCV  |
+| Setting                | Default  | Description                                     |
+|------------------------|----------|-------------------------------------------------|
+| `TEST_SIZE`            | 0.20     | Fraction of data held out for testing           |
+| `CONFIDENCE_THRESHOLD` | 0.60     | Below this → returns `UNCERTAIN`                |
+| `AUTOTUNE_DURATION`    | 300      | Seconds for auto-tuning (0 = use manual params) |
+| `FASTTEXT_PARAMS`      | see file | Manual hyperparameters (used when autotune=0)   |
+
+---
+
+## Model Artifacts
+
+| File | Description |
+|---|---|
+| `classifier.bin` | Full FastText model (~2–5 MB). Use for retraining/inspection. |
+| `classifier.ftz` | Quantized model (~0.5–1 MB). Use for production & on-device. |
+| `metadata.json` | Training metrics, class list, and configuration snapshot. |
+| `train.ft.txt` | FastText-format training data (auto-generated). |
+| `test.ft.txt` | FastText-format test data (auto-generated). |
 
 ---
 
@@ -188,6 +212,7 @@ curl -X POST http://localhost:8000/predict/batch \
 |-----------------------------------------|----------------|
 | Add more data (≥ 500/class)             | High           |
 | Balance classes (equal samples each)    | Medium–High    |
+| Enable auto-tune (AUTOTUNE_DURATION>0)  | Medium–High    |
+| Increase epoch count                    | Low–Medium     |
+| Use wordNgrams=3 (trigrams)             | Low–Medium     |
 | Add domain-specific stopwords           | Medium         |
-| Switch to DistilBERT (transformer)      | High (GPU rec.)|
-| Add n-gram range (1,3) in TFIDF_PARAMS  | Low–Medium     |

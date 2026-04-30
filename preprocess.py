@@ -75,6 +75,9 @@ def clean(text: str) -> str:
     # 6. Collapse whitespace
     text = _WHITESPACE.sub(" ", text).strip()
 
+    # 6.5 Remove newlines (FastText uses newlines as record separators)
+    text = text.replace("\n", " ").replace("\r", " ")
+
     # 7. Truncate
     text = text[:MAX_TEXT_LENGTH]
 
