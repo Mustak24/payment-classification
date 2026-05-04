@@ -1,4 +1,7 @@
 Rs.5,000 credited to your account via NEFT.
+Harsh Teli paid you Rs100 payment from PhonePe.
+Harsh Teli paid you Rs100.
+recived payment 100 rupees.
 INR 2,350 received from UPI transfer.
 Salary of Rs.45,000 has been credited.
 Rs.1,200 added to your wallet.
@@ -48,3 +51,22 @@ Rs.1,350 credited via transfer.
 Rs.8,000 credited.
 Rs.2,600 credited.
 Rs.500 credited to your account.
+You received ₹100 from Harsh Teli via PhonePe.
+₹500 received from Priya using Google Pay.
+Money received: ₹1,200 from Amit.
+PhonePe: ₹750 sent to you by Rahul.
+UPI: Received ₹2,000 from Priya.
+Google Pay: You got ₹100 from Harsh Teli.
+Paytm: ₹500 credited from transfer.
+You received ₹3,000 from Rohit via UPI.
+PhonePe notification: ₹150 credited to wallet.
+₹999 received from Neha using PhonePe.
+Google Pay: Received ₹5,000 from client.
+UPI transfer: ₹2,500 credited from employer.
+Paytm: You got ₹1,100 from friend.
+PhonePe: ₹400 cashback credited.
+Received ₹2,200 from Arjun via UPI.
+₹600 credited by Divya on PhonePe.
+Google Pay notification: ₹3,500 received.
+UPI: You received ₹1,750 from Pooja.
+PhonePe money received: ₹800 from Vikram.

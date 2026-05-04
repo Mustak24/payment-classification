@@ -193,3 +193,222 @@ weighted avg       1.00      1.00      1.00       768
 2026-05-01 00:21:43,134 [INFO] train — ============================================================
 2026-05-01 00:21:43,134 [INFO] train — Training complete. Test accuracy: 99.87%
 2026-05-01 00:21:43,134 [INFO] train — ============================================================
+2026-05-03 21:48:53,420 [INFO] train — ============================================================
+2026-05-03 21:48:53,421 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-03 21:48:53,421 [INFO] train — ============================================================
+2026-05-03 21:48:53,541 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-03 21:48:53,541 [INFO] train — Cleaning text...
+2026-05-03 21:48:53,689 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-03 21:48:53,694 [INFO] train — Train: 3096 | Test: 774
+2026-05-03 21:48:53,780 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3096 rows)
+2026-05-03 21:48:53,803 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (774 rows)
+2026-05-03 21:48:53,803 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-03 21:51:21,811 [INFO] train — ============================================================
+2026-05-03 21:51:21,811 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-03 21:51:21,811 [INFO] train — ============================================================
+2026-05-03 21:51:21,945 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-03 21:51:21,945 [INFO] train — Cleaning text...
+2026-05-03 21:51:22,108 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-03 21:51:22,112 [INFO] train — Train: 3096 | Test: 774
+2026-05-03 21:51:22,208 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3096 rows)
+2026-05-03 21:51:22,232 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (774 rows)
+2026-05-03 21:51:22,232 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-03 21:56:00,788 [INFO] train — ============================================================
+2026-05-03 21:56:00,788 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-03 21:56:00,788 [INFO] train — ============================================================
+2026-05-03 21:56:00,898 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-03 21:56:00,898 [INFO] train — Cleaning text...
+2026-05-03 21:56:01,019 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-03 21:56:01,022 [INFO] train — Train: 3129 | Test: 783
+2026-05-03 21:56:01,112 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-03 21:56:01,135 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-03 21:56:01,135 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-03 21:58:04,862 [INFO] train — ============================================================
+2026-05-03 21:58:04,863 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-03 21:58:04,863 [INFO] train — ============================================================
+2026-05-03 21:58:04,983 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-03 21:58:04,983 [INFO] train — Cleaning text...
+2026-05-03 21:58:05,133 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-03 21:58:05,137 [INFO] train — Train: 3129 | Test: 783
+2026-05-03 21:58:05,230 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-03 21:58:05,257 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-03 21:58:05,257 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-04 08:37:28,849 [INFO] train — ============================================================
+2026-05-04 08:37:28,849 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:37:28,849 [INFO] train — ============================================================
+2026-05-04 08:37:28,949 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:37:28,949 [INFO] train — Cleaning text...
+2026-05-04 08:37:29,057 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:37:29,061 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:37:29,145 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:37:29,170 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:37:29,170 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-04 08:38:39,451 [INFO] train — ============================================================
+2026-05-04 08:38:39,454 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:38:39,454 [INFO] train — ============================================================
+2026-05-04 08:38:39,788 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:38:39,788 [INFO] train — Cleaning text...
+2026-05-04 08:38:39,897 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:38:39,900 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:38:39,983 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:38:40,004 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:38:40,004 [INFO] train — Training with auto-tune (duration=300s)...
+2026-05-04 08:43:58,324 [INFO] train — ============================================================
+2026-05-04 08:43:58,324 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:43:58,324 [INFO] train — ============================================================
+2026-05-04 08:43:58,688 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:43:58,688 [INFO] train — Cleaning text...
+2026-05-04 08:43:58,806 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:43:58,809 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:43:58,894 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:43:58,917 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:43:58,917 [INFO] train — Training with auto-tune (duration=30s)...
+2026-05-04 08:51:20,182 [INFO] train — ============================================================
+2026-05-04 08:51:20,182 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:51:20,182 [INFO] train — ============================================================
+2026-05-04 08:51:20,284 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:51:20,284 [INFO] train — Cleaning text...
+2026-05-04 08:51:20,401 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:51:20,404 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:51:20,490 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:51:20,512 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:51:20,512 [INFO] train — Training with auto-tune (duration=30s)...
+2026-05-04 08:52:21,877 [INFO] train — ============================================================
+2026-05-04 08:52:21,877 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:52:21,877 [INFO] train — ============================================================
+2026-05-04 08:52:21,993 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:52:21,993 [INFO] train — Cleaning text...
+2026-05-04 08:52:22,157 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:52:22,161 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:52:22,257 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:52:22,281 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:52:22,282 [INFO] train — Training with auto-tune (duration=60s)...
+2026-05-04 08:53:24,633 [INFO] train — ============================================================
+2026-05-04 08:53:24,633 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:53:24,633 [INFO] train — ============================================================
+2026-05-04 08:53:24,765 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:53:24,765 [INFO] train — Cleaning text...
+2026-05-04 08:53:24,907 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:53:24,911 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:53:25,032 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:53:25,060 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:53:25,060 [INFO] train — Training with auto-tune (duration=60s)...
+2026-05-04 08:54:33,708 [INFO] train — ============================================================
+2026-05-04 08:54:33,708 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:54:33,708 [INFO] train — ============================================================
+2026-05-04 08:54:33,812 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:54:33,813 [INFO] train — Cleaning text...
+2026-05-04 08:54:33,939 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:54:33,943 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:54:34,049 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:54:34,071 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:54:34,071 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-04 08:54:47,118 [INFO] train — FastText test metrics — N: 783 | P@1: 0.9974 | R@1: 0.9974
+2026-05-04 08:54:47,156 [INFO] train — Test Accuracy : 0.9974
+2026-05-04 08:54:47,157 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       248
+       DEBIT       1.00      1.00      1.00       248
+     UNKNOWN       1.00      1.00      1.00       287
+
+    accuracy                           1.00       783
+   macro avg       1.00      1.00      1.00       783
+weighted avg       1.00      1.00      1.00       783
+
+2026-05-04 08:54:47,328 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-04 08:54:48,322 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-04 08:57:16,753 [INFO] train — ============================================================
+2026-05-04 08:57:16,753 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 08:57:16,753 [INFO] train — ============================================================
+2026-05-04 08:57:16,862 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 08:57:16,862 [INFO] train — Cleaning text...
+2026-05-04 08:57:16,995 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 08:57:16,998 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 08:57:17,106 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 08:57:17,139 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 08:57:17,140 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-04 08:57:29,044 [INFO] train — FastText test metrics — N: 783 | P@1: 0.9974 | R@1: 0.9974
+2026-05-04 08:57:29,085 [INFO] train — Test Accuracy : 0.9974
+2026-05-04 08:57:29,085 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       248
+       DEBIT       1.00      1.00      1.00       248
+     UNKNOWN       1.00      1.00      1.00       287
+
+    accuracy                           1.00       783
+   macro avg       1.00      1.00      1.00       783
+weighted avg       1.00      1.00      1.00       783
+
+2026-05-04 08:57:29,258 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-04 08:57:30,039 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-04 08:59:25,943 [INFO] train — Saved quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz
+2026-05-04 08:59:25,943 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-04 08:59:25,944 [INFO] train — ============================================================
+2026-05-04 08:59:25,944 [INFO] train — Training complete. Test accuracy: 99.74%
+2026-05-04 08:59:25,944 [INFO] train — ============================================================
+2026-05-04 09:02:38,328 [INFO] train — ============================================================
+2026-05-04 09:02:38,328 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 09:02:38,328 [INFO] train — ============================================================
+2026-05-04 09:02:38,428 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 09:02:38,428 [INFO] train — Cleaning text...
+2026-05-04 09:02:38,552 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 09:02:38,556 [INFO] train — Train: 3129 | Test: 783
+2026-05-04 09:02:38,664 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3129 rows)
+2026-05-04 09:02:38,693 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (783 rows)
+2026-05-04 09:02:38,694 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-04 09:02:51,520 [INFO] train — FastText test metrics — N: 783 | P@1: 0.9974 | R@1: 0.9974
+2026-05-04 09:02:51,560 [INFO] train — Test Accuracy : 0.9974
+2026-05-04 09:02:51,560 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       248
+       DEBIT       1.00      1.00      1.00       248
+     UNKNOWN       1.00      1.00      1.00       287
+
+    accuracy                           1.00       783
+   macro avg       1.00      1.00      1.00       783
+weighted avg       1.00      1.00      1.00       783
+
+2026-05-04 09:02:51,721 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-04 09:02:52,773 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-04 09:07:32,648 [INFO] train — Saved quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz
+2026-05-04 09:07:32,652 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-04 09:07:32,652 [INFO] train — ============================================================
+2026-05-04 09:07:32,652 [INFO] train — Training complete. Test accuracy: 99.74%
+2026-05-04 09:07:32,652 [INFO] train — ============================================================
+2026-05-04 22:00:50,308 [INFO] train — ============================================================
+2026-05-04 22:00:50,308 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-04 22:00:50,308 [INFO] train — ============================================================
+2026-05-04 22:00:50,421 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-04 22:00:50,421 [INFO] train — Cleaning text...
+2026-05-04 22:00:50,542 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-04 22:00:50,547 [INFO] train — Train: 3261 | Test: 816
+2026-05-04 22:00:50,639 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3261 rows)
+2026-05-04 22:00:50,668 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (816 rows)
+2026-05-04 22:00:50,669 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-04 22:01:02,928 [INFO] train — FastText test metrics — N: 816 | P@1: 0.9963 | R@1: 0.9963
+2026-05-04 22:01:03,012 [INFO] train — Test Accuracy : 0.9963
+2026-05-04 22:01:03,013 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       259
+       DEBIT       1.00      1.00      1.00       259
+     UNKNOWN       1.00      1.00      1.00       298
+
+    accuracy                           1.00       816
+   macro avg       1.00      1.00      1.00       816
+weighted avg       1.00      1.00      1.00       816
+
+2026-05-04 22:01:03,247 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-04 22:01:05,053 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-04 22:03:04,053 [INFO] train — Saved quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz
+2026-05-04 22:03:04,056 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-04 22:03:04,056 [INFO] train — ============================================================
+2026-05-04 22:03:04,056 [INFO] train — Training complete. Test accuracy: 99.63%
+2026-05-04 22:03:04,056 [INFO] train — ============================================================

@@ -1,4 +1,14 @@
 Congratulations! You are selected for instant credit card with zero joining fee. Claim before 02/02/2026 07:13. Code 000073.
+Get paid rewards up to Rs100 when you refer friends on PhonePe. This is a promotional message.
+Offer: receive payment bonus of 100 rupees points, not a bank transfer.
+Your app wallet may show credited points for campaign activity. Not a real account credit.
+Harsh Teli paid you badge points in game app worth 100 coins. Non-bank notification.
+Received payment confirmation pending review. This is only status update, not money credit.
+Payment received message from merchant app for cashback points, not bank account transaction.
+You paid membership fee reminder is pending verification. No debit posted yet.
+Credit card pre-approved: paid you cashback terms apply after signup. Promotional content.
+PhonePe campaign: paid you reward in app points. Withdrawable amount is subject to terms.
+Recived payment notice for survey rewards is under processing and may not be real credit.
 Limited offer: Get 19% off on electronics today only. Use coupon SAVE00182 in app. TnC apply.
 Your KYC is pending. Update now to avoid account block: bit.ly/x00273. Ticket TK10000087.
 Earn Rs 1548/month from home. No investment needed. Register now at bit.ly/x00364. ID C3000000172.
@@ -1419,3 +1429,62 @@ Notification: update available.
 Request declined.
 Processing delay expected.
 Request acknowledged.
+Get paid rewards up to Rs100 when you refer friends on PhonePe. Promotional only.
+Received payment status update only. This is not a bank credit confirmation.
+PhonePe: Refer and earn up to ₹1,000 rewards.
+
+Your wallet access attempt detected from new device. Confirm at app.link/security
+KYC update required to continue transactions. Complete now: app.link/kyc
+Security alert: Unusual activity on your account. Verify immediately.
+Account verification pending - update details within 24 hours
+Two-factor authentication enabled for your account
+Your transaction limit has been increased to Rs 10000
+New device login detected. Is this you? Confirm now.
+Password change successful. Your account is now secure.
+Session timeout due to inactivity. Login again to continue.
+Account locked due to multiple failed login attempts
+Backup wallet recovery initiated. Confirm your identity.
+Email verification code: 123456
+Phone number verification required for your profile
+Government notification: GST filing deadline approaching
+Tax return filing reminder - last date approaching
+Insurance policy renewal notification sent
+Your EMI payment is due this month
+Credit card statement ready for review
+Bank maintenance window: 10 PM to 6 AM
+Update your profile information
+Download our new mobile app for better experience
+Rate our service - take a quick survey
+Customer support available 24/7
+Promotional offer: Get cashback on transactions
+Loyalty program activated - earn points on every transaction
+Refer friends and earn rewards
+Special discount for premium members
+Anniversary sale starting tomorrow
+Winter collection now available
+New features added to your app
+App update available - improve performance
+Browser update recommended for security
+Your subscription is about to expire
+Subscription renewal successful
+Thank you for being our customer
+Feedback survey - your opinion matters
+Product recommendation based on your preferences
+Your order has been shipped
+Delivery scheduled for tomorrow
+Parcel out for delivery
+Delivery failed - retry scheduled
+Pick up your package at nearest store
+Your booking confirmation is attached
+Hotel reservation confirmed
+Flight ticket issued successfully
+Bus booking confirmation number sent
+Restaurant reservation confirmed for 8 PM
+Movie ticket purchase successful
+Concert ticket booking confirmed
+Event registration complete
+Webinar invitation sent to your email
+Course enrollment successful
+Certificate issued for completion
+New job posting matches your profile
+Your resume has been viewed

@@ -1,4 +1,14 @@
 HDFC Bank: Rs 85.17 received in account ending 0029 through IMPS. UTR UTR70000000041. Available balance Rs 5131.23.
+Harsh Teli paid you Rs100 payment from PhonePe.
+Harsh Teli paid you Rs100 via UPI.
+Harsh Teli paid you 100 rupees on PhonePe.
+Received payment of Rs100 from Harsh Teli.
+recived payment 100 rupees from Harsh Teli on phonepe.
+Payment received 100 rupees from friend via UPI.
+You got payment of Rs 100 from Harsh Teli.
+Money received: Harsh Teli paid you Rs 100.
+UPI alert: paid you Rs100 from Harsh Teli, amount credited.
+Rs100 payment received from Harsh Teli via PhonePe.
 ICICI Notification: Rs 158.34 credited as merchant refund from Swiggy to A/c XX0058. Txn TXN100000026.
 Axis Bank SMS: Credit of Rs 231.51 successful to account XX0087 from payer2003@oksbi. RRN 500000000057.
 Kotak Bank: Cashback Rs 304.68 posted and credited in account ending 0116. Ref 900000000148.
@@ -1217,3 +1227,70 @@ Salary of Rs.45,000 has been credited.
 Rs.1,200 added to your wallet.
 Rs.300 cashback credited.
 Rs.250 cashback credited.
+Harsh Teli paid you Rs100.
+recived payment 100 rupees.
+INR 2,350 received from UPI transfer.
+Payment of Rs.3,500 received from Rahul.
+Rs.2,000 received from Paytm.
+Rs.600 received from friend.
+₹500 received from Priya using Google Pay.
+Google Pay: You got ₹100 from Harsh Teli.
+Paytm: ₹500 credited from transfer.
+₹999 received from Neha using PhonePe.
+Paytm: You got ₹1,100 from friend.
+
+Money received: Raj Kumar paid you Rs 100
+Amit Patel paid you Rs300 from PhonePe
+Money received: Riya Nair paid you Rs 200
+Payment received Rs 100 from Harsh Teli on PhonePe
+Amit Patel paid you Rs900 from Paytm
+Riya Nair paid you Rs 400 payment from Paytm
+Payment received Rs 800 from Amit Patel on Paytm
+Received payment Rs 3000 from Harsh Teli via Google Pay
+UPI payment: Anjali Verma paid you Rs 600
+Amit Patel paid you Rs3000 on UPI
+Raj Kumar paid you Rs 700 via PhonePe
+Vikram Sharma sent Rs 1100 payment from UPI
+Harsh Teli transferred Rs 2500 to your account
+Rs 700 payment received from Raj Kumar from PhonePe
+Rs 1200 payment received from Neha Gupta from Paytm
+Vikram Sharma paid Rs 1000 to your account
+UPI payment: Raj Kumar paid you Rs 150
+Neha Gupta transferred Rs 200 to your account
+Payment of Rs 700 from Raj Kumar successful
+Vikram Sharma transferred Rs 350 on UPI
+Amit Patel sent Rs 1500 payment from UPI
+UPI payment: Raj Kumar paid you Rs 1100
+Rs 350 payment received from Amit Patel from BHIM
+Payment received Rs 1200 from Neha Gupta on Paytm
+Vikram Sharma paid you Rs3000 from PhonePe
+Harsh Teli paid you Rs600 from BHIM
+Received payment Rs 400 from Raj Kumar via Paytm
+Vikram Sharma paid Rs 400 to your account
+Payment received Rs 300 from Sanjay Kumar on UPI
+Amit Patel paid you Rs2500 on Paytm
+Rs 2500 payment received from Neha Gupta from Paytm
+Payment received Rs 700 from Arjun Das on UPI
+Priya Singh paid you Rs900 from BHIM
+Harsh Teli paid you Rs 250 via Google Pay
+Money received: Priya Singh paid you Rs 1500
+Raj Kumar paid you 700 rupees on BHIM
+Sanjay Kumar paid you 900 rupees on UPI
+Rs 1500 payment received from Harsh Teli from PhonePe
+Money received: Riya Nair paid you Rs 3000
+Vikram Sharma transferred Rs 250 to your account
+Payment received Rs 800 from Priya Singh on PhonePe
+UPI payment: Neha Gupta paid you Rs 900
+Rs 1200 payment received from Raj Kumar from UPI
+Payment of Rs 1100 from Riya Nair successful
+Vikram Sharma paid you Rs3000 on Google Pay
+Rs 100 payment received from Riya Nair from Paytm
+Sanjay Kumar sent Rs 100 payment from PhonePe
+Vikram Sharma paid Rs 550 to your account
+Amit Patel paid you Rs 1000 payment from PhonePe
+Sanjay Kumar paid you Rs 200 via Paytm
+Priya Singh transferred Rs 300 to your account
+Rs 500 payment received from Priya Singh from Paytm
+Payment of Rs 750 from Arjun Das successful
+Riya Nair paid Rs 3000 to your account
+UPI payment: Neha Gupta paid you Rs 700

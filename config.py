@@ -47,7 +47,7 @@ FASTTEXT_PARAMS = {
 # Set to 0 to disable auto-tuning and use manual FASTTEXT_PARAMS instead.
 # When enabled, FastText will search for optimal hyperparameters for the given
 # duration (in seconds). Recommended: 120–600 for thorough search.
-AUTOTUNE_DURATION = 300
+AUTOTUNE_DURATION = 10
 
 # ── Training ──────────────────────────────────────────────────────────────────
 TEST_SIZE      = 0.20    # 20 % held-out test set

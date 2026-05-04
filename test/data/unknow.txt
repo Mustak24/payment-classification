@@ -1,4 +1,6 @@
 Your transaction is being processed.
+Get paid rewards up to Rs100 when you refer friends on PhonePe. Promotional only.
+Received payment status update only. This is not a bank credit confirmation.
 Please verify your recent activity.
 A request has been initiated on your account.
 Your payment is under review.
@@ -46,5 +48,24 @@ Notification: update available.
 Request declined.
 Processing delay expected.
 Check your inbox for details.
+Your PhonePe balance is low. Add money now.
+Cashback offer: Get ₹50 on your next transaction.
+PhonePe: Refer and earn up to ₹1,000 rewards.
+Google Pay: Check your reward points balance.
+Paytm: Your payment method expires soon.
+UPI: Enable two-factor authentication for security.
+PhonePe security alert: Verify your recent activity.
+Google Pay: Update your account information.
+Paytm: Complete your KYC verification.
+PhonePe: Your referral code is ready to share.
+UPI: Transaction fee information updated.
+Google Pay: New feature available in your app.
+Paytm: Offer: Get cashback on bill payments.
+PhonePe: Invite friends and earn bonuses.
+UPI: Your transaction limit has been reset.
+Google Pay: Your payment history is available.
+PhonePe: Limited time offer on transfers.
+Paytm: Upgrade your wallet for better benefits.
+UPI: Security code changed successfully.
 Request acknowledged.
 Your action is recorded.

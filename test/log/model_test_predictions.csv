@@ -1,151 +1,215 @@
 source_file,label,text,predicted_class,confidence,is_uncertain,correct
-credit.txt,CREDIT,"Rs.5,000 credited to your account via NEFT.",CREDIT,0.9999,False,True
-credit.txt,CREDIT,"INR 2,350 received from UPI transfer.",DEBIT,0.885,False,False
-credit.txt,CREDIT,"Salary of Rs.45,000 has been credited.",CREDIT,0.9848,False,True
-credit.txt,CREDIT,"Rs.1,200 added to your wallet.",CREDIT,0.9668,False,True
-credit.txt,CREDIT,Refund of Rs.899 credited successfully.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Cash deposit of Rs.10,000 received.",CREDIT,0.9917,False,True
-credit.txt,CREDIT,Rs.750 credited via IMPS.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Payment of Rs.3,500 received from Rahul.",DEBIT,0.9719,False,False
-credit.txt,CREDIT,"Rs.9,999 credited to your account.",CREDIT,0.9999,False,True
-credit.txt,CREDIT,Interest amount of Rs.120 credited.,CREDIT,0.9899,False,True
-credit.txt,CREDIT,"Rs.2,000 received from Paytm.",DEBIT,0.7295,False,False
-credit.txt,CREDIT,"Transfer of Rs.6,500 successful (credit).",CREDIT,0.6646,False,True
-credit.txt,CREDIT,Cashback of Rs.50 credited.,CREDIT,0.9993,False,True
-credit.txt,CREDIT,"Rs.1,100 credited from Amazon refund.",CREDIT,0.9928,False,True
-credit.txt,CREDIT,UPI credit of Rs.499 received.,CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.20,000 credited via RTGS.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Bonus of Rs.5,000 credited.",CREDIT,0.9968,False,True
-credit.txt,CREDIT,Rs.899 credited to your account.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Rs.2,250 received from Google Pay.",CREDIT,0.782,False,True
-credit.txt,CREDIT,Refund of Rs.120 credited.,CREDIT,1.0,False,True
-credit.txt,CREDIT,Rs.10 credited as reward points.,CREDIT,0.9985,False,True
-credit.txt,CREDIT,"Rs.7,000 credited from employer.",CREDIT,0.9896,False,True
-credit.txt,CREDIT,Rs.999 credited via PhonePe.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Rs.1,450 credited successfully.",CREDIT,0.9996,False,True
-credit.txt,CREDIT,Rs.600 received from friend.,DEBIT,0.67,False,False
-credit.txt,CREDIT,Rs.300 cashback credited.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Rs.5,600 credited via transfer.",CREDIT,0.9976,False,True
-credit.txt,CREDIT,Rs.700 credited as refund.,CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.3,200 credited via UPI.",CREDIT,1.0,False,True
-credit.txt,CREDIT,Rs.50 credited as bonus.,CREDIT,0.9992,False,True
-credit.txt,CREDIT,"Rs.1,000 received successfully.",CREDIT,0.9903,False,True
-credit.txt,CREDIT,"Rs.2,800 credited to wallet.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.1,750 credited via NEFT.",CREDIT,1.0,False,True
-credit.txt,CREDIT,Rs.900 received from Flipkart.,CREDIT,0.7423,False,True
-credit.txt,CREDIT,Rs.250 cashback credited.,CREDIT,0.9999,False,True
-credit.txt,CREDIT,"Rs.4,000 credited successfully.",CREDIT,0.9996,False,True
-credit.txt,CREDIT,Rs.150 credited as promo.,CREDIT,0.9988,False,True
-credit.txt,CREDIT,"Rs.5,500 received via IMPS.",CREDIT,0.9989,False,True
-credit.txt,CREDIT,Rs.800 credited from recharge refund.,CREDIT,0.7284,False,True
-credit.txt,CREDIT,"Rs.1,999 credited.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.3,000 credited via UPI.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.2,200 credited.",CREDIT,1.0,False,True
-credit.txt,CREDIT,Rs.100 credited as reward.,CREDIT,0.9998,False,True
-credit.txt,CREDIT,"Rs.4,500 credited from client.",CREDIT,0.9764,False,True
-credit.txt,CREDIT,Rs.650 received successfully.,CREDIT,0.9903,False,True
-credit.txt,CREDIT,"Rs.2,750 credited.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.1,350 credited via transfer.",CREDIT,0.9976,False,True
-credit.txt,CREDIT,"Rs.8,000 credited.",CREDIT,1.0,False,True
-credit.txt,CREDIT,"Rs.2,600 credited.",CREDIT,1.0,False,True
-credit.txt,CREDIT,Rs.500 credited to your account.,CREDIT,0.9999,False,True
-debit.txt,DEBIT,Rs.500 debited for ATM withdrawal.,DEBIT,0.9737,False,True
-debit.txt,DEBIT,"INR 1,200 spent on POS transaction.",UNKNOWN,0.9113,False,False
-debit.txt,DEBIT,Rs.899 debited for online purchase.,DEBIT,0.9715,False,True
-debit.txt,DEBIT,"Rs.2,000 debited via UPI.",DEBIT,0.999,False,True
-debit.txt,DEBIT,"Electricity bill of Rs.1,500 paid.",DEBIT,0.8105,False,True
-debit.txt,DEBIT,Rs.300 debited for recharge.,DEBIT,0.9893,False,True
-debit.txt,DEBIT,Rs.750 spent on groceries.,UNKNOWN,0.9963,False,False
-debit.txt,DEBIT,"Rs.4,500 debited via IMPS.",DEBIT,0.9812,False,True
-debit.txt,DEBIT,"Rs.1,999 debited from account.",DEBIT,1.0,False,True
-debit.txt,DEBIT,Rs.100 debited as service charge.,DEBIT,0.9822,False,True
-debit.txt,DEBIT,Rs.250 spent at restaurant.,UNKNOWN,0.988,False,False
-debit.txt,DEBIT,"Rs.2,200 debited for shopping.",DEBIT,0.9758,False,True
-debit.txt,DEBIT,Rs.600 debited via Paytm.,DEBIT,0.994,False,True
-debit.txt,DEBIT,"Rs.1,450 spent on fuel.",UNKNOWN,0.9963,False,False
-debit.txt,DEBIT,Rs.999 debited via PhonePe.,DEBIT,0.9729,False,True
-debit.txt,DEBIT,"Rs.3,000 debited successfully.",DEBIT,0.994,False,True
-debit.txt,DEBIT,Rs.50 debited as fee.,DEBIT,0.9847,False,True
-debit.txt,DEBIT,"Rs.5,000 transferred to Amit.",UNCERTAIN,0.5671,True,False
-debit.txt,DEBIT,"Rs.2,800 debited for EMI.",DEBIT,0.9315,False,True
-debit.txt,DEBIT,"Rs.1,350 spent on online order.",UNKNOWN,0.9917,False,False
-debit.txt,DEBIT,Rs.200 debited as penalty.,DEBIT,0.9936,False,True
-debit.txt,DEBIT,Rs.700 debited for cab ride.,DEBIT,0.9758,False,True
-debit.txt,DEBIT,Rs.900 debited for food delivery.,DEBIT,0.7724,False,True
-debit.txt,DEBIT,"Rs.4,000 debited for rent.",DEBIT,0.9758,False,True
-debit.txt,DEBIT,Rs.150 debited as charge.,DEBIT,0.9936,False,True
-debit.txt,DEBIT,"Rs.1,750 debited via NEFT.",DEBIT,0.9963,False,True
-debit.txt,DEBIT,Rs.600 spent on subscription.,UNKNOWN,0.9924,False,False
-debit.txt,DEBIT,"Rs.2,500 debited via UPI.",DEBIT,0.999,False,True
-debit.txt,DEBIT,"Rs.3,200 debited for electronics.",DEBIT,0.9295,False,True
-debit.txt,DEBIT,Rs.450 debited for medicine.,DEBIT,0.9758,False,True
-debit.txt,DEBIT,"Rs.1,100 debited for shopping.",DEBIT,0.9758,False,True
-debit.txt,DEBIT,Rs.850 spent at store.,UNKNOWN,0.988,False,False
-debit.txt,DEBIT,"Rs.5,600 debited.",DEBIT,0.9991,False,True
-debit.txt,DEBIT,"Rs.2,750 debited via transfer.",DEBIT,0.9974,False,True
-debit.txt,DEBIT,Rs.999 spent online.,UNKNOWN,0.992,False,False
-debit.txt,DEBIT,"Rs.1,300 debited for ticket.",DEBIT,0.9507,False,True
-debit.txt,DEBIT,Rs.750 debited via POS.,DEBIT,0.9961,False,True
-debit.txt,DEBIT,"Rs.2,000 debited for bill.",DEBIT,0.9832,False,True
-debit.txt,DEBIT,"Rs.1,600 debited for EMI.",DEBIT,0.9315,False,True
-debit.txt,DEBIT,Rs.300 spent on snacks.,UNKNOWN,0.9963,False,False
-debit.txt,DEBIT,"Rs.1,999 debited via UPI.",DEBIT,0.999,False,True
-debit.txt,DEBIT,"Rs.4,200 debited successfully.",DEBIT,0.994,False,True
-debit.txt,DEBIT,Rs.500 debited for recharge.,DEBIT,0.9893,False,True
-debit.txt,DEBIT,"Rs.2,600 debited.",DEBIT,0.9991,False,True
-debit.txt,DEBIT,Rs.800 debited for fuel.,DEBIT,0.9758,False,True
-debit.txt,DEBIT,"Rs.1,250 debited for shopping.",DEBIT,0.9758,False,True
-debit.txt,DEBIT,"Rs.3,500 debited via IMPS.",DEBIT,0.9812,False,True
-debit.txt,DEBIT,"Rs.2,900 debited.",DEBIT,0.9991,False,True
-debit.txt,DEBIT,Rs.700 debited for taxi.,DEBIT,0.9758,False,True
-debit.txt,DEBIT,"Rs.1,800 debited.",DEBIT,0.9991,False,True
-unknow.txt,UNKNOWN,Your transaction is being processed.,UNKNOWN,0.9995,False,True
-unknow.txt,UNKNOWN,Please verify your recent activity.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,A request has been initiated on your account.,UNKNOWN,0.9443,False,True
-unknow.txt,UNKNOWN,Your payment is under review.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Transaction status is pending.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Alert: unusual activity detected.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Please confirm your transaction.,UNKNOWN,0.9994,False,True
-unknow.txt,UNKNOWN,Your request is successfully submitted.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,Processing your recent request.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Action required for your account.,UNKNOWN,0.9993,False,True
-unknow.txt,UNKNOWN,Your OTP is 456789.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Verification code sent to your number.,UNKNOWN,0.9996,False,True
-unknow.txt,UNKNOWN,Session expired. Please login again.,UNKNOWN,0.9996,False,True
-unknow.txt,UNKNOWN,New login detected on your account.,UNKNOWN,0.996,False,True
-unknow.txt,UNKNOWN,Your request could not be completed.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,System maintenance in progress.,UNKNOWN,0.9911,False,True
-unknow.txt,UNKNOWN,Please update your KYC details.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Your account statement is ready.,UNKNOWN,0.9981,False,True
-unknow.txt,UNKNOWN,Password changed successfully.,UNKNOWN,0.9995,False,True
-unknow.txt,UNKNOWN,Your profile has been updated.,UNKNOWN,0.9992,False,True
-unknow.txt,UNKNOWN,Alert: login attempt detected.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,Please reset your password.,UNKNOWN,0.9998,False,True
-unknow.txt,UNKNOWN,Transaction failed. Try again.,UNKNOWN,0.9951,False,True
-unknow.txt,UNKNOWN,Request timed out.,UNKNOWN,0.9998,False,True
-unknow.txt,UNKNOWN,Your account is temporarily locked.,UNKNOWN,0.993,False,True
-unknow.txt,UNKNOWN,Security alert issued.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,Please contact support.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Your request is queued.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Verification pending.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Transaction cancelled.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,New device registered.,UNKNOWN,0.9996,False,True
-unknow.txt,UNKNOWN,Your account is active.,UNKNOWN,0.9981,False,True
-unknow.txt,UNKNOWN,Update your mobile number.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Service temporarily unavailable.,UNKNOWN,0.9995,False,True
-unknow.txt,UNKNOWN,Please try after some time.,UNKNOWN,0.9949,False,True
-unknow.txt,UNKNOWN,Your request is approved.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Action completed successfully.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,Authentication required.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Your data is सुरक्षित (secure).,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,System generated message.,UNKNOWN,0.9999,False,True
-unknow.txt,UNKNOWN,Your session is active.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Access granted.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Access denied.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Please enter correct details.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Notification: update available.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Request declined.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Processing delay expected.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Check your inbox for details.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Request acknowledged.,UNKNOWN,1.0,False,True
-unknow.txt,UNKNOWN,Your action is recorded.,UNKNOWN,1.0,False,True
+credit.txt,CREDIT,"Rs.5,000 credited to your account via NEFT.",CREDIT,0.9436,False,True
+credit.txt,CREDIT,Harsh Teli paid you Rs100 payment from PhonePe.,UNCERTAIN,0.5376,True,False
+credit.txt,CREDIT,Harsh Teli paid you Rs100.,CREDIT,0.9241,False,True
+credit.txt,CREDIT,recived payment 100 rupees.,CREDIT,0.9888,False,True
+credit.txt,CREDIT,"INR 2,350 received from UPI transfer.",CREDIT,0.8692,False,True
+credit.txt,CREDIT,"Salary of Rs.45,000 has been credited.",CREDIT,0.7556,False,True
+credit.txt,CREDIT,"Rs.1,200 added to your wallet.",CREDIT,0.9655,False,True
+credit.txt,CREDIT,Refund of Rs.899 credited successfully.,CREDIT,0.9564,False,True
+credit.txt,CREDIT,"Cash deposit of Rs.10,000 received.",CREDIT,0.8821,False,True
+credit.txt,CREDIT,Rs.750 credited via IMPS.,CREDIT,0.9868,False,True
+credit.txt,CREDIT,"Payment of Rs.3,500 received from Rahul.",CREDIT,0.828,False,True
+credit.txt,CREDIT,"Rs.9,999 credited to your account.",CREDIT,0.9532,False,True
+credit.txt,CREDIT,Interest amount of Rs.120 credited.,CREDIT,0.8518,False,True
+credit.txt,CREDIT,"Rs.2,000 received from Paytm.",CREDIT,0.9728,False,True
+credit.txt,CREDIT,"Transfer of Rs.6,500 successful (credit).",UNCERTAIN,0.4527,True,False
+credit.txt,CREDIT,Cashback of Rs.50 credited.,CREDIT,0.9572,False,True
+credit.txt,CREDIT,"Rs.1,100 credited from Amazon refund.",CREDIT,0.9916,False,True
+credit.txt,CREDIT,UPI credit of Rs.499 received.,CREDIT,0.9765,False,True
+credit.txt,CREDIT,"Rs.20,000 credited via RTGS.",CREDIT,0.9835,False,True
+credit.txt,CREDIT,"Bonus of Rs.5,000 credited.",CREDIT,0.8744,False,True
+credit.txt,CREDIT,Rs.899 credited to your account.,CREDIT,0.9532,False,True
+credit.txt,CREDIT,"Rs.2,250 received from Google Pay.",CREDIT,0.93,False,True
+credit.txt,CREDIT,Refund of Rs.120 credited.,CREDIT,0.9891,False,True
+credit.txt,CREDIT,Rs.10 credited as reward points.,CREDIT,0.8768,False,True
+credit.txt,CREDIT,"Rs.7,000 credited from employer.",CREDIT,0.9841,False,True
+credit.txt,CREDIT,Rs.999 credited via PhonePe.,CREDIT,0.9921,False,True
+credit.txt,CREDIT,"Rs.1,450 credited successfully.",CREDIT,0.9489,False,True
+credit.txt,CREDIT,Rs.600 received from friend.,CREDIT,0.9801,False,True
+credit.txt,CREDIT,Rs.300 cashback credited.,CREDIT,0.8916,False,True
+credit.txt,CREDIT,"Rs.5,600 credited via transfer.",CREDIT,0.9241,False,True
+credit.txt,CREDIT,Rs.700 credited as refund.,CREDIT,0.9968,False,True
+credit.txt,CREDIT,"Rs.3,200 credited via UPI.",CREDIT,0.9964,False,True
+credit.txt,CREDIT,Rs.50 credited as bonus.,CREDIT,0.9436,False,True
+credit.txt,CREDIT,"Rs.1,000 received successfully.",CREDIT,0.9413,False,True
+credit.txt,CREDIT,"Rs.2,800 credited to wallet.",CREDIT,0.9937,False,True
+credit.txt,CREDIT,"Rs.1,750 credited via NEFT.",CREDIT,0.9833,False,True
+credit.txt,CREDIT,Rs.900 received from Flipkart.,CREDIT,0.9804,False,True
+credit.txt,CREDIT,Rs.250 cashback credited.,CREDIT,0.8916,False,True
+credit.txt,CREDIT,"Rs.4,000 credited successfully.",CREDIT,0.9489,False,True
+credit.txt,CREDIT,Rs.150 credited as promo.,CREDIT,0.9496,False,True
+credit.txt,CREDIT,"Rs.5,500 received via IMPS.",CREDIT,0.9863,False,True
+credit.txt,CREDIT,Rs.800 credited from recharge refund.,CREDIT,0.9506,False,True
+credit.txt,CREDIT,"Rs.1,999 credited.",CREDIT,0.9961,False,True
+credit.txt,CREDIT,"Rs.3,000 credited via UPI.",CREDIT,0.9964,False,True
+credit.txt,CREDIT,"Rs.2,200 credited.",CREDIT,0.9961,False,True
+credit.txt,CREDIT,Rs.100 credited as reward.,CREDIT,0.9803,False,True
+credit.txt,CREDIT,"Rs.4,500 credited from client.",CREDIT,0.9519,False,True
+credit.txt,CREDIT,Rs.650 received successfully.,CREDIT,0.9413,False,True
+credit.txt,CREDIT,"Rs.2,750 credited.",CREDIT,0.9961,False,True
+credit.txt,CREDIT,"Rs.1,350 credited via transfer.",CREDIT,0.9241,False,True
+credit.txt,CREDIT,"Rs.8,000 credited.",CREDIT,0.9961,False,True
+credit.txt,CREDIT,"Rs.2,600 credited.",CREDIT,0.9961,False,True
+credit.txt,CREDIT,Rs.500 credited to your account.,CREDIT,0.9532,False,True
+credit.txt,CREDIT,You received ₹100 from Harsh Teli via PhonePe.,CREDIT,0.9688,False,True
+credit.txt,CREDIT,₹500 received from Priya using Google Pay.,CREDIT,0.7981,False,True
+credit.txt,CREDIT,"Money received: ₹1,200 from Amit.",CREDIT,0.8984,False,True
+credit.txt,CREDIT,PhonePe: ₹750 sent to you by Rahul.,DEBIT,0.814,False,False
+credit.txt,CREDIT,"UPI: Received ₹2,000 from Priya.",CREDIT,0.8849,False,True
+credit.txt,CREDIT,Google Pay: You got ₹100 from Harsh Teli.,CREDIT,0.9726,False,True
+credit.txt,CREDIT,Paytm: ₹500 credited from transfer.,CREDIT,0.8973,False,True
+credit.txt,CREDIT,"You received ₹3,000 from Rohit via UPI.",CREDIT,0.9431,False,True
+credit.txt,CREDIT,PhonePe notification: ₹150 credited to wallet.,CREDIT,0.9783,False,True
+credit.txt,CREDIT,₹999 received from Neha using PhonePe.,CREDIT,0.8815,False,True
+credit.txt,CREDIT,"Google Pay: Received ₹5,000 from client.",CREDIT,0.7622,False,True
+credit.txt,CREDIT,"UPI transfer: ₹2,500 credited from employer.",CREDIT,0.9164,False,True
+credit.txt,CREDIT,"Paytm: You got ₹1,100 from friend.",CREDIT,0.9754,False,True
+credit.txt,CREDIT,PhonePe: ₹400 cashback credited.,CREDIT,0.9069,False,True
+credit.txt,CREDIT,"Received ₹2,200 from Arjun via UPI.",CREDIT,0.9193,False,True
+credit.txt,CREDIT,₹600 credited by Divya on PhonePe.,CREDIT,0.9029,False,True
+credit.txt,CREDIT,"Google Pay notification: ₹3,500 received.",CREDIT,0.9171,False,True
+credit.txt,CREDIT,"UPI: You received ₹1,750 from Pooja.",CREDIT,0.8973,False,True
+credit.txt,CREDIT,PhonePe money received: ₹800 from Vikram.,CREDIT,0.9038,False,True
+debit.txt,DEBIT,Rs.500 debited for ATM withdrawal.,DEBIT,0.8576,False,True
+debit.txt,DEBIT,You paid Harsh Teli Rs100 from PhonePe.,DEBIT,0.7726,False,True
+debit.txt,DEBIT,You paid Harsh Teli 100 rupees via UPI.,CREDIT,0.7602,False,False
+debit.txt,DEBIT,"INR 1,200 spent on POS transaction.",DEBIT,0.9618,False,True
+debit.txt,DEBIT,Rs.899 debited for online purchase.,DEBIT,0.8973,False,True
+debit.txt,DEBIT,"Rs.2,000 debited via UPI.",DEBIT,0.8612,False,True
+debit.txt,DEBIT,"Electricity bill of Rs.1,500 paid.",DEBIT,0.9664,False,True
+debit.txt,DEBIT,Rs.300 debited for recharge.,DEBIT,0.9069,False,True
+debit.txt,DEBIT,Rs.750 spent on groceries.,DEBIT,0.9376,False,True
+debit.txt,DEBIT,"Rs.4,500 debited via IMPS.",DEBIT,0.8072,False,True
+debit.txt,DEBIT,"Rs.1,999 debited from account.",DEBIT,0.9987,False,True
+debit.txt,DEBIT,Rs.100 debited as service charge.,DEBIT,0.7549,False,True
+debit.txt,DEBIT,Rs.250 spent at restaurant.,DEBIT,0.9567,False,True
+debit.txt,DEBIT,"Rs.2,200 debited for shopping.",DEBIT,0.8664,False,True
+debit.txt,DEBIT,Rs.600 debited via Paytm.,DEBIT,0.871,False,True
+debit.txt,DEBIT,"Rs.1,450 spent on fuel.",DEBIT,0.9406,False,True
+debit.txt,DEBIT,Rs.999 debited via PhonePe.,DEBIT,0.9356,False,True
+debit.txt,DEBIT,"Rs.3,000 debited successfully.",DEBIT,0.889,False,True
+debit.txt,DEBIT,Rs.50 debited as fee.,DEBIT,0.7183,False,True
+debit.txt,DEBIT,"Rs.5,000 transferred to Amit.",DEBIT,0.9815,False,True
+debit.txt,DEBIT,"Rs.2,800 debited for EMI.",DEBIT,0.7551,False,True
+debit.txt,DEBIT,"Rs.1,350 spent on online order.",DEBIT,0.9064,False,True
+debit.txt,DEBIT,Rs.200 debited as penalty.,DEBIT,0.8201,False,True
+debit.txt,DEBIT,Rs.700 debited for cab ride.,DEBIT,0.8352,False,True
+debit.txt,DEBIT,Rs.900 debited for food delivery.,UNCERTAIN,0.5426,True,False
+debit.txt,DEBIT,"Rs.4,000 debited for rent.",DEBIT,0.8634,False,True
+debit.txt,DEBIT,Rs.150 debited as charge.,DEBIT,0.8258,False,True
+debit.txt,DEBIT,"Rs.1,750 debited via NEFT.",DEBIT,0.8934,False,True
+debit.txt,DEBIT,Rs.600 spent on subscription.,DEBIT,0.9509,False,True
+debit.txt,DEBIT,"Rs.2,500 debited via UPI.",DEBIT,0.8612,False,True
+debit.txt,DEBIT,"Rs.3,200 debited for electronics.",DEBIT,0.75,False,True
+debit.txt,DEBIT,Rs.450 debited for medicine.,DEBIT,0.8699,False,True
+debit.txt,DEBIT,"Rs.1,100 debited for shopping.",DEBIT,0.8664,False,True
+debit.txt,DEBIT,Rs.850 spent at store.,DEBIT,0.9602,False,True
+debit.txt,DEBIT,"Rs.5,600 debited.",DEBIT,0.9667,False,True
+debit.txt,DEBIT,"Rs.2,750 debited via transfer.",DEBIT,0.784,False,True
+debit.txt,DEBIT,Rs.999 spent online.,DEBIT,0.9584,False,True
+debit.txt,DEBIT,"Rs.1,300 debited for ticket.",DEBIT,0.8232,False,True
+debit.txt,DEBIT,Rs.750 debited via POS.,DEBIT,0.9318,False,True
+debit.txt,DEBIT,"Rs.2,000 debited for bill.",DEBIT,0.9084,False,True
+debit.txt,DEBIT,"Rs.1,600 debited for EMI.",DEBIT,0.7551,False,True
+debit.txt,DEBIT,Rs.300 spent on snacks.,DEBIT,0.9353,False,True
+debit.txt,DEBIT,"Rs.1,999 debited via UPI.",DEBIT,0.8612,False,True
+debit.txt,DEBIT,"Rs.4,200 debited successfully.",DEBIT,0.889,False,True
+debit.txt,DEBIT,Rs.500 debited for recharge.,DEBIT,0.9069,False,True
+debit.txt,DEBIT,"Rs.2,600 debited.",DEBIT,0.9667,False,True
+debit.txt,DEBIT,Rs.800 debited for fuel.,DEBIT,0.8796,False,True
+debit.txt,DEBIT,"Rs.1,250 debited for shopping.",DEBIT,0.8664,False,True
+debit.txt,DEBIT,"Rs.3,500 debited via IMPS.",DEBIT,0.8072,False,True
+debit.txt,DEBIT,"Rs.2,900 debited.",DEBIT,0.9667,False,True
+debit.txt,DEBIT,Rs.700 debited for taxi.,DEBIT,0.8619,False,True
+debit.txt,DEBIT,"Rs.1,800 debited.",DEBIT,0.9667,False,True
+debit.txt,DEBIT,You sent ₹100 to Harsh Teli via PhonePe.,DEBIT,0.8815,False,True
+debit.txt,DEBIT,₹500 transferred to Priya using Google Pay.,DEBIT,0.9514,False,True
+debit.txt,DEBIT,"Payment: ₹1,200 sent to Amit.",DEBIT,0.9893,False,True
+debit.txt,DEBIT,PhonePe: You paid ₹750 to Rahul.,DEBIT,0.894,False,True
+debit.txt,DEBIT,"UPI: ₹2,000 transferred to Priya.",DEBIT,0.9689,False,True
+debit.txt,DEBIT,Google Pay: You sent ₹100 to Harsh Teli.,DEBIT,0.9292,False,True
+debit.txt,DEBIT,Paytm: ₹500 debited for transfer.,DEBIT,0.7405,False,True
+debit.txt,DEBIT,"You paid ₹3,000 to Rohit via UPI.",DEBIT,0.9052,False,True
+debit.txt,DEBIT,PhonePe: ₹150 debited for bill.,DEBIT,0.914,False,True
+debit.txt,DEBIT,₹999 paid to Neha using PhonePe.,DEBIT,0.9672,False,True
+debit.txt,DEBIT,"Google Pay: Sent ₹5,000 to client.",DEBIT,0.9629,False,True
+debit.txt,DEBIT,"UPI payment: ₹2,500 transferred to vendor.",DEBIT,0.9705,False,True
+debit.txt,DEBIT,"Paytm: You paid ₹1,100 to merchant.",DEBIT,0.9206,False,True
+debit.txt,DEBIT,PhonePe: ₹400 spent on purchase.,DEBIT,0.935,False,True
+debit.txt,DEBIT,"Sent ₹2,200 to Arjun via UPI.",DEBIT,0.9048,False,True
+debit.txt,DEBIT,₹600 paid by you on PhonePe.,DEBIT,0.8738,False,True
+debit.txt,DEBIT,"Google Pay: Transferred ₹3,500 to account.",DEBIT,0.9227,False,True
+debit.txt,DEBIT,"UPI: You sent ₹1,750 to Pooja.",DEBIT,0.9353,False,True
+debit.txt,DEBIT,PhonePe payment sent: ₹800 to Vikram.,DEBIT,0.9762,False,True
+unknow.txt,UNKNOWN,Your transaction is being processed.,UNKNOWN,0.9476,False,True
+unknow.txt,UNKNOWN,Get paid rewards up to Rs100 when you refer friends on PhonePe. Promotional only.,UNKNOWN,0.9412,False,True
+unknow.txt,UNKNOWN,Received payment status update only. This is not a bank credit confirmation.,UNKNOWN,0.97,False,True
+unknow.txt,UNKNOWN,Please verify your recent activity.,UNKNOWN,0.9779,False,True
+unknow.txt,UNKNOWN,A request has been initiated on your account.,UNKNOWN,0.9221,False,True
+unknow.txt,UNKNOWN,Your payment is under review.,UNKNOWN,0.9403,False,True
+unknow.txt,UNKNOWN,Transaction status is pending.,UNKNOWN,0.9857,False,True
+unknow.txt,UNKNOWN,Alert: unusual activity detected.,UNKNOWN,0.9676,False,True
+unknow.txt,UNKNOWN,Please confirm your transaction.,UNKNOWN,0.9688,False,True
+unknow.txt,UNKNOWN,Your request is successfully submitted.,UNKNOWN,0.9704,False,True
+unknow.txt,UNKNOWN,Processing your recent request.,UNKNOWN,0.9795,False,True
+unknow.txt,UNKNOWN,Action required for your account.,UNKNOWN,0.9892,False,True
+unknow.txt,UNKNOWN,Your OTP is 456789.,UNKNOWN,0.9927,False,True
+unknow.txt,UNKNOWN,Verification code sent to your number.,UNKNOWN,0.8936,False,True
+unknow.txt,UNKNOWN,Session expired. Please login again.,UNKNOWN,0.9288,False,True
+unknow.txt,UNKNOWN,New login detected on your account.,UNKNOWN,0.9471,False,True
+unknow.txt,UNKNOWN,Your request could not be completed.,UNKNOWN,0.9502,False,True
+unknow.txt,UNKNOWN,System maintenance in progress.,UNKNOWN,0.9219,False,True
+unknow.txt,UNKNOWN,Please update your KYC details.,UNKNOWN,0.987,False,True
+unknow.txt,UNKNOWN,Your account statement is ready.,UNKNOWN,0.9689,False,True
+unknow.txt,UNKNOWN,Password changed successfully.,UNKNOWN,0.9474,False,True
+unknow.txt,UNKNOWN,Your profile has been updated.,UNKNOWN,0.9638,False,True
+unknow.txt,UNKNOWN,Alert: login attempt detected.,UNKNOWN,0.9726,False,True
+unknow.txt,UNKNOWN,Please reset your password.,UNKNOWN,0.968,False,True
+unknow.txt,UNKNOWN,Transaction failed. Try again.,UNKNOWN,0.8662,False,True
+unknow.txt,UNKNOWN,Request timed out.,UNKNOWN,0.9255,False,True
+unknow.txt,UNKNOWN,Your account is temporarily locked.,UNKNOWN,0.9588,False,True
+unknow.txt,UNKNOWN,Security alert issued.,UNKNOWN,0.9693,False,True
+unknow.txt,UNKNOWN,Please contact support.,UNKNOWN,0.9636,False,True
+unknow.txt,UNKNOWN,Your request is queued.,UNKNOWN,0.9883,False,True
+unknow.txt,UNKNOWN,Verification pending.,UNKNOWN,0.9964,False,True
+unknow.txt,UNKNOWN,Transaction cancelled.,UNKNOWN,0.9548,False,True
+unknow.txt,UNKNOWN,New device registered.,UNKNOWN,0.8963,False,True
+unknow.txt,UNKNOWN,Your account is active.,UNKNOWN,0.9818,False,True
+unknow.txt,UNKNOWN,Update your mobile number.,UNKNOWN,0.9874,False,True
+unknow.txt,UNKNOWN,Service temporarily unavailable.,UNKNOWN,0.893,False,True
+unknow.txt,UNKNOWN,Please try after some time.,UNKNOWN,0.8997,False,True
+unknow.txt,UNKNOWN,Your request is approved.,UNKNOWN,0.9924,False,True
+unknow.txt,UNKNOWN,Action completed successfully.,UNKNOWN,0.9457,False,True
+unknow.txt,UNKNOWN,Authentication required.,UNKNOWN,0.9416,False,True
+unknow.txt,UNKNOWN,Your data is सुरक्षित (secure).,UNKNOWN,0.962,False,True
+unknow.txt,UNKNOWN,System generated message.,UNKNOWN,0.9839,False,True
+unknow.txt,UNKNOWN,Your session is active.,UNKNOWN,0.9925,False,True
+unknow.txt,UNKNOWN,Access granted.,UNKNOWN,0.9884,False,True
+unknow.txt,UNKNOWN,Access denied.,UNKNOWN,0.9884,False,True
+unknow.txt,UNKNOWN,Please enter correct details.,UNKNOWN,0.9354,False,True
+unknow.txt,UNKNOWN,Notification: update available.,UNKNOWN,0.9945,False,True
+unknow.txt,UNKNOWN,Request declined.,UNKNOWN,0.9828,False,True
+unknow.txt,UNKNOWN,Processing delay expected.,UNKNOWN,0.9497,False,True
+unknow.txt,UNKNOWN,Check your inbox for details.,UNKNOWN,0.988,False,True
+unknow.txt,UNKNOWN,Your PhonePe balance is low. Add money now.,UNKNOWN,0.8776,False,True
+unknow.txt,UNKNOWN,Cashback offer: Get ₹50 on your next transaction.,UNKNOWN,0.9769,False,True
+unknow.txt,UNKNOWN,"PhonePe: Refer and earn up to ₹1,000 rewards.",UNKNOWN,0.9242,False,True
+unknow.txt,UNKNOWN,Google Pay: Check your reward points balance.,UNKNOWN,0.8765,False,True
+unknow.txt,UNKNOWN,Paytm: Your payment method expires soon.,UNKNOWN,0.8703,False,True
+unknow.txt,UNKNOWN,UPI: Enable two-factor authentication for security.,UNKNOWN,0.7992,False,True
+unknow.txt,UNKNOWN,PhonePe security alert: Verify your recent activity.,UNKNOWN,0.9298,False,True
+unknow.txt,UNKNOWN,Google Pay: Update your account information.,UNKNOWN,0.8412,False,True
+unknow.txt,UNKNOWN,Paytm: Complete your KYC verification.,UNKNOWN,0.9567,False,True
+unknow.txt,UNKNOWN,PhonePe: Your referral code is ready to share.,UNKNOWN,0.8142,False,True
+unknow.txt,UNKNOWN,UPI: Transaction fee information updated.,UNCERTAIN,0.598,True,False
+unknow.txt,UNKNOWN,Google Pay: New feature available in your app.,UNKNOWN,0.9031,False,True
+unknow.txt,UNKNOWN,Paytm: Offer: Get cashback on bill payments.,UNKNOWN,0.974,False,True
+unknow.txt,UNKNOWN,PhonePe: Invite friends and earn bonuses.,UNKNOWN,0.9567,False,True
+unknow.txt,UNKNOWN,UPI: Your transaction limit has been reset.,UNKNOWN,0.8024,False,True
+unknow.txt,UNKNOWN,Google Pay: Your payment history is available.,UNKNOWN,0.8456,False,True
+unknow.txt,UNKNOWN,PhonePe: Limited time offer on transfers.,UNKNOWN,0.9377,False,True
+unknow.txt,UNKNOWN,Paytm: Upgrade your wallet for better benefits.,UNKNOWN,0.8344,False,True
+unknow.txt,UNKNOWN,UPI: Security code changed successfully.,UNKNOWN,0.8742,False,True
+unknow.txt,UNKNOWN,Request acknowledged.,UNKNOWN,0.9682,False,True
+unknow.txt,UNKNOWN,Your action is recorded.,UNKNOWN,0.9933,False,True

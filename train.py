@@ -7,7 +7,11 @@ import os
 import json
 import logging
 import warnings
+import sys
+import threading
+import time
 from datetime import datetime
+from contextlib import contextmanager
 
 import numpy as np
 import pandas as pd
@@ -82,6 +86,35 @@ def _patch_numpy_for_fasttext():
 
 
 _patch_numpy_for_fasttext()
+
+
+@contextmanager
+def terminal_status(message: str, interval: float = 1.0):
+    """Show a lightweight terminal heartbeat while a long task is running."""
+    stop_event = threading.Event()
+    started_at = time.monotonic()
+
+    def _run():
+        frames = "|/-\\"
+        frame_index = 0
+        while not stop_event.wait(interval):
+            elapsed = int(time.monotonic() - started_at)
+            sys.stdout.write(f"\r{message} {frames[frame_index % len(frames)]} {elapsed}s elapsed")
+            sys.stdout.flush()
+            frame_index += 1
+
+    sys.stdout.write(f"{message}...\n")
+    sys.stdout.flush()
+    worker = threading.Thread(target=_run, daemon=True)
+    worker.start()
+
+    try:
+        yield
+    finally:
+        stop_event.set()
+        worker.join(timeout=2)
+        sys.stdout.write(f"\r{message} done{' ' * 20}\n")
+        sys.stdout.flush()
 
 
 def predict_all(model, texts: list[str]) -> tuple[list[str], list[float]]:
@@ -168,17 +201,19 @@ def train() -> None:
             "Training with auto-tune (duration=%ds)...",
             config.AUTOTUNE_DURATION,
         )
-        model = fasttext.train_supervised(
-            input=config.FASTTEXT_TRAIN_FILE,
-            autotuneValidationFile=config.FASTTEXT_TEST_FILE,
-            autotuneDuration=config.AUTOTUNE_DURATION,
-        )
+        with terminal_status("FastText auto-tune running"):
+            model = fasttext.train_supervised(
+                input=config.FASTTEXT_TRAIN_FILE,
+                autotuneValidationFile=config.FASTTEXT_TEST_FILE,
+                autotuneDuration=config.AUTOTUNE_DURATION,
+            )
     else:
         logger.info("Training with manual hyperparameters: %s", config.FASTTEXT_PARAMS)
-        model = fasttext.train_supervised(
-            input=config.FASTTEXT_TRAIN_FILE,
-            **config.FASTTEXT_PARAMS,
-        )
+        with terminal_status("FastText training running"):
+            model = fasttext.train_supervised(
+                input=config.FASTTEXT_TRAIN_FILE,
+                **config.FASTTEXT_PARAMS,
+            )
 
     # 7. Built-in test metrics
     n_test, precision_at1, recall_at1 = model.test(config.FASTTEXT_TEST_FILE)
@@ -205,7 +240,8 @@ def train() -> None:
     logger.info("Saved full model → %s", config.MODEL_PATH)
 
     # 10. Quantize and save compressed model (.ftz)
-    model.quantize(input=config.FASTTEXT_TRAIN_FILE, retrain=True)
+    with terminal_status("Quantizing model"):
+        model.quantize(input=config.FASTTEXT_TRAIN_FILE, retrain=True)
     model.save_model(config.MODEL_QUANTIZED_PATH)
     logger.info("Saved quantized model → %s", config.MODEL_QUANTIZED_PATH)
 

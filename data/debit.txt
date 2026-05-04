@@ -1,4 +1,14 @@
 HDFC Bank: Rs 84.31 spent on UPI transfer to user2001@okhdfcbank from account ending 0043. UTR UTR64000000059.
+You paid Harsh Teli Rs100 from PhonePe.
+You paid Harsh Teli Rs100 via UPI.
+Paid Rs100 to Harsh Teli from linked account.
+Payment of 100 rupees sent to Harsh Teli.
+UPI payment successful: you paid 100 rupees to Harsh Teli.
+PhonePe alert: Rs100 paid to Harsh Teli, amount debited.
+Amount debited: you paid Rs 100 to Harsh Teli.
+Harsh Teli collect request accepted, you paid Rs100.
+Rs100 payment sent to Harsh Teli via PhonePe.
+You paid 100 rupees to friend Harsh Teli.
 ICICI Notification: Debit of Rs 163.62 for Swiggy payment from A/c XX0086. Txn TXN210000034. Balance Rs 2194.58.
 Axis Bank SMS: Card purchase of Rs 242.93 at Amazon has been debited from account XX0129. RRN 430000000069.
 Kotak Bank: Rs 321.24 debited for electricity bill via BBPS from account ending 0172. Ref 810000000188.
@@ -1198,3 +1208,87 @@ MobiKwik: Wallet top-up of Rs 42568.07 processed; amount debited from account en
 BharatPe: Settlement adjustment debit of Rs 42647.38 posted to account XX1514. Reference 810000056306. Avl Bal Rs 118206.42.
 Jupiter app: Rs 42726.69 debited for SIP auto-pay from account ending 1557 at 24/12/2026 19:49. Txn TXN210020383.
 SBI Alert: INR 42805.00 debited from A/c XX1600 via UPI to merchant2200@upi on 25/01/2026 00:00. Ref 810000056400. Avl Bal INR 118400.00.
+You paid Harsh Teli 100 rupees via UPI.
+INR 1,200 spent on POS transaction.
+Rs.750 spent on groceries.
+Rs.250 spent at restaurant.
+Rs.1,450 spent on fuel.
+Rs.5,000 transferred to Amit.
+Rs.1,350 spent on online order.
+Rs.600 spent on subscription.
+Rs.850 spent at store.
+Rs.999 spent online.
+Rs.300 spent on snacks.
+You sent ₹100 to Harsh Teli via PhonePe.
+₹500 transferred to Priya using Google Pay.
+Payment: ₹1,200 sent to Amit.
+PhonePe: You paid ₹750 to Rahul.
+UPI: ₹2,000 transferred to Priya.
+Google Pay: You sent ₹100 to Harsh Teli.
+You paid ₹3,000 to Rohit via UPI.
+₹999 paid to Neha using PhonePe.
+Google Pay: Sent ₹5,000 to client.
+UPI payment: ₹2,500 transferred to vendor.
+Paytm: You paid ₹1,100 to merchant.
+PhonePe: ₹400 spent on purchase.
+Sent ₹2,200 to Arjun via UPI.
+₹600 paid by you on PhonePe.
+Google Pay: Transferred ₹3,500 to account.
+UPI: You sent ₹1,750 to Pooja.
+PhonePe payment sent: ₹800 to Vikram.
+
+You paid Neha Gupta Rs 2000 payment from Google Pay
+You paid Rs 1500 to Vikram Sharma
+You paid Rs 850 to Arjun Das
+You paid Riya Nair Rs 750 payment from Paytm
+You transferred Rs 950 to Arjun Das on BHIM
+Rs 150 payment sent to Priya Singh from PhonePe
+Raj Kumar collect request accepted, you paid Rs 700
+You paid Priya Singh Rs 900 via BHIM
+You paid Anjali Verma Rs1100 on Paytm
+Payment sent Rs 350 to Arjun Das via BHIM
+You paid Harsh Teli Rs 1000 via PhonePe
+You paid Harsh Teli Rs350 on UPI
+Payment sent Rs 900 to Raj Kumar via Paytm
+You paid Arjun Das Rs 1200 via PhonePe
+You paid Arjun Das Rs 800 via UPI
+You transferred Rs 1500 to Riya Nair on BHIM
+You paid Priya Singh Rs200 on UPI
+You paid Arjun Das Rs 500 payment from UPI
+UPI payment successful: you paid Priya Singh Rs 1500
+You paid Riya Nair Rs 1500 via PhonePe
+Payment sent Rs 3000 to Sanjay Kumar via UPI
+UPI payment successful: you paid Anjali Verma Rs 150
+Rs 3000 payment sent to Arjun Das from PhonePe
+You transferred Rs 1200 to Priya Singh on PhonePe
+Priya Singh collect request accepted, you paid Rs 1000
+You paid Riya Nair Rs 750 via BHIM
+Harsh Teli received Rs 300 from you
+You paid Raj Kumar Rs 300 via PhonePe
+You transferred Rs 250 to Vikram Sharma
+You paid Rs 3000 to Neha Gupta
+Vikram Sharma collect request accepted, you paid Rs 700
+UPI payment successful: you paid Harsh Teli Rs 200
+Anjali Verma collect request accepted, you paid Rs 400
+Rs 1100 payment sent to Neha Gupta from Paytm
+Rs 700 payment sent to Vikram Sharma from UPI
+You paid Priya Singh Rs 950 payment from Google Pay
+You transferred Rs 2000 to Amit Patel
+Amit Patel received payment Rs 550 from your account
+You transferred Rs 3000 to Amit Patel on Google Pay
+Rs 450 payment sent to Anjali Verma from PhonePe
+You paid Rs 150 to Riya Nair
+You paid Harsh Teli Rs 950 payment from Paytm
+Riya Nair collect request accepted, you paid Rs 900
+You paid Arjun Das Rs 650 via UPI
+You paid Priya Singh Rs800 from BHIM
+You paid Amit Patel Rs100 on PhonePe
+UPI payment successful: you paid Amit Patel Rs 250
+Anjali Verma received Rs 400 from you
+Rs 100 payment sent to Raj Kumar from Google Pay
+Rs 600 payment sent to Raj Kumar from UPI
+Payment sent Rs 300 to Riya Nair via Paytm
+Priya Singh received Rs 2000 from you
+You paid Amit Patel Rs150 from PhonePe
+Payment sent Rs 2000 to Sanjay Kumar via UPI
+Raj Kumar collect request accepted, you paid Rs 850

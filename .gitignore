@@ -12,9 +12,6 @@ wheels/
 # Model artifacts
 models/*.bin
 models/*.ftz
-models/*.pkl
-models/*.keras
-models/*.tflite
 models/*.json
 models/*.ft.txt
 

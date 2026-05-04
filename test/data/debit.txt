@@ -1,4 +1,6 @@
 Rs.500 debited for ATM withdrawal.
+You paid Harsh Teli Rs100 from PhonePe.
+You paid Harsh Teli 100 rupees via UPI.
 INR 1,200 spent on POS transaction.
 Rs.899 debited for online purchase.
 Rs.2,000 debited via UPI.
@@ -48,3 +50,22 @@ Rs.3,500 debited via IMPS.
 Rs.2,900 debited.
 Rs.700 debited for taxi.
 Rs.1,800 debited.
+You sent ₹100 to Harsh Teli via PhonePe.
+₹500 transferred to Priya using Google Pay.
+Payment: ₹1,200 sent to Amit.
+PhonePe: You paid ₹750 to Rahul.
+UPI: ₹2,000 transferred to Priya.
+Google Pay: You sent ₹100 to Harsh Teli.
+Paytm: ₹500 debited for transfer.
+You paid ₹3,000 to Rohit via UPI.
+PhonePe: ₹150 debited for bill.
+₹999 paid to Neha using PhonePe.
+Google Pay: Sent ₹5,000 to client.
+UPI payment: ₹2,500 transferred to vendor.
+Paytm: You paid ₹1,100 to merchant.
+PhonePe: ₹400 spent on purchase.
+Sent ₹2,200 to Arjun via UPI.
+₹600 paid by you on PhonePe.
+Google Pay: Transferred ₹3,500 to account.
+UPI: You sent ₹1,750 to Pooja.
+PhonePe payment sent: ₹800 to Vikram.

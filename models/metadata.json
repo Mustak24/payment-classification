@@ -1,39 +1,39 @@
 {
-  "trained_at": "2026-04-30T18:51:43.133945Z",
+  "trained_at": "2026-05-04T16:33:04.054314Z",
   "model_type": "fasttext",
   "classes": [
     "CREDIT",
     "DEBIT",
     "UNKNOWN"
   ],
-  "n_train": 3072,
-  "n_test": 768,
+  "n_train": 3261,
+  "n_test": 816,
   "autotune_enabled": true,
-  "autotune_duration": 30,
+  "autotune_duration": 10,
   "fasttext_params": "auto",
-  "test_accuracy": 0.9987,
-  "test_precision_at1": 0.9987,
-  "test_recall_at1": 0.9987,
-  "test_f1_macro": 0.9987,
+  "test_accuracy": 0.9963,
+  "test_precision_at1": 0.9963,
+  "test_recall_at1": 0.9963,
+  "test_f1_macro": 0.9963,
   "confidence_threshold": 0.6,
   "per_class_metrics": {
     "CREDIT": {
-      "precision": 0.9959,
-      "recall": 1.0,
-      "f1-score": 0.998,
-      "support": 244.0
+      "precision": 0.9961,
+      "recall": 0.9961,
+      "f1-score": 0.9961,
+      "support": 259.0
     },
     "DEBIT": {
-      "precision": 1.0,
-      "recall": 1.0,
-      "f1-score": 1.0,
-      "support": 240.0
+      "precision": 0.9961,
+      "recall": 0.9961,
+      "f1-score": 0.9961,
+      "support": 259.0
     },
     "UNKNOWN": {
-      "precision": 1.0,
-      "recall": 0.9965,
-      "f1-score": 0.9982,
-      "support": 284.0
+      "precision": 0.9966,
+      "recall": 0.9966,
+      "f1-score": 0.9966,
+      "support": 298.0
     }
   }
 }
