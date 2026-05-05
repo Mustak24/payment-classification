@@ -1,5 +1,5 @@
 {
-  "trained_at": "2026-05-04T16:33:04.054314Z",
+  "trained_at": "2026-05-05T13:29:58.381022Z",
   "model_type": "fasttext",
   "classes": [
     "CREDIT",
@@ -16,6 +16,100 @@
   "test_recall_at1": 0.9963,
   "test_f1_macro": 0.9963,
   "confidence_threshold": 0.6,
+  "quantize_accuracy_tolerance": 0.0,
+  "quantize_candidates": [
+    {
+      "retrain": true,
+      "qnorm": false,
+      "cutoff": null,
+      "dsub": null
+    },
+    {
+      "retrain": true,
+      "qnorm": true,
+      "cutoff": 80000,
+      "dsub": 2
+    },
+    {
+      "retrain": true,
+      "qnorm": true,
+      "cutoff": 50000,
+      "dsub": 4
+    },
+    {
+      "retrain": true,
+      "qnorm": true,
+      "cutoff": 30000,
+      "dsub": 4
+    }
+  ],
+  "quantize_trials": [
+    {
+      "trial": 1,
+      "params": {
+        "retrain": true,
+        "qnorm": false,
+        "cutoff": null,
+        "dsub": null
+      },
+      "size_bytes": 189376045,
+      "size_mb": 180.6031,
+      "accuracy": 0.9926,
+      "passes_accuracy": false
+    },
+    {
+      "trial": 2,
+      "params": {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 80000,
+        "dsub": 2
+      },
+      "size_bytes": 4501918,
+      "size_mb": 4.2934,
+      "accuracy": 0.9963,
+      "passes_accuracy": true
+    },
+    {
+      "trial": 3,
+      "params": {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 50000,
+        "dsub": 4
+      },
+      "size_bytes": 1701620,
+      "size_mb": 1.6228,
+      "accuracy": 0.9963,
+      "passes_accuracy": true
+    },
+    {
+      "trial": 4,
+      "params": {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 30000,
+        "dsub": 4
+      },
+      "size_bytes": 1061395,
+      "size_mb": 1.0122,
+      "accuracy": 0.9963,
+      "passes_accuracy": true
+    }
+  ],
+  "selected_quantized_model": {
+    "trial": 4,
+    "params": {
+      "retrain": true,
+      "qnorm": true,
+      "cutoff": 30000,
+      "dsub": 4
+    },
+    "size_bytes": 1061395,
+    "size_mb": 1.0122,
+    "accuracy": 0.9963,
+    "passes_accuracy": true
+  },
   "per_class_metrics": {
     "CREDIT": {
       "precision": 0.9961,

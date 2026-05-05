@@ -49,6 +49,21 @@ FASTTEXT_PARAMS = {
 # duration (in seconds). Recommended: 120–600 for thorough search.
 AUTOTUNE_DURATION = 10
 
+# ── Quantization Search (size reduction with accuracy guardrail) ────────────
+# The trainer will try these candidates and keep the smallest .ftz model
+# whose test accuracy is >= (baseline_accuracy - QUANTIZE_ACCURACY_TOLERANCE).
+QUANTIZE_ACCURACY_TOLERANCE = 0.0
+QUANTIZE_CANDIDATES = [
+    # Baseline quantization behavior (closest to current pipeline)
+    {"retrain": True, "qnorm": False, "cutoff": None,  "dsub": None},
+    # Often smaller with little/no loss
+    {"retrain": True, "qnorm": True,  "cutoff": 80000, "dsub": 2},
+    # More aggressive compression
+    {"retrain": True, "qnorm": True,  "cutoff": 50000, "dsub": 4},
+    # Strong compression candidate
+    {"retrain": True, "qnorm": True,  "cutoff": 30000, "dsub": 4},
+]
+
 # ── Training ──────────────────────────────────────────────────────────────────
 TEST_SIZE      = 0.20    # 20 % held-out test set
 RANDOM_STATE   = 42

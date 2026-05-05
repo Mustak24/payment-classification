@@ -10,6 +10,7 @@ import warnings
 import sys
 import threading
 import time
+import copy
 from datetime import datetime
 from contextlib import contextmanager
 
@@ -240,10 +241,99 @@ def train() -> None:
     logger.info("Saved full model → %s", config.MODEL_PATH)
 
     # 10. Quantize and save compressed model (.ftz)
-    with terminal_status("Quantizing model"):
-        model.quantize(input=config.FASTTEXT_TRAIN_FILE, retrain=True)
-    model.save_model(config.MODEL_QUANTIZED_PATH)
-    logger.info("Saved quantized model → %s", config.MODEL_QUANTIZED_PATH)
+    # Try multiple quantization settings and keep the smallest model that
+    # does not drop accuracy beyond tolerance.
+    tolerance = float(getattr(config, "QUANTIZE_ACCURACY_TOLERANCE", 0.0))
+    quantize_candidates = getattr(config, "QUANTIZE_CANDIDATES", [
+        {"retrain": True, "qnorm": False, "cutoff": None, "dsub": None},
+    ])
+
+    candidate_results: list[dict] = []
+    best_candidate: dict | None = None
+
+    for idx, candidate in enumerate(quantize_candidates, start=1):
+        trial_path = os.path.join(config.MODEL_DIR, f"classifier_qtrial_{idx}.ftz")
+        quant_model = fasttext.load_model(config.MODEL_PATH)
+        quantize_kwargs = {"input": config.FASTTEXT_TRAIN_FILE}
+
+        # Work on a copy so we can log raw candidate settings safely.
+        candidate_clean = copy.deepcopy(candidate)
+        for key in ("retrain", "qnorm", "cutoff", "dsub"):
+            if key in candidate_clean and candidate_clean[key] is not None:
+                quantize_kwargs[key] = candidate_clean[key]
+
+        logger.info("Quantization trial %d/%d with params: %s", idx, len(quantize_candidates), quantize_kwargs)
+        with terminal_status(f"Quantizing model (trial {idx}/{len(quantize_candidates)})"):
+            quant_model.quantize(**quantize_kwargs)
+        quant_model.save_model(trial_path)
+
+        eval_model = fasttext.load_model(trial_path)
+        y_pred_q, _ = predict_all(eval_model, test_df["text_clean"].tolist())
+        acc_q = accuracy_score(y_true, y_pred_q)
+        size_q_bytes = os.path.getsize(trial_path)
+        passes_accuracy = acc_q >= (acc - tolerance)
+
+        result = {
+            "trial": idx,
+            "params": candidate_clean,
+            "path": trial_path,
+            "size_bytes": size_q_bytes,
+            "size_mb": round(size_q_bytes / (1024 * 1024), 4),
+            "accuracy": float(acc_q),
+            "passes_accuracy": passes_accuracy,
+        }
+        candidate_results.append(result)
+
+        logger.info(
+            "Trial %d result — size: %.4f MB | accuracy: %.4f | pass(no-drop): %s",
+            idx,
+            result["size_mb"],
+            result["accuracy"],
+            passes_accuracy,
+        )
+
+        if passes_accuracy:
+            if best_candidate is None or size_q_bytes < best_candidate["size_bytes"]:
+                best_candidate = result
+
+    if best_candidate is None:
+        logger.warning(
+            "No quantized candidate met no-drop accuracy guardrail (tolerance=%.4f). "
+            "Falling back to baseline quantization.",
+            tolerance,
+        )
+        fallback_model = fasttext.load_model(config.MODEL_PATH)
+        with terminal_status("Quantizing model (fallback)"):
+            fallback_model.quantize(input=config.FASTTEXT_TRAIN_FILE, retrain=True)
+        fallback_model.save_model(config.MODEL_QUANTIZED_PATH)
+        best_candidate = {
+            "trial": 0,
+            "params": {"retrain": True, "qnorm": False, "cutoff": None, "dsub": None},
+            "path": config.MODEL_QUANTIZED_PATH,
+            "size_bytes": os.path.getsize(config.MODEL_QUANTIZED_PATH),
+            "size_mb": round(os.path.getsize(config.MODEL_QUANTIZED_PATH) / (1024 * 1024), 4),
+            "accuracy": float("nan"),
+            "passes_accuracy": False,
+        }
+        logger.info("Saved quantized model (fallback) → %s", config.MODEL_QUANTIZED_PATH)
+    else:
+        os.replace(best_candidate["path"], config.MODEL_QUANTIZED_PATH)
+        logger.info(
+            "Saved best quantized model → %s (trial=%d, size=%.4f MB, accuracy=%.4f)",
+            config.MODEL_QUANTIZED_PATH,
+            best_candidate["trial"],
+            best_candidate["size_mb"],
+            best_candidate["accuracy"],
+        )
+
+    # Remove leftover trial files except the chosen output path.
+    for item in candidate_results:
+        trial_file = item["path"]
+        if trial_file != config.MODEL_QUANTIZED_PATH and os.path.exists(trial_file):
+            try:
+                os.remove(trial_file)
+            except OSError as exc:
+                logger.warning("Could not remove temp quantized file %s: %s", trial_file, exc)
 
     # 11. Save metadata (human-readable)
     metadata = {
@@ -260,6 +350,27 @@ def train() -> None:
         "test_recall_at1":       round(recall_at1, 4),
         "test_f1_macro":         round(report["macro avg"]["f1-score"], 4),
         "confidence_threshold":  config.CONFIDENCE_THRESHOLD,
+        "quantize_accuracy_tolerance": tolerance,
+        "quantize_candidates": quantize_candidates,
+        "quantize_trials": [
+            {
+                "trial": item["trial"],
+                "params": item["params"],
+                "size_bytes": item["size_bytes"],
+                "size_mb": item["size_mb"],
+                "accuracy": round(item["accuracy"], 4),
+                "passes_accuracy": item["passes_accuracy"],
+            }
+            for item in candidate_results
+        ],
+        "selected_quantized_model": {
+            "trial": best_candidate["trial"],
+            "params": best_candidate["params"],
+            "size_bytes": best_candidate["size_bytes"],
+            "size_mb": best_candidate["size_mb"],
+            "accuracy": None if np.isnan(best_candidate["accuracy"]) else round(best_candidate["accuracy"], 4),
+            "passes_accuracy": best_candidate["passes_accuracy"],
+        },
         "per_class_metrics": {
             cls: {
                 "precision": round(report[cls]["precision"], 4),
