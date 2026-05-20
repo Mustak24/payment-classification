@@ -1294,3 +1294,49 @@ Rs 500 payment received from Priya Singh from Paytm
 Payment of Rs 750 from Arjun Das successful
 Riya Nair paid Rs 3000 to your account
 UPI payment: Neha Gupta paid you Rs 700
+PhonePe: sent Rs 1 to you.
+You received Rs 1 on PhonePe.
+Rs 1 has been sent to you via PhonePe.
+sent Rs 1 to you on PhonePe
+PhonePe: sent Rs 1 to you
+Rs 1 sent to you via PhonePe
+sent Rs. 1 to you
+PhonePe: sent Rs. 1 to you
+sent Rs. 1 has been received into your account
+PhonePe: sent Rs. 1 to you on your behalf
+A payment of Rs. 1 was sent to you
+sent Rs. 1 to you via PhonePe
+Rs. 1 has been sent to you
+PhonePe: Rs. 1 credited to your account.
+PhonePe: ₹1 credited to your PhonePe wallet.
+Rs. 1 has been credited to your account via PhonePe.
+You received Rs. 1 from Amit on PhonePe.
+PhonePe alert: Rs. 1 received by you.
+Rs. 1 received from Priya via PhonePe.
+Payment received: Rs. 1 from Rahul on PhonePe.
+PhonePe: payment of Rs. 1 received in your account.
+Rs. 1 has been credited from PhonePe.
+PhonePe transfer received: Rs. 1.
+Money received: Rs. 1 from friend via PhonePe.
+PhonePe: ₹1 received successfully.
+Your account credited with Rs. 1 from PhonePe.
+Rs. 1 received to your account on PhonePe.
+PhonePe: amount Rs. 1 received successfully.
+You got Rs. 1 from PhonePe.
+PhonePe alert: Rs. 1 credited to bank account.
+Credit of Rs. 1 received from PhonePe.
+Rs. 1 received on PhonePe from UPI.
+PhonePe: Rs. 1 has been successfully credited.
+Rs. 1 received from your contact on PhonePe.
+PhonePe: Rs. 1 credited to A/c.
+PhonePe: amount Rs. 1 deposited into your wallet.
+You got Rs. 1 from Neha on PhonePe.
+Payment credited: Rs. 1 from PhonePe.
+Rs. 1 payment received into your account from PhonePe.
+PhonePe notification: Rs. 1 credited to your account.
+PhonePe: ₹1 received from UPI transfer.
+Received Rs. 1 from PhonePe transfer.
+Your PhonePe account got Rs. 1 credit.
+PhonePe: Rs. 1 credit posted to your account.
+Rs. 1 received on PhonePe from UPI transfer.
+PhonePe message: Rs. 1 credited in your account.

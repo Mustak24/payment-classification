@@ -451,3 +451,145 @@ weighted avg       1.00      1.00      1.00       816
 2026-05-05 18:59:58,390 [INFO] train — ============================================================
 2026-05-05 18:59:58,390 [INFO] train — Training complete. Test accuracy: 99.63%
 2026-05-05 18:59:58,390 [INFO] train — ============================================================
+2026-05-20 09:53:52,054 [INFO] train — ============================================================
+2026-05-20 09:53:52,055 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-20 09:53:52,055 [INFO] train — ============================================================
+2026-05-20 09:53:52,266 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-20 09:53:52,266 [INFO] train — Cleaning text...
+2026-05-20 09:53:52,436 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-20 09:53:52,443 [INFO] train — Train: 3268 | Test: 818
+2026-05-20 09:53:52,578 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3268 rows)
+2026-05-20 09:53:52,611 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (818 rows)
+2026-05-20 09:53:52,611 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-20 09:54:09,174 [INFO] train — FastText test metrics — N: 818 | P@1: 0.9951 | R@1: 0.9951
+2026-05-20 09:54:09,248 [INFO] train — Test Accuracy : 0.9951
+2026-05-20 09:54:09,249 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       0.99      1.00      0.99       261
+       DEBIT       1.00      0.99      0.99       259
+     UNKNOWN       1.00      1.00      1.00       298
+
+    accuracy                           1.00       818
+   macro avg       1.00      1.00      1.00       818
+weighted avg       1.00      1.00      1.00       818
+
+2026-05-20 09:54:09,430 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-20 09:54:10,398 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-20 09:54:11,890 [INFO] train — Quantization trial 1/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': False}
+2026-05-20 09:57:26,565 [INFO] train — Trial 1 result — size: 314.0555 MB | accuracy: 0.9878 | pass(no-drop): False
+2026-05-20 09:57:30,713 [INFO] train — Quantization trial 2/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 80000, 'dsub': 2}
+2026-05-20 09:58:25,689 [INFO] train — Trial 2 result — size: 6.9578 MB | accuracy: 0.9939 | pass(no-drop): False
+2026-05-20 09:58:26,985 [INFO] train — Quantization trial 3/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 50000, 'dsub': 4}
+2026-05-20 09:58:50,348 [INFO] train — Trial 3 result — size: 2.5034 MB | accuracy: 0.9951 | pass(no-drop): True
+2026-05-20 09:58:51,519 [INFO] train — Quantization trial 4/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 30000, 'dsub': 4}
+2026-05-20 09:59:06,746 [INFO] train — Trial 4 result — size: 1.5684 MB | accuracy: 0.9951 | pass(no-drop): True
+2026-05-20 09:59:06,750 [INFO] train — Saved best quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz (trial=4, size=1.5684 MB, accuracy=0.9951)
+2026-05-20 09:59:06,762 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-20 09:59:06,762 [INFO] train — ============================================================
+2026-05-20 09:59:06,763 [INFO] train — Training complete. Test accuracy: 99.51%
+2026-05-20 09:59:06,763 [INFO] train — ============================================================
+2026-05-20 10:00:31,321 [INFO] train — ============================================================
+2026-05-20 10:00:31,321 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-20 10:00:31,321 [INFO] train — ============================================================
+2026-05-20 10:00:31,432 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-20 10:00:31,432 [INFO] train — Cleaning text...
+2026-05-20 10:00:31,553 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-20 10:00:31,557 [INFO] train — Train: 3268 | Test: 818
+2026-05-20 10:00:31,653 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3268 rows)
+2026-05-20 10:00:31,678 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (818 rows)
+2026-05-20 10:00:31,678 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-20 10:00:45,442 [INFO] train — FastText test metrics — N: 818 | P@1: 0.9951 | R@1: 0.9951
+2026-05-20 10:00:45,482 [INFO] train — Test Accuracy : 0.9951
+2026-05-20 10:00:45,482 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       0.99      1.00      0.99       261
+       DEBIT       1.00      0.99      0.99       259
+     UNKNOWN       1.00      1.00      1.00       298
+
+    accuracy                           1.00       818
+   macro avg       1.00      1.00      1.00       818
+weighted avg       1.00      1.00      1.00       818
+
+2026-05-20 10:00:45,683 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-20 10:00:46,734 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-20 10:00:48,359 [INFO] train — Quantization trial 1/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': False}
+2026-05-20 10:04:01,912 [INFO] train — Trial 1 result — size: 333.6800 MB | accuracy: 0.9927 | pass(no-drop): False
+2026-05-20 10:04:05,594 [INFO] train — Quantization trial 2/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 80000, 'dsub': 2}
+2026-05-20 10:05:04,273 [INFO] train — Trial 2 result — size: 7.3478 MB | accuracy: 0.9951 | pass(no-drop): True
+2026-05-20 10:05:05,583 [INFO] train — Quantization trial 3/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 50000, 'dsub': 4}
+2026-05-20 10:05:30,475 [INFO] train — Trial 3 result — size: 2.6552 MB | accuracy: 0.9951 | pass(no-drop): True
+2026-05-20 10:05:31,711 [INFO] train — Quantization trial 4/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 30000, 'dsub': 4}
+2026-05-20 10:05:47,014 [INFO] train — Trial 4 result — size: 1.6628 MB | accuracy: 0.9951 | pass(no-drop): True
+2026-05-20 10:05:47,015 [INFO] train — Saved best quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz (trial=4, size=1.6628 MB, accuracy=0.9951)
+2026-05-20 10:05:47,026 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-20 10:05:47,026 [INFO] train — ============================================================
+2026-05-20 10:05:47,026 [INFO] train — Training complete. Test accuracy: 99.51%
+2026-05-20 10:05:47,026 [INFO] train — ============================================================
+2026-05-20 10:13:07,646 [INFO] train — ============================================================
+2026-05-20 10:13:07,646 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-20 10:13:07,646 [INFO] train — ============================================================
+2026-05-20 10:13:07,772 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-20 10:13:07,772 [INFO] train — Cleaning text...
+2026-05-20 10:13:07,926 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-20 10:13:07,930 [INFO] train — Train: 3328 | Test: 832
+2026-05-20 10:13:08,045 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3328 rows)
+2026-05-20 10:13:08,073 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (832 rows)
+2026-05-20 10:13:08,073 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-20 10:13:21,210 [INFO] train — FastText test metrics — N: 832 | P@1: 0.9964 | R@1: 0.9964
+2026-05-20 10:13:21,247 [INFO] train — Test Accuracy : 0.9964
+2026-05-20 10:13:21,248 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       268
+       DEBIT       0.99      1.00      0.99       266
+     UNKNOWN       1.00      1.00      1.00       298
+
+    accuracy                           1.00       832
+   macro avg       1.00      1.00      1.00       832
+weighted avg       1.00      1.00      1.00       832
+
+2026-05-20 10:13:21,420 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-20 10:13:38,967 [INFO] train — ============================================================
+2026-05-20 10:13:38,967 [INFO] train — SMS Classifier — FastText Training Pipeline
+2026-05-20 10:13:38,967 [INFO] train — ============================================================
+2026-05-20 10:13:39,096 [INFO] train — Class distribution plot saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/class_distribution.png
+2026-05-20 10:13:39,096 [INFO] train — Cleaning text...
+2026-05-20 10:13:39,231 [INFO] train — Classes: ['CREDIT', 'DEBIT', 'UNKNOWN']
+2026-05-20 10:13:39,234 [INFO] train — Train: 3328 | Test: 832
+2026-05-20 10:13:39,339 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt  (3328 rows)
+2026-05-20 10:13:39,365 [INFO] train — Wrote FastText file → /home/mustak24/Documents/Coding/Python/classification-model/models/test.ft.txt  (832 rows)
+2026-05-20 10:13:39,365 [INFO] train — Training with auto-tune (duration=10s)...
+2026-05-20 10:13:51,444 [INFO] train — FastText test metrics — N: 832 | P@1: 0.9964 | R@1: 0.9964
+2026-05-20 10:13:51,514 [INFO] train — Test Accuracy : 0.9964
+2026-05-20 10:13:51,515 [INFO] train — 
+Classification Report:
+              precision    recall  f1-score   support
+
+      CREDIT       1.00      1.00      1.00       268
+       DEBIT       0.99      1.00      0.99       266
+     UNKNOWN       1.00      1.00      1.00       298
+
+    accuracy                           1.00       832
+   macro avg       1.00      1.00      1.00       832
+weighted avg       1.00      1.00      1.00       832
+
+2026-05-20 10:13:51,733 [INFO] train — Confusion matrix saved → /home/mustak24/Documents/Coding/Python/classification-model/logs/confusion_matrix.png
+2026-05-20 10:13:52,506 [INFO] train — Saved full model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.bin
+2026-05-20 10:13:53,285 [INFO] train — Quantization trial 1/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': False}
+2026-05-20 10:15:46,111 [INFO] train — Trial 1 result — size: 180.6029 MB | accuracy: 0.9940 | pass(no-drop): False
+2026-05-20 10:15:46,752 [INFO] train — Quantization trial 2/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 80000, 'dsub': 2}
+2026-05-20 10:16:18,677 [INFO] train — Trial 2 result — size: 4.2934 MB | accuracy: 0.9964 | pass(no-drop): True
+2026-05-20 10:16:19,328 [INFO] train — Quantization trial 3/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 50000, 'dsub': 4}
+2026-05-20 10:16:33,459 [INFO] train — Trial 3 result — size: 1.6228 MB | accuracy: 0.9964 | pass(no-drop): True
+2026-05-20 10:16:34,161 [INFO] train — Quantization trial 4/4 with params: {'input': '/home/mustak24/Documents/Coding/Python/classification-model/models/train.ft.txt', 'retrain': True, 'qnorm': True, 'cutoff': 30000, 'dsub': 4}
+2026-05-20 10:16:42,919 [INFO] train — Trial 4 result — size: 1.0122 MB | accuracy: 0.9964 | pass(no-drop): True
+2026-05-20 10:16:42,973 [INFO] train — Saved best quantized model → /home/mustak24/Documents/Coding/Python/classification-model/models/classifier.ftz (trial=4, size=1.0122 MB, accuracy=0.9964)
+2026-05-20 10:16:42,982 [INFO] train — Metadata saved → /home/mustak24/Documents/Coding/Python/classification-model/models/metadata.json
+2026-05-20 10:16:42,982 [INFO] train — ============================================================
+2026-05-20 10:16:42,982 [INFO] train — Training complete. Test accuracy: 99.64%
+2026-05-20 10:16:42,982 [INFO] train — ============================================================

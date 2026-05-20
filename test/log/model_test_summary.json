@@ -1,20 +1,20 @@
 {
   "input_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/data",
   "output_dir": "/home/mustak24/Documents/Coding/Python/classification-model/test/log",
-  "total_samples": 214,
-  "correct_predictions": 208,
-  "accuracy": 0.972,
-  "uncertain_predictions": 4,
-  "uncertain_rate": 0.0187,
+  "total_samples": 8,
+  "correct_predictions": 5,
+  "accuracy": 0.625,
+  "uncertain_predictions": 0,
+  "uncertain_rate": 0.0,
   "per_label_accuracy": {
-    "CREDIT": 0.9583,
-    "DEBIT": 0.9718,
-    "UNKNOWN": 0.9859
+    "CREDIT": 0.0,
+    "DEBIT": 1.0,
+    "UNKNOWN": 1.0
   },
   "per_label_totals": {
-    "CREDIT": 72,
-    "DEBIT": 71,
-    "UNKNOWN": 71
+    "CREDIT": 3,
+    "DEBIT": 3,
+    "UNKNOWN": 2
   },
   "confusion_matrix_path": "/home/mustak24/Documents/Coding/Python/classification-model/test/log/model_test_confusion_matrix.png",
   "classes": [
@@ -23,41 +23,135 @@
     "UNKNOWN"
   ],
   "metadata": {
-    "trained_at": "2026-05-04T03:29:25.943734Z",
+    "trained_at": "2026-05-05T13:29:58.381022Z",
     "model_type": "fasttext",
     "classes": [
       "CREDIT",
       "DEBIT",
       "UNKNOWN"
     ],
-    "n_train": 3129,
-    "n_test": 783,
+    "n_train": 3261,
+    "n_test": 816,
     "autotune_enabled": true,
     "autotune_duration": 10,
     "fasttext_params": "auto",
-    "test_accuracy": 0.9974,
-    "test_precision_at1": 0.9974,
-    "test_recall_at1": 0.9974,
-    "test_f1_macro": 0.9973,
+    "test_accuracy": 0.9963,
+    "test_precision_at1": 0.9963,
+    "test_recall_at1": 0.9963,
+    "test_f1_macro": 0.9963,
     "confidence_threshold": 0.6,
+    "quantize_accuracy_tolerance": 0.0,
+    "quantize_candidates": [
+      {
+        "retrain": true,
+        "qnorm": false,
+        "cutoff": null,
+        "dsub": null
+      },
+      {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 80000,
+        "dsub": 2
+      },
+      {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 50000,
+        "dsub": 4
+      },
+      {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 30000,
+        "dsub": 4
+      }
+    ],
+    "quantize_trials": [
+      {
+        "trial": 1,
+        "params": {
+          "retrain": true,
+          "qnorm": false,
+          "cutoff": null,
+          "dsub": null
+        },
+        "size_bytes": 189376045,
+        "size_mb": 180.6031,
+        "accuracy": 0.9926,
+        "passes_accuracy": false
+      },
+      {
+        "trial": 2,
+        "params": {
+          "retrain": true,
+          "qnorm": true,
+          "cutoff": 80000,
+          "dsub": 2
+        },
+        "size_bytes": 4501918,
+        "size_mb": 4.2934,
+        "accuracy": 0.9963,
+        "passes_accuracy": true
+      },
+      {
+        "trial": 3,
+        "params": {
+          "retrain": true,
+          "qnorm": true,
+          "cutoff": 50000,
+          "dsub": 4
+        },
+        "size_bytes": 1701620,
+        "size_mb": 1.6228,
+        "accuracy": 0.9963,
+        "passes_accuracy": true
+      },
+      {
+        "trial": 4,
+        "params": {
+          "retrain": true,
+          "qnorm": true,
+          "cutoff": 30000,
+          "dsub": 4
+        },
+        "size_bytes": 1061395,
+        "size_mb": 1.0122,
+        "accuracy": 0.9963,
+        "passes_accuracy": true
+      }
+    ],
+    "selected_quantized_model": {
+      "trial": 4,
+      "params": {
+        "retrain": true,
+        "qnorm": true,
+        "cutoff": 30000,
+        "dsub": 4
+      },
+      "size_bytes": 1061395,
+      "size_mb": 1.0122,
+      "accuracy": 0.9963,
+      "passes_accuracy": true
+    },
     "per_class_metrics": {
       "CREDIT": {
-        "precision": 0.996,
-        "recall": 0.996,
-        "f1-score": 0.996,
-        "support": 248.0
+        "precision": 0.9961,
+        "recall": 0.9961,
+        "f1-score": 0.9961,
+        "support": 259.0
       },
       "DEBIT": {
-        "precision": 0.996,
-        "recall": 0.996,
-        "f1-score": 0.996,
-        "support": 248.0
+        "precision": 0.9961,
+        "recall": 0.9961,
+        "f1-score": 0.9961,
+        "support": 259.0
       },
       "UNKNOWN": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 287.0
+        "precision": 0.9966,
+        "recall": 0.9966,
+        "f1-score": 0.9966,
+        "support": 298.0
       }
     }
   }

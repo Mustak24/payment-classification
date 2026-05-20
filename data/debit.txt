@@ -1292,3 +1292,40 @@ Priya Singh received Rs 2000 from you
 You paid Amit Patel Rs150 from PhonePe
 Payment sent Rs 2000 to Sanjay Kumar via UPI
 Raj Kumar collect request accepted, you paid Rs 850
+PhonePe: you sent Rs 1 to Priya.
+You sent Rs 1 to Rahul on PhonePe.
+Payment of Rs 1 sent to Amit via PhonePe.
+PhonePe: Rs. 1 debited from your account.
+You paid Rs. 1 to Priya on PhonePe.
+Payment of Rs. 1 sent to Rahul via PhonePe.
+Rs. 1 sent to Amit on PhonePe.
+You sent Rs. 1 via PhonePe to Neha.
+Rs. 1 payment successful from your account on PhonePe.
+PhonePe alert: Rs. 1 paid to Anjali.
+₹1 paid by you through PhonePe.
+PhonePe: you paid Rs. 1 to the vendor.
+You have sent Rs. 1 from PhonePe.
+PhonePe: payment of Rs. 1 completed.
+Rs. 1 transferred to Akash on PhonePe.
+Payment of Rs. 1 successful to Rohit on PhonePe.
+PhonePe: you sent ₹1 to your contact.
+Rs. 1 paid on PhonePe from your account.
+Your PhonePe account debited Rs. 1.
+Payment sent: Rs. 1 to Rahul via PhonePe.
+PhonePe: ₹1 has been paid by you.
+Rs. 1 paid from your PhonePe wallet.
+PhonePe notification: Rs. 1 debited successfully.
+You made a payment of Rs. 1 via PhonePe.
+PhonePe: Rs. 1 paid to Suresh.
+₹1 paid to Anjali from PhonePe.
+Rs. 1 transferred from your account on PhonePe.
+Payment of Rs. 1 made to your friend on PhonePe.
+PhonePe: Rs. 1 withdrawn from your PhonePe balance.
+Rs. 1 paid to a merchant through PhonePe.
+PhonePe: you sent Rs. 1 to Vijay.
+Payment of Rs. 1 sent to Sunita from PhonePe.
+PhonePe: your account has paid Rs. 1.
+You paid Rs. 1 to Rahul via PhonePe.
+PhonePe: Rs. 1 debited for payment.
+You completed a Rs. 1 send on PhonePe.
+PhonePe: ₹1 payment from your account.

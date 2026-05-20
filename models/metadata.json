@@ -1,19 +1,19 @@
 {
-  "trained_at": "2026-05-05T13:29:58.381022Z",
+  "trained_at": "2026-05-20T04:46:42.981846Z",
   "model_type": "fasttext",
   "classes": [
     "CREDIT",
     "DEBIT",
     "UNKNOWN"
   ],
-  "n_train": 3261,
-  "n_test": 816,
+  "n_train": 3328,
+  "n_test": 832,
   "autotune_enabled": true,
   "autotune_duration": 10,
   "fasttext_params": "auto",
-  "test_accuracy": 0.9963,
-  "test_precision_at1": 0.9963,
-  "test_recall_at1": 0.9963,
+  "test_accuracy": 0.9964,
+  "test_precision_at1": 0.9964,
+  "test_recall_at1": 0.9964,
   "test_f1_macro": 0.9963,
   "confidence_threshold": 0.6,
   "quantize_accuracy_tolerance": 0.0,
@@ -52,9 +52,9 @@
         "cutoff": null,
         "dsub": null
       },
-      "size_bytes": 189376045,
-      "size_mb": 180.6031,
-      "accuracy": 0.9926,
+      "size_bytes": 189375844,
+      "size_mb": 180.6029,
+      "accuracy": 0.994,
       "passes_accuracy": false
     },
     {
@@ -65,9 +65,9 @@
         "cutoff": 80000,
         "dsub": 2
       },
-      "size_bytes": 4501918,
+      "size_bytes": 4501992,
       "size_mb": 4.2934,
-      "accuracy": 0.9963,
+      "accuracy": 0.9964,
       "passes_accuracy": true
     },
     {
@@ -78,9 +78,9 @@
         "cutoff": 50000,
         "dsub": 4
       },
-      "size_bytes": 1701620,
+      "size_bytes": 1701665,
       "size_mb": 1.6228,
-      "accuracy": 0.9963,
+      "accuracy": 0.9964,
       "passes_accuracy": true
     },
     {
@@ -91,9 +91,9 @@
         "cutoff": 30000,
         "dsub": 4
       },
-      "size_bytes": 1061395,
+      "size_bytes": 1061391,
       "size_mb": 1.0122,
-      "accuracy": 0.9963,
+      "accuracy": 0.9964,
       "passes_accuracy": true
     }
   ],
@@ -105,28 +105,28 @@
       "cutoff": 30000,
       "dsub": 4
     },
-    "size_bytes": 1061395,
+    "size_bytes": 1061391,
     "size_mb": 1.0122,
-    "accuracy": 0.9963,
+    "accuracy": 0.9964,
     "passes_accuracy": true
   },
   "per_class_metrics": {
     "CREDIT": {
-      "precision": 0.9961,
-      "recall": 0.9961,
-      "f1-score": 0.9961,
-      "support": 259.0
+      "precision": 0.9963,
+      "recall": 0.9963,
+      "f1-score": 0.9963,
+      "support": 268.0
     },
     "DEBIT": {
-      "precision": 0.9961,
-      "recall": 0.9961,
-      "f1-score": 0.9961,
-      "support": 259.0
+      "precision": 0.9925,
+      "recall": 0.9962,
+      "f1-score": 0.9944,
+      "support": 266.0
     },
     "UNKNOWN": {
-      "precision": 0.9966,
+      "precision": 1.0,
       "recall": 0.9966,
-      "f1-score": 0.9966,
+      "f1-score": 0.9983,
       "support": 298.0
     }
   }
